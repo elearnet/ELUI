@@ -40,8 +40,8 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "@types/react": "^ 19.2.1",
-    "react": " 19.2.1"
+    "@types/react": "^ 19.0.3",
+    "react": " 19.0.3"
   },
   "devDependencies": {
     "@fluentui-react-native/babel-config": "workspace:*",

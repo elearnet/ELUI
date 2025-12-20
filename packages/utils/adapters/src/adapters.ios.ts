@@ -24,6 +24,8 @@ const _viewMask: IFilterMask<IViewProps> = {
   accessibilityValue: true,
   accessibilityViewIsModal: true,
   accessible: true,
+  collapsable: true,
+  collapsableChildren: true,
   hasTVPreferredFocus: true,
   hitSlop: true,
   id: true,

@@ -7,9 +7,11 @@ workspace 'FluentTester.xcworkspace'
 
 # (pnpm-mode) react_native_path = "#{__dir__}/../node_modules/react-native"
 react_native_path = "#{__dir__}/../../../node_modules/react-native"
-
+# Pod::UI.puts "ENV[RCT_NEW_ARCH_ENABLED] begin :#{ENV["RCT_NEW_ARCH_ENABLED"]}".green
 use_test_app! do |target|
   target.app do
     platform :osx, '12'
   end
 end
+Pod::UI.puts "ENV[RCT_NEW_ARCH_ENABLED] end :#{ENV["RCT_NEW_ARCH_ENABLED"]}".green
+Pod::UI.puts "NewArchitectureHelper.new_arch_enabled :#{NewArchitectureHelper.new_arch_enabled}".green

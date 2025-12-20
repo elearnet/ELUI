@@ -32,7 +32,7 @@
     "macos": "rnx-cli run --platform macos",
     "prettier": "fluentui-scripts prettier",
     "prettier-fix": "fluentui-scripts prettier --fix true",
-    "start": "rnx-cli start",
+    "start": "rnx-cli start --reset-cache",
     "windows": "react-native run-windows --arch x64 --sln windows/FluentTester.sln"
   },
   "repository": {
@@ -89,18 +89,18 @@
     "@fortawesome/fontawesome-svg-core": "^6.2.0",
     "@fortawesome/free-solid-svg-icons": "^6.2.0",
     "@fortawesome/react-native-fontawesome": "^0.3.0",
-    "@office-iss/react-native-win32": "^0.78.0",
+    "@office-iss/react-native-win32": "^0.79.0",
     "@react-native-community/slider": "^4.5.7",
     "@react-native-menu/menu": "^0.7.3",
     "@react-native-picker/picker": "^2.7.0",
     "@types/node": "^22.0.0",
-    "@types/react": "~ 19.2.1",
+    "@types/react": "~ 19.0.3",
     "@warren-ms/react-native-icons": "^0.0.13",
-    "react": " 19.2.1",
-    "react-native": "^0.78.0",
-    "react-native-macos": "^0.78.0",
+    "react": " 19.0.3",
+    "react-native": "^0.79.0",
+    "react-native-macos": "^0.79.0",
     "react-native-svg": "^15.11.2",
-    "react-native-windows": "^0.78.0"
+    "react-native-windows": "^0.79.0"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
@@ -113,9 +113,9 @@
     "@react-native-community/cli": "^20.0.0",
     "@react-native-community/cli-platform-android": "^20.0.0",
     "@react-native-community/cli-platform-ios": "^20.0.0",
-    "@react-native/babel-preset": "^0.78.0",
-    "@react-native/metro-babel-transformer": "^0.78.0",
-    "@react-native/metro-config": "^0.78.0",
+    "@react-native/babel-preset": "^0.79.0",
+    "@react-native/metro-babel-transformer": "^0.79.0",
+    "@react-native/metro-config": "^0.79.0",
     "@rnx-kit/cli": "^0.18.14",
     "@rnx-kit/metro-config": "^2.1.0",
     "@rnx-kit/metro-resolver-symlinks": "^0.2.5",
@@ -128,7 +128,7 @@
     "metro-config": "^0.81.3",
     "react-native-svg-transformer": "^1.0.0",
     "react-native-test-app": "^4.1.4",
-    "react-test-renderer": " 19.2.1",
+    "react-test-renderer": " 19.0.3",
     "webdriverio": "^8.40.0"
   },
   "jest": {
@@ -188,7 +188,7 @@
         "@fluentui-react-native/scripts/configs/align-deps-preset.cjs"
       ],
       "requirements": [
-        "react-native@0.78"
+        "react-native@0.79"
       ],
       "capabilities": [
         "babel-preset-react-native",
