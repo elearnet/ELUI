@@ -1,0 +1,128 @@
+{
+  "name": "elui",
+  "version": "0.1.0",
+  "description": "for understanding how RN works under the hood",
+  "main": "./lib/module/index.js",
+  "types": "./lib/typescript/src/index.d.ts",
+  "exports": {
+    ".": {
+      "react-native": "src/index.tsx",
+      "source": "./src/index.tsx",
+      "types": "./lib/typescript/src/index.d.ts",
+      "default": "./lib/module/index.js"
+    },
+    "./package.json": "./package.json"
+  },
+  "react-native": "src/index.tsx",
+  "files": [
+    "src",
+    "lib",
+    "android",
+    "ios",
+    "cpp",
+    "*.podspec",
+    "react-native.config.js",
+    "!ios/build",
+    "!android/build",
+    "!android/gradle",
+    "!android/gradlew",
+    "!android/gradlew.bat",
+    "!android/local.properties",
+    "!**/__tests__",
+    "!**/__fixtures__",
+    "!**/__mocks__",
+    "!**/.*"
+  ],
+  "scripts": {
+    "clean": "del-cli android/build example/android/build example/android/app/build example/ios/build lib",
+    "prepare": "bob build",
+    "typecheck": "tsc"
+  },
+  "keywords": [
+    "react-native",
+    "ios",
+    "android"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elearnet/elui.git"
+  },
+  "author": "elearnet",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elearnet/elui/issues"
+  },
+  "homepage": "https://github.com/elearnet/elui#readme",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
+  "devDependencies": {
+    "@react-native-community/cli": "^20.0.0",
+    "@react-native/babel-preset": "0.79.1",
+    "@types/react": "^19.0.3",
+    "del-cli": "^6.0.0",
+    "react": "19.0.3",
+    "react-native": "^0.79.0",
+    "react-native-builder-bob": "^0.40.13",
+    "react-native-macos": "^0.79.0",
+    "react-native-windows": "^0.79.0",
+    "typescript": "5.0.4"
+  },
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
+  "peerDependenciesMeta": {
+    "react-native-macos": {
+      "optional": true
+    },
+    "react-native-windows": {
+      "optional": true
+    }
+  },
+  "react-native-builder-bob": {
+    "source": "src",
+    "output": "lib",
+    "targets": [
+      [
+        "module",
+        {
+          "esm": true
+        }
+      ],
+      [
+        "typescript",
+        {
+          "project": "tsconfig.build.json"
+        }
+      ]
+    ]
+  },
+  "codegenConfig": {
+    "name": "ELUISpec",
+    "type": "all",
+    "jsSrcsDir": "src",
+    "android": {
+      "javaPackageName": "com.elui"
+    },
+    "ios": {
+      "components": {
+        "FbrViewExample": {
+          "className": "FbrViewExample1"
+        },
+        "SysIcon": {
+          "className": "SysIcon"
+        },
+        "InvertedCorner": {
+          "className": "InvertedCorner"
+        }
+      }
+    }
+  },
+  "create-react-native-library": {
+    "languages": "kotlin-objc",
+    "type": "turbo-module",
+    "tools": [],
+    "version": "0.55.1"
+  }
+}
