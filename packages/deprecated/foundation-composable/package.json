@@ -1,5 +1,5 @@
 {
-  "name": "@uifabricshared/foundation-composable",
+  "name": "@eluifabricshared/foundation-composable",
   "version": "0.13.11",
   "description": "Composable component building blocks",
   "repository": {
@@ -36,7 +36,7 @@
   "license": "MIT",
   "dependencies": {
     "@elui-react-native/framework-base": "workspace:*",
-    "@uifabricshared/foundation-settings": "workspace:*"
+    "@eluifabricshared/foundation-settings": "workspace:*"
   },
   "devDependencies": {
     "@elui-react-native/babel-config": "workspace:*",

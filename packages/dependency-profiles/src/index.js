@@ -114,36 +114,36 @@ module.exports = {
       "name": "@elui-react-native/text",
       "version": "0.24.21"
     },
-    "@uifabricshared/foundation-composable": {
-      "name": "@uifabricshared/foundation-composable",
+    "@eluifabricshared/foundation-composable": {
+      "name": "@eluifabricshared/foundation-composable",
       "version": "0.13.11"
     },
-    "@uifabricshared/foundation-compose": {
-      "name": "@uifabricshared/foundation-compose",
+    "@eluifabricshared/foundation-compose": {
+      "name": "@eluifabricshared/foundation-compose",
       "version": "1.15.17"
     },
-    "@uifabricshared/foundation-settings": {
-      "name": "@uifabricshared/foundation-settings",
+    "@eluifabricshared/foundation-settings": {
+      "name": "@eluifabricshared/foundation-settings",
       "version": "0.15.11"
     },
-    "@uifabricshared/foundation-tokens": {
-      "name": "@uifabricshared/foundation-tokens",
+    "@eluifabricshared/foundation-tokens": {
+      "name": "@eluifabricshared/foundation-tokens",
       "version": "0.15.17"
     },
-    "@uifabricshared/theme-registry": {
-      "name": "@uifabricshared/theme-registry",
+    "@eluifabricshared/theme-registry": {
+      "name": "@eluifabricshared/theme-registry",
       "version": "0.12.10"
     },
-    "@uifabricshared/themed-settings": {
-      "name": "@uifabricshared/themed-settings",
+    "@eluifabricshared/themed-settings": {
+      "name": "@eluifabricshared/themed-settings",
       "version": "0.12.11"
     },
-    "@uifabricshared/theming-ramp": {
-      "name": "@uifabricshared/theming-ramp",
+    "@eluifabricshared/theming-ramp": {
+      "name": "@eluifabricshared/theming-ramp",
       "version": "0.20.17"
     },
-    "@uifabricshared/theming-react-native": {
-      "name": "@uifabricshared/theming-react-native",
+    "@eluifabricshared/theming-react-native": {
+      "name": "@eluifabricshared/theming-react-native",
       "version": "0.20.20"
     },
     "@elui-react-native/experimental-activity-indicator": {
@@ -428,36 +428,36 @@ module.exports = {
       "name": "@elui-react-native/text",
       "version": "0.24.6"
     },
-    "@uifabricshared/foundation-composable": {
-      "name": "@uifabricshared/foundation-composable",
+    "@eluifabricshared/foundation-composable": {
+      "name": "@eluifabricshared/foundation-composable",
       "version": "0.13.1"
     },
-    "@uifabricshared/foundation-compose": {
-      "name": "@uifabricshared/foundation-compose",
+    "@eluifabricshared/foundation-compose": {
+      "name": "@eluifabricshared/foundation-compose",
       "version": "1.15.2"
     },
-    "@uifabricshared/foundation-settings": {
-      "name": "@uifabricshared/foundation-settings",
+    "@eluifabricshared/foundation-settings": {
+      "name": "@eluifabricshared/foundation-settings",
       "version": "0.15.1"
     },
-    "@uifabricshared/foundation-tokens": {
-      "name": "@uifabricshared/foundation-tokens",
+    "@eluifabricshared/foundation-tokens": {
+      "name": "@eluifabricshared/foundation-tokens",
       "version": "0.15.2"
     },
-    "@uifabricshared/theme-registry": {
-      "name": "@uifabricshared/theme-registry",
+    "@eluifabricshared/theme-registry": {
+      "name": "@eluifabricshared/theme-registry",
       "version": "0.12.0"
     },
-    "@uifabricshared/themed-settings": {
-      "name": "@uifabricshared/themed-settings",
+    "@eluifabricshared/themed-settings": {
+      "name": "@eluifabricshared/themed-settings",
       "version": "0.12.1"
     },
-    "@uifabricshared/theming-ramp": {
-      "name": "@uifabricshared/theming-ramp",
+    "@eluifabricshared/theming-ramp": {
+      "name": "@eluifabricshared/theming-ramp",
       "version": "0.20.2"
     },
-    "@uifabricshared/theming-react-native": {
-      "name": "@uifabricshared/theming-react-native",
+    "@eluifabricshared/theming-react-native": {
+      "name": "@eluifabricshared/theming-react-native",
       "version": "0.20.5"
     },
     "@elui-react-native/experimental-activity-indicator": {
@@ -738,7 +738,7 @@ module.exports = {
       "name": "@elui-react-native/text",
       "version": "0.22.14"
     },
-    "@uifabricshared/foundation-composable": {
+    "@eluifabricshared/foundation-composable": {
       "name": "@uifabricshared/foundation-composable",
       "version": "0.12.5"
     },

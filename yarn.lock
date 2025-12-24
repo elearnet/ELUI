@@ -2112,6 +2112,9 @@ __metadata:
     "@elui-react-native/theming-utils": "workspace:*"
     "@elui-react-native/tokens": "workspace:*"
     "@elui-react-native/use-styling": "workspace:*"
+    "@eluifabricshared/foundation-composable": "workspace:*"
+    "@eluifabricshared/foundation-compose": "workspace:*"
+    "@eluifabricshared/foundation-settings": "workspace:*"
     "@office-iss/react-native-win32": "npm:^0.79.0"
     "@react-native-community/cli": "npm:^20.0.0"
     "@react-native-community/cli-platform-android": "npm:^20.0.0"
@@ -2119,9 +2122,6 @@ __metadata:
     "@react-native/babel-preset": "npm:^0.79.0"
     "@react-native/metro-config": "npm:^0.79.0"
     "@types/react": "npm:~ 19.0.3"
-    "@uifabricshared/foundation-composable": "workspace:*"
-    "@uifabricshared/foundation-compose": "workspace:*"
-    "@uifabricshared/foundation-settings": "workspace:*"
     react: "npm: 19.0.3"
     react-native: "npm:^0.79.0"
     react-native-macos: "npm:^0.79.0"
@@ -2156,6 +2156,9 @@ __metadata:
     "@elui-react-native/jest-config": "workspace:*"
     "@elui-react-native/scripts": "workspace:*"
     "@elui-react-native/tokens": "workspace:*"
+    "@eluifabricshared/foundation-composable": "workspace:*"
+    "@eluifabricshared/foundation-compose": "workspace:*"
+    "@eluifabricshared/foundation-settings": "workspace:*"
     "@office-iss/react-native-win32": "npm:^0.79.0"
     "@react-native-community/cli": "npm:^20.0.0"
     "@react-native-community/cli-platform-android": "npm:^20.0.0"
@@ -2163,9 +2166,6 @@ __metadata:
     "@react-native/babel-preset": "npm:^0.79.0"
     "@react-native/metro-config": "npm:^0.79.0"
     "@types/react": "npm:~ 19.0.3"
-    "@uifabricshared/foundation-composable": "workspace:*"
-    "@uifabricshared/foundation-compose": "workspace:*"
-    "@uifabricshared/foundation-settings": "workspace:*"
     react: "npm: 19.0.3"
     react-native: "npm:^0.79.0"
     react-native-macos: "npm:^0.79.0"
@@ -2207,6 +2207,9 @@ __metadata:
     "@elui-react-native/theming-utils": "workspace:*"
     "@elui-react-native/tokens": "workspace:*"
     "@elui-react-native/use-styling": "workspace:*"
+    "@eluifabricshared/foundation-composable": "workspace:*"
+    "@eluifabricshared/foundation-compose": "workspace:*"
+    "@eluifabricshared/foundation-settings": "workspace:*"
     "@office-iss/react-native-win32": "npm:^0.79.0"
     "@react-native-community/cli": "npm:^20.0.0"
     "@react-native-community/cli-platform-android": "npm:^20.0.0"
@@ -2215,9 +2218,6 @@ __metadata:
     "@react-native/metro-config": "npm:^0.79.0"
     "@types/react": "npm:~ 19.0.3"
     "@types/react-test-renderer": "npm:^ 19.1.0"
-    "@uifabricshared/foundation-composable": "workspace:*"
-    "@uifabricshared/foundation-compose": "workspace:*"
-    "@uifabricshared/foundation-settings": "workspace:*"
     react: "npm: 19.0.3"
     react-native: "npm:^0.79.0"
     react-native-macos: "npm:^0.79.0"
@@ -2354,6 +2354,9 @@ __metadata:
     "@elui-react-native/scripts": "workspace:*"
     "@elui-react-native/text": "workspace:*"
     "@elui-react-native/tokens": "workspace:*"
+    "@eluifabricshared/foundation-composable": "workspace:*"
+    "@eluifabricshared/foundation-compose": "workspace:*"
+    "@eluifabricshared/foundation-settings": "workspace:*"
     "@office-iss/react-native-win32": "npm:^0.79.0"
     "@react-native-community/cli": "npm:^20.0.0"
     "@react-native-community/cli-platform-android": "npm:^20.0.0"
@@ -2362,9 +2365,6 @@ __metadata:
     "@react-native/metro-config": "npm:^0.79.0"
     "@types/react": "npm:~ 19.0.3"
     "@types/react-test-renderer": "npm:^ 19.1.0"
-    "@uifabricshared/foundation-composable": "workspace:*"
-    "@uifabricshared/foundation-compose": "workspace:*"
-    "@uifabricshared/foundation-settings": "workspace:*"
     react: "npm: 19.0.3"
     react-native: "npm:^0.79.0"
     react-native-macos: "npm:^0.79.0"
@@ -2499,16 +2499,16 @@ __metadata:
     "@elui-react-native/use-tokens": "npm:*"
     "@elui-react-native/win32-theme": "npm:*"
     "@elui/react-native": "npm:*"
+    "@eluifabricshared/foundation-composable": "npm:*"
+    "@eluifabricshared/foundation-compose": "npm:*"
+    "@eluifabricshared/foundation-settings": "npm:*"
+    "@eluifabricshared/foundation-tokens": "npm:*"
+    "@eluifabricshared/theme-registry": "npm:*"
+    "@eluifabricshared/themed-settings": "npm:*"
+    "@eluifabricshared/theming-ramp": "npm:*"
+    "@eluifabricshared/theming-react-native": "npm:*"
     "@office-iss/react-native-win32": "npm:^0.79.0"
     "@types/react": "npm:~ 19.0.3"
-    "@uifabricshared/foundation-composable": "npm:*"
-    "@uifabricshared/foundation-compose": "npm:*"
-    "@uifabricshared/foundation-settings": "npm:*"
-    "@uifabricshared/foundation-tokens": "npm:*"
-    "@uifabricshared/theme-registry": "npm:*"
-    "@uifabricshared/themed-settings": "npm:*"
-    "@uifabricshared/theming-ramp": "npm:*"
-    "@uifabricshared/theming-react-native": "npm:*"
     react: "npm: 19.0.3"
     react-native: "npm:^0.79.0"
     react-native-macos: "npm:^0.79.0"
@@ -3126,6 +3126,8 @@ __metadata:
     "@elui-react-native/interactive-hooks": "workspace:*"
     "@elui-react-native/jest-config": "workspace:*"
     "@elui-react-native/scripts": "workspace:*"
+    "@eluifabricshared/foundation-composable": "workspace:*"
+    "@eluifabricshared/foundation-settings": "workspace:*"
     "@office-iss/react-native-win32": "npm:^0.79.0"
     "@react-native-community/cli": "npm:^20.0.0"
     "@react-native-community/cli-platform-android": "npm:^20.0.0"
@@ -3134,8 +3136,6 @@ __metadata:
     "@react-native/metro-config": "npm:^0.79.0"
     "@types/react": "npm:~ 19.0.3"
     "@types/react-test-renderer": "npm:^ 19.1.0"
-    "@uifabricshared/foundation-composable": "workspace:*"
-    "@uifabricshared/foundation-settings": "workspace:*"
     react: "npm: 19.0.3"
     react-native: "npm:^0.79.0"
     react-native-macos: "npm:^0.79.0"
@@ -3168,6 +3168,8 @@ __metadata:
     "@elui-react-native/interactive-hooks": "workspace:*"
     "@elui-react-native/jest-config": "workspace:*"
     "@elui-react-native/scripts": "workspace:*"
+    "@eluifabricshared/foundation-composable": "workspace:*"
+    "@eluifabricshared/foundation-settings": "workspace:*"
     "@office-iss/react-native-win32": "npm:^0.79.0"
     "@react-native-community/cli": "npm:^20.0.0"
     "@react-native-community/cli-platform-android": "npm:^20.0.0"
@@ -3176,8 +3178,6 @@ __metadata:
     "@react-native/metro-config": "npm:^0.79.0"
     "@types/react": "npm:~ 19.0.3"
     "@types/react-test-renderer": "npm:^ 19.1.0"
-    "@uifabricshared/foundation-composable": "workspace:*"
-    "@uifabricshared/foundation-settings": "workspace:*"
     react: "npm: 19.0.3"
     react-native: "npm:^0.79.0"
     react-native-macos: "npm:^0.79.0"
@@ -3443,6 +3443,9 @@ __metadata:
     "@elui-react-native/text": "workspace:*"
     "@elui-react-native/tokens": "workspace:*"
     "@elui-react-native/use-styling": "workspace:*"
+    "@eluifabricshared/foundation-composable": "workspace:*"
+    "@eluifabricshared/foundation-compose": "workspace:*"
+    "@eluifabricshared/foundation-settings": "workspace:*"
     "@office-iss/react-native-win32": "npm:^0.79.0"
     "@react-native-community/cli": "npm:^20.0.0"
     "@react-native-community/cli-platform-android": "npm:^20.0.0"
@@ -3451,9 +3454,6 @@ __metadata:
     "@react-native/metro-config": "npm:^0.79.0"
     "@types/react": "npm:~ 19.0.3"
     "@types/react-test-renderer": "npm:^ 19.1.0"
-    "@uifabricshared/foundation-composable": "workspace:*"
-    "@uifabricshared/foundation-compose": "workspace:*"
-    "@uifabricshared/foundation-settings": "workspace:*"
     react: "npm: 19.0.3"
     react-native: "npm:^0.79.0"
     react-native-macos: "npm:^0.79.0"
@@ -3502,6 +3502,9 @@ __metadata:
     "@elui-react-native/jest-config": "workspace:*"
     "@elui-react-native/scripts": "workspace:*"
     "@elui-react-native/tokens": "workspace:*"
+    "@eluifabricshared/foundation-composable": "workspace:*"
+    "@eluifabricshared/foundation-compose": "workspace:*"
+    "@eluifabricshared/foundation-settings": "workspace:*"
     "@office-iss/react-native-win32": "npm:^0.79.0"
     "@react-native-community/cli": "npm:^20.0.0"
     "@react-native-community/cli-platform-android": "npm:^20.0.0"
@@ -3510,9 +3513,6 @@ __metadata:
     "@react-native/metro-config": "npm:^0.79.0"
     "@types/react": "npm:~ 19.0.3"
     "@types/react-test-renderer": "npm:^ 19.1.0"
-    "@uifabricshared/foundation-composable": "workspace:*"
-    "@uifabricshared/foundation-compose": "workspace:*"
-    "@uifabricshared/foundation-settings": "workspace:*"
     react: "npm: 19.0.3"
     react-native: "npm:^0.79.0"
     react-native-macos: "npm:^0.79.0"
@@ -3722,6 +3722,10 @@ __metadata:
     "@elui-react-native/scripts": "workspace:*"
     "@elui-react-native/theme-tokens": "workspace:*"
     "@elui-react-native/tokens": "workspace:*"
+    "@eluifabricshared/foundation-composable": "workspace:*"
+    "@eluifabricshared/foundation-compose": "workspace:*"
+    "@eluifabricshared/foundation-settings": "workspace:*"
+    "@eluifabricshared/foundation-tokens": "workspace:*"
     "@office-iss/react-native-win32": "npm:^0.79.0"
     "@react-native-community/cli": "npm:^20.0.0"
     "@react-native-community/cli-platform-android": "npm:^20.0.0"
@@ -3729,10 +3733,6 @@ __metadata:
     "@react-native/babel-preset": "npm:^0.79.0"
     "@react-native/metro-config": "npm:^0.79.0"
     "@types/react": "npm:~ 19.0.3"
-    "@uifabricshared/foundation-composable": "workspace:*"
-    "@uifabricshared/foundation-compose": "workspace:*"
-    "@uifabricshared/foundation-settings": "workspace:*"
-    "@uifabricshared/foundation-tokens": "workspace:*"
     react: "npm: 19.0.3"
     react-native: "npm:^0.79.0"
     react-native-macos: "npm:^0.79.0"
@@ -3765,6 +3765,10 @@ __metadata:
     "@elui-react-native/persona-coin": "workspace:*"
     "@elui-react-native/scripts": "workspace:*"
     "@elui-react-native/tokens": "workspace:*"
+    "@eluifabricshared/foundation-composable": "workspace:*"
+    "@eluifabricshared/foundation-compose": "workspace:*"
+    "@eluifabricshared/foundation-settings": "workspace:*"
+    "@eluifabricshared/foundation-tokens": "workspace:*"
     "@office-iss/react-native-win32": "npm:^0.79.0"
     "@react-native-community/cli": "npm:^20.0.0"
     "@react-native-community/cli-platform-android": "npm:^20.0.0"
@@ -3772,10 +3776,6 @@ __metadata:
     "@react-native/babel-preset": "npm:^0.79.0"
     "@react-native/metro-config": "npm:^0.79.0"
     "@types/react": "npm:~ 19.0.3"
-    "@uifabricshared/foundation-composable": "workspace:*"
-    "@uifabricshared/foundation-compose": "workspace:*"
-    "@uifabricshared/foundation-settings": "workspace:*"
-    "@uifabricshared/foundation-tokens": "workspace:*"
     react: "npm: 19.0.3"
     react-native: "npm:^0.79.0"
     react-native-macos: "npm:^0.79.0"
@@ -3843,6 +3843,8 @@ __metadata:
     "@elui-react-native/eslint-config-rules": "workspace:*"
     "@elui-react-native/interactive-hooks": "workspace:*"
     "@elui-react-native/scripts": "workspace:*"
+    "@eluifabricshared/foundation-composable": "workspace:*"
+    "@eluifabricshared/foundation-settings": "workspace:*"
     "@office-iss/react-native-win32": "npm:^0.79.0"
     "@react-native-community/cli": "npm:^20.0.0"
     "@react-native-community/cli-platform-android": "npm:^20.0.0"
@@ -3850,8 +3852,6 @@ __metadata:
     "@react-native/babel-preset": "npm:^0.79.0"
     "@react-native/metro-config": "npm:^0.79.0"
     "@types/react": "npm:~ 19.0.3"
-    "@uifabricshared/foundation-composable": "workspace:*"
-    "@uifabricshared/foundation-settings": "workspace:*"
     react: "npm: 19.0.3"
     react-native: "npm:^0.79.0"
     react-native-macos: "npm:^0.79.0"
@@ -3891,6 +3891,9 @@ __metadata:
     "@elui-react-native/theme-tokens": "workspace:*"
     "@elui-react-native/tokens": "workspace:*"
     "@elui-react-native/use-styling": "workspace:*"
+    "@eluifabricshared/foundation-composable": "workspace:*"
+    "@eluifabricshared/foundation-compose": "workspace:*"
+    "@eluifabricshared/foundation-settings": "workspace:*"
     "@office-iss/react-native-win32": "npm:^0.79.0"
     "@react-native-community/cli": "npm:^20.0.0"
     "@react-native-community/cli-platform-android": "npm:^20.0.0"
@@ -3899,9 +3902,6 @@ __metadata:
     "@react-native/metro-config": "npm:^0.79.0"
     "@types/react": "npm:~ 19.0.3"
     "@types/react-test-renderer": "npm:^ 19.1.0"
-    "@uifabricshared/foundation-composable": "workspace:*"
-    "@uifabricshared/foundation-compose": "workspace:*"
-    "@uifabricshared/foundation-settings": "workspace:*"
     react: "npm: 19.0.3"
     react-native: "npm:^0.79.0"
     react-native-macos: "npm:^0.79.0"
@@ -4090,6 +4090,10 @@ __metadata:
     "@elui-react-native/scripts": "workspace:*"
     "@elui-react-native/text": "workspace:*"
     "@elui-react-native/tokens": "workspace:*"
+    "@eluifabricshared/foundation-composable": "workspace:*"
+    "@eluifabricshared/foundation-compose": "workspace:*"
+    "@eluifabricshared/foundation-settings": "workspace:*"
+    "@eluifabricshared/foundation-tokens": "workspace:*"
     "@office-iss/react-native-win32": "npm:^0.79.0"
     "@react-native-community/cli": "npm:^20.0.0"
     "@react-native-community/cli-platform-android": "npm:^20.0.0"
@@ -4098,10 +4102,6 @@ __metadata:
     "@react-native/metro-config": "npm:^0.79.0"
     "@types/react": "npm:~ 19.0.3"
     "@types/react-test-renderer": "npm:^ 19.1.0"
-    "@uifabricshared/foundation-composable": "workspace:*"
-    "@uifabricshared/foundation-compose": "workspace:*"
-    "@uifabricshared/foundation-settings": "workspace:*"
-    "@uifabricshared/foundation-tokens": "workspace:*"
     react: "npm: 19.0.3"
     react-native: "npm:^0.79.0"
     react-native-macos: "npm:^0.79.0"
@@ -4409,6 +4409,7 @@ __metadata:
     "@elui-react-native/test-tools": "workspace:*"
     "@elui-react-native/theme-tokens": "workspace:*"
     "@elui-react-native/tokens": "workspace:*"
+    "@eluifabricshared/foundation-compose": "workspace:*"
     "@office-iss/react-native-win32": "npm:^0.79.0"
     "@react-native-community/cli": "npm:^20.0.0"
     "@react-native-community/cli-platform-android": "npm:^20.0.0"
@@ -4417,7 +4418,6 @@ __metadata:
     "@react-native/metro-config": "npm:^0.79.0"
     "@types/react": "npm:~ 19.0.3"
     "@types/react-test-renderer": "npm:^ 19.1.0"
-    "@uifabricshared/foundation-compose": "workspace:*"
     react: "npm: 19.0.3"
     react-native: "npm:^0.79.0"
     react-native-macos: "npm:^0.79.0"
@@ -4887,6 +4887,253 @@ __metadata:
     react-native: ^0.73.0 || ^0.74.0 || ^0.75.0 || ^0.76.0 || ^0.77.0 || ^0.78.0 || ^0.79.0
     react-native-macos: ^0.73.0 || ^0.74.0 || ^0.75.0 || ^0.76.0 || ^0.77.0 || ^0.78.0 || ^0.79.0
     react-native-svg: ^15.0.0 || ^15.4.0 || ^15.6.0 || ^15.8.0 || ^15.11.1 || ^15.11.2
+    react-native-windows: ^0.73.0 || ^0.74.0 || ^0.75.0 || ^0.76.0 || ^0.77.0 || ^0.78.0 || ^0.79.0
+  peerDependenciesMeta:
+    "@office-iss/react-native-win32":
+      optional: true
+    react-native-macos:
+      optional: true
+    react-native-windows:
+      optional: true
+  languageName: unknown
+  linkType: soft
+
+"@eluifabricshared/foundation-composable@npm:*, @eluifabricshared/foundation-composable@workspace:*, @eluifabricshared/foundation-composable@workspace:packages/deprecated/foundation-composable":
+  version: 0.0.0-use.local
+  resolution: "@eluifabricshared/foundation-composable@workspace:packages/deprecated/foundation-composable"
+  dependencies:
+    "@elui-react-native/babel-config": "workspace:*"
+    "@elui-react-native/eslint-config-rules": "workspace:*"
+    "@elui-react-native/framework-base": "workspace:*"
+    "@elui-react-native/scripts": "workspace:*"
+    "@eluifabricshared/foundation-settings": "workspace:*"
+    "@react-native-community/cli": "npm:^20.0.0"
+    "@react-native-community/cli-platform-android": "npm:^20.0.0"
+    "@react-native-community/cli-platform-ios": "npm:^20.0.0"
+    "@react-native/metro-config": "npm:^0.79.0"
+    "@types/jest": "npm:^29.0.0"
+    "@types/react": "npm:~ 19.0.3"
+    react: "npm: 19.0.3"
+    react-native: "npm:^0.79.0"
+  peerDependencies:
+    react: 18.2.0 || ^18.2.0 || 18.3.1 ||  19.0.3
+    react-native: ^0.73.0 || ^0.74.0 || ^0.75.0 || ^0.76.0 || ^0.77.0 || ^0.78.0 || ^0.79.0
+  languageName: unknown
+  linkType: soft
+
+"@eluifabricshared/foundation-compose@npm:*, @eluifabricshared/foundation-compose@workspace:*, @eluifabricshared/foundation-compose@workspace:packages/deprecated/foundation-compose":
+  version: 0.0.0-use.local
+  resolution: "@eluifabricshared/foundation-compose@workspace:packages/deprecated/foundation-compose"
+  dependencies:
+    "@elui-react-native/babel-config": "workspace:*"
+    "@elui-react-native/default-theme": "workspace:*"
+    "@elui-react-native/eslint-config-rules": "workspace:*"
+    "@elui-react-native/framework-base": "workspace:*"
+    "@elui-react-native/scripts": "workspace:*"
+    "@elui-react-native/theme-types": "workspace:*"
+    "@eluifabricshared/foundation-composable": "workspace:*"
+    "@eluifabricshared/foundation-settings": "workspace:*"
+    "@eluifabricshared/foundation-tokens": "workspace:*"
+    "@eluifabricshared/themed-settings": "workspace:*"
+    "@eluifabricshared/theming-ramp": "workspace:*"
+    "@office-iss/react-native-win32": "npm:^0.79.0"
+    "@react-native-community/cli": "npm:^20.0.0"
+    "@react-native-community/cli-platform-android": "npm:^20.0.0"
+    "@react-native-community/cli-platform-ios": "npm:^20.0.0"
+    "@react-native/metro-config": "npm:^0.79.0"
+    "@types/react": "npm:~ 19.0.3"
+    react: "npm: 19.0.3"
+    react-native: "npm:^0.79.0"
+    react-native-macos: "npm:^0.79.0"
+    react-native-windows: "npm:^0.79.0"
+  peerDependencies:
+    "@office-iss/react-native-win32": ^0.73.0 || ^0.74.0 || ^0.75.0 || ^0.76.0 || ^0.77.0 || ^0.78.0 || ^0.79.0
+    react: 18.2.0 || ^18.2.0 || 18.3.1 ||  19.0.3
+    react-native: ^0.73.0 || ^0.74.0 || ^0.75.0 || ^0.76.0 || ^0.77.0 || ^0.78.0 || ^0.79.0
+    react-native-macos: ^0.73.0 || ^0.74.0 || ^0.75.0 || ^0.76.0 || ^0.77.0 || ^0.78.0 || ^0.79.0
+    react-native-windows: ^0.73.0 || ^0.74.0 || ^0.75.0 || ^0.76.0 || ^0.77.0 || ^0.78.0 || ^0.79.0
+  peerDependenciesMeta:
+    "@office-iss/react-native-win32":
+      optional: true
+    react-native-macos:
+      optional: true
+    react-native-windows:
+      optional: true
+  languageName: unknown
+  linkType: soft
+
+"@eluifabricshared/foundation-settings@npm:*, @eluifabricshared/foundation-settings@workspace:*, @eluifabricshared/foundation-settings@workspace:packages/deprecated/foundation-settings":
+  version: 0.0.0-use.local
+  resolution: "@eluifabricshared/foundation-settings@workspace:packages/deprecated/foundation-settings"
+  dependencies:
+    "@babel/core": "npm:^7.20.0"
+    "@elui-react-native/babel-config": "workspace:*"
+    "@elui-react-native/eslint-config-rules": "workspace:*"
+    "@elui-react-native/framework-base": "workspace:*"
+    "@elui-react-native/jest-config": "workspace:*"
+    "@elui-react-native/scripts": "workspace:*"
+    "@react-native-community/cli": "npm:^20.0.0"
+    "@react-native-community/cli-platform-android": "npm:^20.0.0"
+    "@react-native-community/cli-platform-ios": "npm:^20.0.0"
+    "@react-native/babel-preset": "npm:^0.79.0"
+    "@react-native/metro-config": "npm:^0.79.0"
+    "@types/jest": "npm:^29.0.0"
+    react: "npm: 19.0.3"
+    react-native: "npm:^0.79.0"
+  peerDependencies:
+    react: 18.2.0 || ^18.2.0 || 18.3.1 ||  19.0.3
+    react-native: ^0.73.0 || ^0.74.0 || ^0.75.0 || ^0.76.0 || ^0.77.0 || ^0.78.0 || ^0.79.0
+  languageName: unknown
+  linkType: soft
+
+"@eluifabricshared/foundation-tokens@npm:*, @eluifabricshared/foundation-tokens@workspace:*, @eluifabricshared/foundation-tokens@workspace:packages/deprecated/foundation-tokens":
+  version: 0.0.0-use.local
+  resolution: "@eluifabricshared/foundation-tokens@workspace:packages/deprecated/foundation-tokens"
+  dependencies:
+    "@babel/core": "npm:^7.20.0"
+    "@elui-react-native/babel-config": "workspace:*"
+    "@elui-react-native/eslint-config-rules": "workspace:*"
+    "@elui-react-native/framework-base": "workspace:*"
+    "@elui-react-native/jest-config": "workspace:*"
+    "@elui-react-native/scripts": "workspace:*"
+    "@elui-react-native/tokens": "workspace:*"
+    "@eluifabricshared/foundation-settings": "workspace:*"
+    "@office-iss/react-native-win32": "npm:^0.79.0"
+    "@react-native-community/cli": "npm:^20.0.0"
+    "@react-native-community/cli-platform-android": "npm:^20.0.0"
+    "@react-native-community/cli-platform-ios": "npm:^20.0.0"
+    "@react-native/babel-preset": "npm:^0.79.0"
+    "@react-native/metro-config": "npm:^0.79.0"
+    "@types/jest": "npm:^29.0.0"
+    "@types/node": "npm:^22.0.0"
+    "@types/react": "npm:~ 19.0.3"
+    react: "npm: 19.0.3"
+    react-native: "npm:^0.79.0"
+    react-native-macos: "npm:^0.79.0"
+    react-native-windows: "npm:^0.79.0"
+  peerDependencies:
+    "@office-iss/react-native-win32": ^0.73.0 || ^0.74.0 || ^0.75.0 || ^0.76.0 || ^0.77.0 || ^0.78.0 || ^0.79.0
+    react: 18.2.0 || ^18.2.0 || 18.3.1 ||  19.0.3
+    react-native: ^0.73.0 || ^0.74.0 || ^0.75.0 || ^0.76.0 || ^0.77.0 || ^0.78.0 || ^0.79.0
+    react-native-macos: ^0.73.0 || ^0.74.0 || ^0.75.0 || ^0.76.0 || ^0.77.0 || ^0.78.0 || ^0.79.0
+    react-native-windows: ^0.73.0 || ^0.74.0 || ^0.75.0 || ^0.76.0 || ^0.77.0 || ^0.78.0 || ^0.79.0
+  peerDependenciesMeta:
+    "@office-iss/react-native-win32":
+      optional: true
+    react-native-macos:
+      optional: true
+    react-native-windows:
+      optional: true
+  languageName: unknown
+  linkType: soft
+
+"@eluifabricshared/theme-registry@npm:*, @eluifabricshared/theme-registry@workspace:*, @eluifabricshared/theme-registry@workspace:packages/deprecated/theme-registry":
+  version: 0.0.0-use.local
+  resolution: "@eluifabricshared/theme-registry@workspace:packages/deprecated/theme-registry"
+  dependencies:
+    "@babel/core": "npm:^7.20.0"
+    "@elui-react-native/babel-config": "workspace:*"
+    "@elui-react-native/eslint-config-rules": "workspace:*"
+    "@elui-react-native/framework-base": "workspace:*"
+    "@elui-react-native/jest-config": "workspace:*"
+    "@elui-react-native/scripts": "workspace:*"
+    "@react-native-community/cli": "npm:^20.0.0"
+    "@react-native-community/cli-platform-android": "npm:^20.0.0"
+    "@react-native-community/cli-platform-ios": "npm:^20.0.0"
+    "@react-native/babel-preset": "npm:^0.79.0"
+    "@react-native/metro-config": "npm:^0.79.0"
+    "@types/jest": "npm:^29.0.0"
+    react: "npm: 19.0.3"
+    react-native: "npm:^0.79.0"
+  peerDependencies:
+    react: 18.2.0 || ^18.2.0 || 18.3.1 ||  19.0.3
+    react-native: ^0.73.0 || ^0.74.0 || ^0.75.0 || ^0.76.0 || ^0.77.0 || ^0.78.0 || ^0.79.0
+  languageName: unknown
+  linkType: soft
+
+"@eluifabricshared/themed-settings@npm:*, @eluifabricshared/themed-settings@workspace:*, @eluifabricshared/themed-settings@workspace:packages/deprecated/themed-settings":
+  version: 0.0.0-use.local
+  resolution: "@eluifabricshared/themed-settings@workspace:packages/deprecated/themed-settings"
+  dependencies:
+    "@babel/core": "npm:^7.20.0"
+    "@elui-react-native/babel-config": "workspace:*"
+    "@elui-react-native/eslint-config-rules": "workspace:*"
+    "@elui-react-native/framework-base": "workspace:*"
+    "@elui-react-native/jest-config": "workspace:*"
+    "@elui-react-native/memo-cache": "workspace:*"
+    "@elui-react-native/scripts": "workspace:*"
+    "@eluifabricshared/foundation-settings": "workspace:*"
+    "@react-native-community/cli": "npm:^20.0.0"
+    "@react-native-community/cli-platform-android": "npm:^20.0.0"
+    "@react-native-community/cli-platform-ios": "npm:^20.0.0"
+    "@react-native/babel-preset": "npm:^0.79.0"
+    "@react-native/metro-config": "npm:^0.79.0"
+    "@types/jest": "npm:^29.0.0"
+    "@types/node": "npm:^22.0.0"
+    react: "npm: 19.0.3"
+    react-native: "npm:^0.79.0"
+  peerDependencies:
+    react: 18.2.0 || ^18.2.0 || 18.3.1 ||  19.0.3
+    react-native: ^0.73.0 || ^0.74.0 || ^0.75.0 || ^0.76.0 || ^0.77.0 || ^0.78.0 || ^0.79.0
+  languageName: unknown
+  linkType: soft
+
+"@eluifabricshared/theming-ramp@npm:*, @eluifabricshared/theming-ramp@workspace:*, @eluifabricshared/theming-ramp@workspace:packages/deprecated/theming-ramp":
+  version: 0.0.0-use.local
+  resolution: "@eluifabricshared/theming-ramp@workspace:packages/deprecated/theming-ramp"
+  dependencies:
+    "@elui-react-native/babel-config": "workspace:*"
+    "@elui-react-native/eslint-config-rules": "workspace:*"
+    "@elui-react-native/framework-base": "workspace:*"
+    "@elui-react-native/jest-config": "workspace:*"
+    "@elui-react-native/scripts": "workspace:*"
+    "@elui-react-native/test-tools": "workspace:*"
+    "@elui-react-native/theme-types": "workspace:*"
+    "@eluifabricshared/foundation-settings": "workspace:*"
+    "@react-native-community/cli": "npm:^20.0.0"
+    "@react-native-community/cli-platform-android": "npm:^20.0.0"
+    "@react-native-community/cli-platform-ios": "npm:^20.0.0"
+    "@react-native/metro-config": "npm:^0.79.0"
+    "@types/jest": "npm:^29.0.0"
+    "@types/react": "npm:~ 19.0.3"
+    react: "npm: 19.0.3"
+    react-native: "npm:^0.79.0"
+  peerDependencies:
+    react: 18.2.0 || ^18.2.0 || 18.3.1 ||  19.0.3
+    react-native: ^0.73.0 || ^0.74.0 || ^0.75.0 || ^0.76.0 || ^0.77.0 || ^0.78.0 || ^0.79.0
+  languageName: unknown
+  linkType: soft
+
+"@eluifabricshared/theming-react-native@npm:*, @eluifabricshared/theming-react-native@workspace:packages/deprecated/theming-react-native":
+  version: 0.0.0-use.local
+  resolution: "@eluifabricshared/theming-react-native@workspace:packages/deprecated/theming-react-native"
+  dependencies:
+    "@babel/core": "npm:^7.20.0"
+    "@elui-react-native/babel-config": "workspace:*"
+    "@elui-react-native/default-theme": "workspace:*"
+    "@elui-react-native/eslint-config-rules": "workspace:*"
+    "@elui-react-native/scripts": "workspace:*"
+    "@elui-react-native/win32-theme": "workspace:*"
+    "@eluifabricshared/theme-registry": "workspace:*"
+    "@eluifabricshared/theming-ramp": "workspace:*"
+    "@office-iss/react-native-win32": "npm:^0.79.0"
+    "@react-native-community/cli": "npm:^20.0.0"
+    "@react-native-community/cli-platform-android": "npm:^20.0.0"
+    "@react-native-community/cli-platform-ios": "npm:^20.0.0"
+    "@react-native/babel-preset": "npm:^0.79.0"
+    "@react-native/metro-config": "npm:^0.79.0"
+    "@types/jest": "npm:^29.0.0"
+    "@types/react": "npm:~ 19.0.3"
+    react: "npm: 19.0.3"
+    react-native: "npm:^0.79.0"
+    react-native-macos: "npm:^0.79.0"
+    react-native-windows: "npm:^0.79.0"
+    typescript: "npm:4.9.4"
+  peerDependencies:
+    "@office-iss/react-native-win32": ^0.73.0 || ^0.74.0 || ^0.75.0 || ^0.76.0 || ^0.77.0 || ^0.78.0 || ^0.79.0
+    react: 18.2.0 || ^18.2.0 || 18.3.1 ||  19.0.3
+    react-native: ^0.73.0 || ^0.74.0 || ^0.75.0 || ^0.76.0 || ^0.77.0 || ^0.78.0 || ^0.79.0
+    react-native-macos: ^0.73.0 || ^0.74.0 || ^0.75.0 || ^0.76.0 || ^0.77.0 || ^0.78.0 || ^0.79.0
     react-native-windows: ^0.73.0 || ^0.74.0 || ^0.75.0 || ^0.76.0 || ^0.77.0 || ^0.78.0 || ^0.79.0
   peerDependenciesMeta:
     "@office-iss/react-native-win32":
@@ -8529,9 +8776,9 @@ __metadata:
   linkType: hard
 
 "@sinclair/typebox@npm:^0.34.0":
-  version: 0.34.41
-  resolution: "@sinclair/typebox@npm:0.34.41"
-  checksum: 10c0/0fb61fc2f90c25e30b19b0096eb8ab3ccef401d3e2acfce42168ff0ee877ba5981c8243fa6b1035ac756cde95316724e978b2837dd642d7e4e095de03a999c90
+  version: 0.34.43
+  resolution: "@sinclair/typebox@npm:0.34.43"
+  checksum: 10c0/4966422261d97ff8e4bfa3466035939a8b50d2f2de5f84023ffca6d31af43c69d99db7fbce87aa5772c0e0cb1a9229eae5bf77873d2f2218a38430b4255e7204
   languageName: node
   linkType: hard
 
@@ -9476,253 +9723,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@uifabricshared/foundation-composable@npm:*, @uifabricshared/foundation-composable@workspace:*, @uifabricshared/foundation-composable@workspace:packages/deprecated/foundation-composable":
-  version: 0.0.0-use.local
-  resolution: "@uifabricshared/foundation-composable@workspace:packages/deprecated/foundation-composable"
-  dependencies:
-    "@elui-react-native/babel-config": "workspace:*"
-    "@elui-react-native/eslint-config-rules": "workspace:*"
-    "@elui-react-native/framework-base": "workspace:*"
-    "@elui-react-native/scripts": "workspace:*"
-    "@react-native-community/cli": "npm:^20.0.0"
-    "@react-native-community/cli-platform-android": "npm:^20.0.0"
-    "@react-native-community/cli-platform-ios": "npm:^20.0.0"
-    "@react-native/metro-config": "npm:^0.79.0"
-    "@types/jest": "npm:^29.0.0"
-    "@types/react": "npm:~ 19.0.3"
-    "@uifabricshared/foundation-settings": "workspace:*"
-    react: "npm: 19.0.3"
-    react-native: "npm:^0.79.0"
-  peerDependencies:
-    react: 18.2.0 || ^18.2.0 || 18.3.1 ||  19.0.3
-    react-native: ^0.73.0 || ^0.74.0 || ^0.75.0 || ^0.76.0 || ^0.77.0 || ^0.78.0 || ^0.79.0
-  languageName: unknown
-  linkType: soft
-
-"@uifabricshared/foundation-compose@npm:*, @uifabricshared/foundation-compose@workspace:*, @uifabricshared/foundation-compose@workspace:packages/deprecated/foundation-compose":
-  version: 0.0.0-use.local
-  resolution: "@uifabricshared/foundation-compose@workspace:packages/deprecated/foundation-compose"
-  dependencies:
-    "@elui-react-native/babel-config": "workspace:*"
-    "@elui-react-native/default-theme": "workspace:*"
-    "@elui-react-native/eslint-config-rules": "workspace:*"
-    "@elui-react-native/framework-base": "workspace:*"
-    "@elui-react-native/scripts": "workspace:*"
-    "@elui-react-native/theme-types": "workspace:*"
-    "@office-iss/react-native-win32": "npm:^0.79.0"
-    "@react-native-community/cli": "npm:^20.0.0"
-    "@react-native-community/cli-platform-android": "npm:^20.0.0"
-    "@react-native-community/cli-platform-ios": "npm:^20.0.0"
-    "@react-native/metro-config": "npm:^0.79.0"
-    "@types/react": "npm:~ 19.0.3"
-    "@uifabricshared/foundation-composable": "workspace:*"
-    "@uifabricshared/foundation-settings": "workspace:*"
-    "@uifabricshared/foundation-tokens": "workspace:*"
-    "@uifabricshared/themed-settings": "workspace:*"
-    "@uifabricshared/theming-ramp": "workspace:*"
-    react: "npm: 19.0.3"
-    react-native: "npm:^0.79.0"
-    react-native-macos: "npm:^0.79.0"
-    react-native-windows: "npm:^0.79.0"
-  peerDependencies:
-    "@office-iss/react-native-win32": ^0.73.0 || ^0.74.0 || ^0.75.0 || ^0.76.0 || ^0.77.0 || ^0.78.0 || ^0.79.0
-    react: 18.2.0 || ^18.2.0 || 18.3.1 ||  19.0.3
-    react-native: ^0.73.0 || ^0.74.0 || ^0.75.0 || ^0.76.0 || ^0.77.0 || ^0.78.0 || ^0.79.0
-    react-native-macos: ^0.73.0 || ^0.74.0 || ^0.75.0 || ^0.76.0 || ^0.77.0 || ^0.78.0 || ^0.79.0
-    react-native-windows: ^0.73.0 || ^0.74.0 || ^0.75.0 || ^0.76.0 || ^0.77.0 || ^0.78.0 || ^0.79.0
-  peerDependenciesMeta:
-    "@office-iss/react-native-win32":
-      optional: true
-    react-native-macos:
-      optional: true
-    react-native-windows:
-      optional: true
-  languageName: unknown
-  linkType: soft
-
-"@uifabricshared/foundation-settings@npm:*, @uifabricshared/foundation-settings@workspace:*, @uifabricshared/foundation-settings@workspace:packages/deprecated/foundation-settings":
-  version: 0.0.0-use.local
-  resolution: "@uifabricshared/foundation-settings@workspace:packages/deprecated/foundation-settings"
-  dependencies:
-    "@babel/core": "npm:^7.20.0"
-    "@elui-react-native/babel-config": "workspace:*"
-    "@elui-react-native/eslint-config-rules": "workspace:*"
-    "@elui-react-native/framework-base": "workspace:*"
-    "@elui-react-native/jest-config": "workspace:*"
-    "@elui-react-native/scripts": "workspace:*"
-    "@react-native-community/cli": "npm:^20.0.0"
-    "@react-native-community/cli-platform-android": "npm:^20.0.0"
-    "@react-native-community/cli-platform-ios": "npm:^20.0.0"
-    "@react-native/babel-preset": "npm:^0.79.0"
-    "@react-native/metro-config": "npm:^0.79.0"
-    "@types/jest": "npm:^29.0.0"
-    react: "npm: 19.0.3"
-    react-native: "npm:^0.79.0"
-  peerDependencies:
-    react: 18.2.0 || ^18.2.0 || 18.3.1 ||  19.0.3
-    react-native: ^0.73.0 || ^0.74.0 || ^0.75.0 || ^0.76.0 || ^0.77.0 || ^0.78.0 || ^0.79.0
-  languageName: unknown
-  linkType: soft
-
-"@uifabricshared/foundation-tokens@npm:*, @uifabricshared/foundation-tokens@workspace:*, @uifabricshared/foundation-tokens@workspace:packages/deprecated/foundation-tokens":
-  version: 0.0.0-use.local
-  resolution: "@uifabricshared/foundation-tokens@workspace:packages/deprecated/foundation-tokens"
-  dependencies:
-    "@babel/core": "npm:^7.20.0"
-    "@elui-react-native/babel-config": "workspace:*"
-    "@elui-react-native/eslint-config-rules": "workspace:*"
-    "@elui-react-native/framework-base": "workspace:*"
-    "@elui-react-native/jest-config": "workspace:*"
-    "@elui-react-native/scripts": "workspace:*"
-    "@elui-react-native/tokens": "workspace:*"
-    "@office-iss/react-native-win32": "npm:^0.79.0"
-    "@react-native-community/cli": "npm:^20.0.0"
-    "@react-native-community/cli-platform-android": "npm:^20.0.0"
-    "@react-native-community/cli-platform-ios": "npm:^20.0.0"
-    "@react-native/babel-preset": "npm:^0.79.0"
-    "@react-native/metro-config": "npm:^0.79.0"
-    "@types/jest": "npm:^29.0.0"
-    "@types/node": "npm:^22.0.0"
-    "@types/react": "npm:~ 19.0.3"
-    "@uifabricshared/foundation-settings": "workspace:*"
-    react: "npm: 19.0.3"
-    react-native: "npm:^0.79.0"
-    react-native-macos: "npm:^0.79.0"
-    react-native-windows: "npm:^0.79.0"
-  peerDependencies:
-    "@office-iss/react-native-win32": ^0.73.0 || ^0.74.0 || ^0.75.0 || ^0.76.0 || ^0.77.0 || ^0.78.0 || ^0.79.0
-    react: 18.2.0 || ^18.2.0 || 18.3.1 ||  19.0.3
-    react-native: ^0.73.0 || ^0.74.0 || ^0.75.0 || ^0.76.0 || ^0.77.0 || ^0.78.0 || ^0.79.0
-    react-native-macos: ^0.73.0 || ^0.74.0 || ^0.75.0 || ^0.76.0 || ^0.77.0 || ^0.78.0 || ^0.79.0
-    react-native-windows: ^0.73.0 || ^0.74.0 || ^0.75.0 || ^0.76.0 || ^0.77.0 || ^0.78.0 || ^0.79.0
-  peerDependenciesMeta:
-    "@office-iss/react-native-win32":
-      optional: true
-    react-native-macos:
-      optional: true
-    react-native-windows:
-      optional: true
-  languageName: unknown
-  linkType: soft
-
-"@uifabricshared/theme-registry@npm:*, @uifabricshared/theme-registry@workspace:*, @uifabricshared/theme-registry@workspace:packages/deprecated/theme-registry":
-  version: 0.0.0-use.local
-  resolution: "@uifabricshared/theme-registry@workspace:packages/deprecated/theme-registry"
-  dependencies:
-    "@babel/core": "npm:^7.20.0"
-    "@elui-react-native/babel-config": "workspace:*"
-    "@elui-react-native/eslint-config-rules": "workspace:*"
-    "@elui-react-native/framework-base": "workspace:*"
-    "@elui-react-native/jest-config": "workspace:*"
-    "@elui-react-native/scripts": "workspace:*"
-    "@react-native-community/cli": "npm:^20.0.0"
-    "@react-native-community/cli-platform-android": "npm:^20.0.0"
-    "@react-native-community/cli-platform-ios": "npm:^20.0.0"
-    "@react-native/babel-preset": "npm:^0.79.0"
-    "@react-native/metro-config": "npm:^0.79.0"
-    "@types/jest": "npm:^29.0.0"
-    react: "npm: 19.0.3"
-    react-native: "npm:^0.79.0"
-  peerDependencies:
-    react: 18.2.0 || ^18.2.0 || 18.3.1 ||  19.0.3
-    react-native: ^0.73.0 || ^0.74.0 || ^0.75.0 || ^0.76.0 || ^0.77.0 || ^0.78.0 || ^0.79.0
-  languageName: unknown
-  linkType: soft
-
-"@uifabricshared/themed-settings@npm:*, @uifabricshared/themed-settings@workspace:*, @uifabricshared/themed-settings@workspace:packages/deprecated/themed-settings":
-  version: 0.0.0-use.local
-  resolution: "@uifabricshared/themed-settings@workspace:packages/deprecated/themed-settings"
-  dependencies:
-    "@babel/core": "npm:^7.20.0"
-    "@elui-react-native/babel-config": "workspace:*"
-    "@elui-react-native/eslint-config-rules": "workspace:*"
-    "@elui-react-native/framework-base": "workspace:*"
-    "@elui-react-native/jest-config": "workspace:*"
-    "@elui-react-native/memo-cache": "workspace:*"
-    "@elui-react-native/scripts": "workspace:*"
-    "@react-native-community/cli": "npm:^20.0.0"
-    "@react-native-community/cli-platform-android": "npm:^20.0.0"
-    "@react-native-community/cli-platform-ios": "npm:^20.0.0"
-    "@react-native/babel-preset": "npm:^0.79.0"
-    "@react-native/metro-config": "npm:^0.79.0"
-    "@types/jest": "npm:^29.0.0"
-    "@types/node": "npm:^22.0.0"
-    "@uifabricshared/foundation-settings": "workspace:*"
-    react: "npm: 19.0.3"
-    react-native: "npm:^0.79.0"
-  peerDependencies:
-    react: 18.2.0 || ^18.2.0 || 18.3.1 ||  19.0.3
-    react-native: ^0.73.0 || ^0.74.0 || ^0.75.0 || ^0.76.0 || ^0.77.0 || ^0.78.0 || ^0.79.0
-  languageName: unknown
-  linkType: soft
-
-"@uifabricshared/theming-ramp@npm:*, @uifabricshared/theming-ramp@workspace:*, @uifabricshared/theming-ramp@workspace:packages/deprecated/theming-ramp":
-  version: 0.0.0-use.local
-  resolution: "@uifabricshared/theming-ramp@workspace:packages/deprecated/theming-ramp"
-  dependencies:
-    "@elui-react-native/babel-config": "workspace:*"
-    "@elui-react-native/eslint-config-rules": "workspace:*"
-    "@elui-react-native/framework-base": "workspace:*"
-    "@elui-react-native/jest-config": "workspace:*"
-    "@elui-react-native/scripts": "workspace:*"
-    "@elui-react-native/test-tools": "workspace:*"
-    "@elui-react-native/theme-types": "workspace:*"
-    "@react-native-community/cli": "npm:^20.0.0"
-    "@react-native-community/cli-platform-android": "npm:^20.0.0"
-    "@react-native-community/cli-platform-ios": "npm:^20.0.0"
-    "@react-native/metro-config": "npm:^0.79.0"
-    "@types/jest": "npm:^29.0.0"
-    "@types/react": "npm:~ 19.0.3"
-    "@uifabricshared/foundation-settings": "workspace:*"
-    react: "npm: 19.0.3"
-    react-native: "npm:^0.79.0"
-  peerDependencies:
-    react: 18.2.0 || ^18.2.0 || 18.3.1 ||  19.0.3
-    react-native: ^0.73.0 || ^0.74.0 || ^0.75.0 || ^0.76.0 || ^0.77.0 || ^0.78.0 || ^0.79.0
-  languageName: unknown
-  linkType: soft
-
-"@uifabricshared/theming-react-native@npm:*, @uifabricshared/theming-react-native@workspace:packages/deprecated/theming-react-native":
-  version: 0.0.0-use.local
-  resolution: "@uifabricshared/theming-react-native@workspace:packages/deprecated/theming-react-native"
-  dependencies:
-    "@babel/core": "npm:^7.20.0"
-    "@elui-react-native/babel-config": "workspace:*"
-    "@elui-react-native/default-theme": "workspace:*"
-    "@elui-react-native/eslint-config-rules": "workspace:*"
-    "@elui-react-native/scripts": "workspace:*"
-    "@elui-react-native/win32-theme": "workspace:*"
-    "@office-iss/react-native-win32": "npm:^0.79.0"
-    "@react-native-community/cli": "npm:^20.0.0"
-    "@react-native-community/cli-platform-android": "npm:^20.0.0"
-    "@react-native-community/cli-platform-ios": "npm:^20.0.0"
-    "@react-native/babel-preset": "npm:^0.79.0"
-    "@react-native/metro-config": "npm:^0.79.0"
-    "@types/jest": "npm:^29.0.0"
-    "@types/react": "npm:~ 19.0.3"
-    "@uifabricshared/theme-registry": "workspace:*"
-    "@uifabricshared/theming-ramp": "workspace:*"
-    react: "npm: 19.0.3"
-    react-native: "npm:^0.79.0"
-    react-native-macos: "npm:^0.79.0"
-    react-native-windows: "npm:^0.79.0"
-    typescript: "npm:4.9.4"
-  peerDependencies:
-    "@office-iss/react-native-win32": ^0.73.0 || ^0.74.0 || ^0.75.0 || ^0.76.0 || ^0.77.0 || ^0.78.0 || ^0.79.0
-    react: 18.2.0 || ^18.2.0 || 18.3.1 ||  19.0.3
-    react-native: ^0.73.0 || ^0.74.0 || ^0.75.0 || ^0.76.0 || ^0.77.0 || ^0.78.0 || ^0.79.0
-    react-native-macos: ^0.73.0 || ^0.74.0 || ^0.75.0 || ^0.76.0 || ^0.77.0 || ^0.78.0 || ^0.79.0
-    react-native-windows: ^0.73.0 || ^0.74.0 || ^0.75.0 || ^0.76.0 || ^0.77.0 || ^0.78.0 || ^0.79.0
-  peerDependenciesMeta:
-    "@office-iss/react-native-win32":
-      optional: true
-    react-native-macos:
-      optional: true
-    react-native-windows:
-      optional: true
-  languageName: unknown
-  linkType: soft
-
 "@ungap/structured-clone@npm:^1.2.0":
   version: 1.3.0
   resolution: "@ungap/structured-clone@npm:1.3.0"
@@ -9849,19 +9849,21 @@ __metadata:
   linkType: hard
 
 "@wdio/appium-service@npm:^9.12.6":
-  version: 9.21.0
-  resolution: "@wdio/appium-service@npm:9.21.0"
+  version: 9.22.0
+  resolution: "@wdio/appium-service@npm:9.22.0"
   dependencies:
-    "@wdio/config": "npm:9.21.0"
+    "@wdio/config": "npm:9.22.0"
     "@wdio/logger": "npm:9.18.0"
     "@wdio/types": "npm:9.20.0"
-    "@wdio/utils": "npm:9.21.0"
+    "@wdio/utils": "npm:9.22.0"
     change-case: "npm:^5.4.3"
     get-port: "npm:^7.0.0"
     import-meta-resolve: "npm:^4.0.0"
     tree-kill: "npm:^1.2.2"
-    webdriverio: "npm:9.21.0"
-  checksum: 10c0/455fcf6d11a68ab1664052ccc75287fa23a458ef77a1db7bfa9a9f7f706b54d3238a0df0e4c3a3af510ffb7ce0efda15e57e7ac9e93da4de736aa6471a6effc4
+    webdriverio: "npm:9.22.0"
+  bin:
+    start-appium-inspector: bin/start-appium-inspector.js
+  checksum: 10c0/9a633829020fedcfd0cc013cc9a9d30365b04e18b6d415ea1b05280190d24ff64fd82a8d2de91577085c5e5792689b00e11ad073be635b0e43e4e26120d29172
   languageName: node
   linkType: hard
 
@@ -9900,16 +9902,16 @@ __metadata:
   linkType: hard
 
 "@wdio/cli@npm:^9.12.6":
-  version: 9.21.1
-  resolution: "@wdio/cli@npm:9.21.1"
+  version: 9.22.0
+  resolution: "@wdio/cli@npm:9.22.0"
   dependencies:
     "@vitest/snapshot": "npm:^2.1.1"
-    "@wdio/config": "npm:9.21.0"
+    "@wdio/config": "npm:9.22.0"
     "@wdio/globals": "npm:9.17.0"
     "@wdio/logger": "npm:9.18.0"
     "@wdio/protocols": "npm:9.16.2"
     "@wdio/types": "npm:9.20.0"
-    "@wdio/utils": "npm:9.21.0"
+    "@wdio/utils": "npm:9.22.0"
     async-exit-hook: "npm:^2.0.1"
     chalk: "npm:^5.4.1"
     chokidar: "npm:^4.0.0"
@@ -9921,11 +9923,11 @@ __metadata:
     lodash.union: "npm:^4.6.0"
     read-pkg-up: "npm:^10.0.0"
     tsx: "npm:^4.7.2"
-    webdriverio: "npm:9.21.0"
+    webdriverio: "npm:9.22.0"
     yargs: "npm:^17.7.2"
   bin:
     wdio: bin/wdio.js
-  checksum: 10c0/bd05550f614f84c0c269fc0572157a53b2c82762442627c2551a7efe96e6c3cfc89bff8313fbef7dbf089b5e893b3b4e3ff32a25c0ce39dc01e268b9f4f86545
+  checksum: 10c0/fe5e4d7d224919c6fce25a3c01300f2157c188976666ccae410cc6930599b54dce77beefa6df4f7394a0ef91f95af723bcf40a534f947a7a5600f8f948f3d4be
   languageName: node
   linkType: hard
 
@@ -9944,17 +9946,17 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@wdio/config@npm:9.21.0":
-  version: 9.21.0
-  resolution: "@wdio/config@npm:9.21.0"
+"@wdio/config@npm:9.22.0":
+  version: 9.22.0
+  resolution: "@wdio/config@npm:9.22.0"
   dependencies:
     "@wdio/logger": "npm:9.18.0"
     "@wdio/types": "npm:9.20.0"
-    "@wdio/utils": "npm:9.21.0"
+    "@wdio/utils": "npm:9.22.0"
     deepmerge-ts: "npm:^7.0.3"
     glob: "npm:^10.2.2"
     import-meta-resolve: "npm:^4.0.0"
-  checksum: 10c0/d8d2b9af7c52763566103fcb5afa27ffdde8d68c460332780cc3916d99a750c21707ac4702f3389a7ed50402ca6a86cc65badfaea5ad8d449e6b1cbabe04ec1c
+  checksum: 10c0/59c1e5231b3b7f78e60fc7a26cd2d0b5e1e72cec90dd58be347635e40651d078e731df76c3a50def74f8eb9e156bcd1eb62ee20ab3735c89bb2a38a99ecd144a
   languageName: node
   linkType: hard
 
@@ -10015,14 +10017,14 @@ __metadata:
   linkType: hard
 
 "@wdio/jasmine-framework@npm:^9.12.6":
-  version: 9.21.0
-  resolution: "@wdio/jasmine-framework@npm:9.21.0"
+  version: 9.22.0
+  resolution: "@wdio/jasmine-framework@npm:9.22.0"
   dependencies:
     "@types/node": "npm:^20.1.0"
     "@wdio/globals": "npm:9.17.0"
     "@wdio/logger": "npm:9.18.0"
     "@wdio/types": "npm:9.20.0"
-    "@wdio/utils": "npm:9.21.0"
+    "@wdio/utils": "npm:9.22.0"
     jasmine: "npm:^5.0.0"
   peerDependencies:
     "@wdio/runner": ^9.16.2
@@ -10032,7 +10034,7 @@ __metadata:
       optional: false
     webdriverio:
       optional: false
-  checksum: 10c0/bc07734e5b61556aff9d456934ba983f6d87fb00dd72bef9d38b8ca874f053419fe1ae8687afb5c87bb0962fc1698291b3b7a096c97b69f807fe5ab674c119e8
+  checksum: 10c0/cd860a37c905e9a238dc7deea4e180c842603569d8d843e5e5d377274d7661b0858f44ff4d9517266f7ef07f00e3939b23bd3b9929065aab36e45bb9fb5f29a2
   languageName: node
   linkType: hard
 
@@ -10048,20 +10050,20 @@ __metadata:
   linkType: hard
 
 "@wdio/local-runner@npm:^9.12.6":
-  version: 9.21.0
-  resolution: "@wdio/local-runner@npm:9.21.0"
+  version: 9.22.0
+  resolution: "@wdio/local-runner@npm:9.22.0"
   dependencies:
     "@types/node": "npm:^20.1.0"
     "@wdio/logger": "npm:9.18.0"
     "@wdio/repl": "npm:9.16.2"
-    "@wdio/runner": "npm:9.21.0"
+    "@wdio/runner": "npm:9.22.0"
     "@wdio/types": "npm:9.20.0"
     "@wdio/xvfb": "npm:9.20.0"
     exit-hook: "npm:^4.0.0"
     expect-webdriverio: "npm:^5.3.4"
     split2: "npm:^4.1.0"
     stream-buffers: "npm:^3.0.2"
-  checksum: 10c0/fefded822ccc64768214df182bcaa84070fdf4d47c7a2cbb39a1bb931a5e02ce09ee8877f67f09a0100f1ba593af9042afcf93af09f4b805743904dc93a1c926
+  checksum: 10c0/7de9e5561eb10aa750f5437d1d66510b1420f057c1b285ecfecae58940ec7acb5d6052f3075518ef513b1e91a17718c05ab632d33f4862b86d8aa1614f2b961e
   languageName: node
   linkType: hard
 
@@ -10135,20 +10137,20 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@wdio/runner@npm:9.21.0":
-  version: 9.21.0
-  resolution: "@wdio/runner@npm:9.21.0"
+"@wdio/runner@npm:9.22.0":
+  version: 9.22.0
+  resolution: "@wdio/runner@npm:9.22.0"
   dependencies:
     "@types/node": "npm:^20.11.28"
-    "@wdio/config": "npm:9.21.0"
+    "@wdio/config": "npm:9.22.0"
     "@wdio/dot-reporter": "npm:9.20.0"
     "@wdio/globals": "npm:9.17.0"
     "@wdio/logger": "npm:9.18.0"
     "@wdio/types": "npm:9.20.0"
-    "@wdio/utils": "npm:9.21.0"
+    "@wdio/utils": "npm:9.22.0"
     deepmerge-ts: "npm:^7.0.3"
-    webdriver: "npm:9.21.0"
-    webdriverio: "npm:9.21.0"
+    webdriver: "npm:9.22.0"
+    webdriverio: "npm:9.22.0"
   peerDependencies:
     expect-webdriverio: ^5.3.4
     webdriverio: ^9.0.0
@@ -10157,7 +10159,7 @@ __metadata:
       optional: false
     webdriverio:
       optional: false
-  checksum: 10c0/d45ece141b1f0f9ad3d6ecf54a162766101bcc378d7c632c65c6fa83e2d4e99fa9b3d4cf8c7c6ed766603806dcfad8020b9c3d10d9c17b8d5adf6a02b4d7983a
+  checksum: 10c0/dc906cb4804acc717a3f73c12ac5549f79fdaab20d11757c4f22b41dc3faf227ae21946a93628eae73f6580bd2fa0bfbd88076c6730c52918158c23aea934f5a
   languageName: node
   linkType: hard
 
@@ -10213,9 +10215,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@wdio/utils@npm:9.21.0":
-  version: 9.21.0
-  resolution: "@wdio/utils@npm:9.21.0"
+"@wdio/utils@npm:9.22.0":
+  version: 9.22.0
+  resolution: "@wdio/utils@npm:9.22.0"
   dependencies:
     "@puppeteer/browsers": "npm:^2.2.0"
     "@wdio/logger": "npm:9.18.0"
@@ -10231,7 +10233,7 @@ __metadata:
     safaridriver: "npm:^1.0.0"
     split2: "npm:^4.2.0"
     wait-port: "npm:^1.1.0"
-  checksum: 10c0/123fbeb989d5710bb4e23589f3bcb853b18e0d4e97947d71e1068efe6c06aab572676bec6a471502384be8e24537dec779df17087cb3638dd398b2d60dfe1787
+  checksum: 10c0/128ddeeebbd5e9d562633b2659c08c5fc585f6b8d1f03c8f47a163218a6712fa1c8a319ea63c939997f660e87ae8479a6d557c8135805faa6d2ed364f9568977
   languageName: node
   linkType: hard
 
@@ -14452,8 +14454,8 @@ __metadata:
   linkType: hard
 
 "expect-webdriverio@npm:^5.3.4":
-  version: 5.6.0
-  resolution: "expect-webdriverio@npm:5.6.0"
+  version: 5.6.1
+  resolution: "expect-webdriverio@npm:5.6.1"
   dependencies:
     "@vitest/snapshot": "npm:^4.0.16"
     deep-eql: "npm:^5.0.2"
@@ -14470,7 +14472,7 @@ __metadata:
       optional: false
     webdriverio:
       optional: false
-  checksum: 10c0/cc042a7bd7008e2ce44adfc940afd0ee8d14f3dcc85aa9fe508b8d4499c4167ac476d15e40e954c5eec14c1d42e378b0b85f96d2c68c11dad03d277e3d38fc9b
+  checksum: 10c0/67c5eef16462b26cc1088b3202412ceedccf0b48b1f9f063da4caf02b5fc5b364cb1f9214f08ffa22a4f50a1b12d1782393935b84a8609da04bdf2a477a0030f
   languageName: node
   linkType: hard
 
@@ -24224,22 +24226,22 @@ __metadata:
   languageName: node
   linkType: hard
 
-"webdriver@npm:9.21.0":
-  version: 9.21.0
-  resolution: "webdriver@npm:9.21.0"
+"webdriver@npm:9.22.0":
+  version: 9.22.0
+  resolution: "webdriver@npm:9.22.0"
   dependencies:
     "@types/node": "npm:^20.1.0"
     "@types/ws": "npm:^8.5.3"
-    "@wdio/config": "npm:9.21.0"
+    "@wdio/config": "npm:9.22.0"
     "@wdio/logger": "npm:9.18.0"
     "@wdio/protocols": "npm:9.16.2"
     "@wdio/types": "npm:9.20.0"
-    "@wdio/utils": "npm:9.21.0"
+    "@wdio/utils": "npm:9.22.0"
     deepmerge-ts: "npm:^7.0.3"
     https-proxy-agent: "npm:^7.0.6"
     undici: "npm:^6.21.3"
     ws: "npm:^8.8.0"
-  checksum: 10c0/44ce2694e9164652e0f3c65ae24162e6026cef179dea3bb7ac84d9a71759bd1a8c999a059b38fe43b38621e6432ea80ecd009399eda461db70dc0cfdb5bfb70d
+  checksum: 10c0/84dc5c4ed29e51975020627d6b864f0089baed8e722f560ce37f83e7179a2e5ed67e9cdf1957c3fb8bf015d6bb0de5fc4c51f524f923dfb3de8f743b20d13304
   languageName: node
   linkType: hard
 
@@ -24281,18 +24283,18 @@ __metadata:
   languageName: node
   linkType: hard
 
-"webdriverio@npm:9.21.0, webdriverio@npm:^9.12.6":
-  version: 9.21.0
-  resolution: "webdriverio@npm:9.21.0"
+"webdriverio@npm:9.22.0, webdriverio@npm:^9.12.6":
+  version: 9.22.0
+  resolution: "webdriverio@npm:9.22.0"
   dependencies:
     "@types/node": "npm:^20.11.30"
     "@types/sinonjs__fake-timers": "npm:^8.1.5"
-    "@wdio/config": "npm:9.21.0"
+    "@wdio/config": "npm:9.22.0"
     "@wdio/logger": "npm:9.18.0"
     "@wdio/protocols": "npm:9.16.2"
     "@wdio/repl": "npm:9.16.2"
     "@wdio/types": "npm:9.20.0"
-    "@wdio/utils": "npm:9.21.0"
+    "@wdio/utils": "npm:9.22.0"
     archiver: "npm:^7.0.1"
     aria-query: "npm:^5.3.0"
     cheerio: "npm:^1.0.0-rc.12"
@@ -24309,13 +24311,13 @@ __metadata:
     rgb2hex: "npm:0.2.5"
     serialize-error: "npm:^12.0.0"
     urlpattern-polyfill: "npm:^10.0.0"
-    webdriver: "npm:9.21.0"
+    webdriver: "npm:9.22.0"
   peerDependencies:
     puppeteer-core: ">=22.x || <=24.x"
   peerDependenciesMeta:
     puppeteer-core:
       optional: true
-  checksum: 10c0/8c51b70d1787001f5071b272fd5330272bf86511b013c957b033da95b48521d4f3b7bf7179cc6ee9ce7997d7f23366c50d3ad3dc64394b56bb1cd59ef1499380
+  checksum: 10c0/fba39e06c766b2f3b61c2ea8dc21bfac17287057a4233fca52c4b3a800fe635957a194227b239264aa5aaf65e014e35247fa7d42e5fcd7fcabca8de65f35fc78
   languageName: node
   linkType: hard
 

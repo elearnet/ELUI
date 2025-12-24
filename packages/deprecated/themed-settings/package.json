@@ -1,5 +1,5 @@
 {
-  "name": "@uifabricshared/themed-settings",
+  "name": "@eluifabricshared/themed-settings",
   "version": "0.12.11",
   "description": "Package which drives custom cacheable settings for a component",
   "repository": {
@@ -36,7 +36,7 @@
   "license": "MIT",
   "dependencies": {
     "@elui-react-native/framework-base": "workspace:*",
-    "@uifabricshared/foundation-settings": "workspace:*"
+    "@eluifabricshared/foundation-settings": "workspace:*"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",

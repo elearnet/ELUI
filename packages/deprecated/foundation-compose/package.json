@@ -1,5 +1,5 @@
 {
-  "name": "@uifabricshared/foundation-compose",
+  "name": "@eluifabricshared/foundation-compose",
   "version": "1.15.17",
   "description": "Compose infrastructure",
   "repository": {
@@ -38,11 +38,11 @@
     "@elui-react-native/default-theme": "workspace:*",
     "@elui-react-native/framework-base": "workspace:*",
     "@elui-react-native/theme-types": "workspace:*",
-    "@uifabricshared/foundation-composable": "workspace:*",
-    "@uifabricshared/foundation-settings": "workspace:*",
-    "@uifabricshared/foundation-tokens": "workspace:*",
-    "@uifabricshared/themed-settings": "workspace:*",
-    "@uifabricshared/theming-ramp": "workspace:*"
+    "@eluifabricshared/foundation-composable": "workspace:*",
+    "@eluifabricshared/foundation-settings": "workspace:*",
+    "@eluifabricshared/foundation-tokens": "workspace:*",
+    "@eluifabricshared/themed-settings": "workspace:*",
+    "@eluifabricshared/theming-ramp": "workspace:*"
   },
   "devDependencies": {
     "@elui-react-native/babel-config": "workspace:*",

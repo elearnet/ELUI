@@ -1,5 +1,5 @@
 {
-  "name": "@uifabricshared/theming-ramp",
+  "name": "@eluifabricshared/theming-ramp",
   "version": "0.20.17",
   "description": "Theming Library",
   "repository": {
@@ -37,7 +37,7 @@
   "dependencies": {
     "@elui-react-native/framework-base": "workspace:*",
     "@elui-react-native/theme-types": "workspace:*",
-    "@uifabricshared/foundation-settings": "workspace:*"
+    "@eluifabricshared/foundation-settings": "workspace:*"
   },
   "devDependencies": {
     "@elui-react-native/babel-config": "workspace:*",

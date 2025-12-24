@@ -38,9 +38,9 @@
     "@elui-react-native/contextual-menu": "workspace:*",
     "@elui-react-native/icon": "workspace:*",
     "@elui-react-native/tokens": "workspace:*",
-    "@uifabricshared/foundation-composable": "workspace:*",
-    "@uifabricshared/foundation-compose": "workspace:*",
-    "@uifabricshared/foundation-settings": "workspace:*"
+    "@eluifabricshared/foundation-composable": "workspace:*",
+    "@eluifabricshared/foundation-compose": "workspace:*",
+    "@eluifabricshared/foundation-settings": "workspace:*"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
