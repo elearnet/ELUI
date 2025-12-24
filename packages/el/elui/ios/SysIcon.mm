@@ -1,4 +1,5 @@
 #import "SysIcon.h"
+#import <TargetConditionals.h>
 
 #import <react/renderer/components/ELUISpec/ComponentDescriptors.h>
 #import <react/renderer/components/ELUISpec/EventEmitters.h>
@@ -29,7 +30,7 @@ using namespace facebook::react;
 - (instancetype)initWithFrame:(CGRect)frame
 {
   if (self = [super initWithFrame:frame]) {
-    static const auto defaultProps = std::make_shared<const SysIconProps>();
+    static const auto defaultProps = std::shared_ptr<const SysIconProps>(new SysIconProps());
     _props = defaultProps;
 
 #if TARGET_OS_OSX

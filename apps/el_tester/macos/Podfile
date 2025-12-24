@@ -30,6 +30,15 @@ target 'el_tester-macOS' do
   )
 
   post_install do |installer|
+    # Fix Folly New.h operator new compatibility issue on macOS
+    # installer.pods_project.targets.each do |target|
+    #   if target.name == 'ELUI'
+    #     target.build_configurations.each do |config|
+    #       config.build_settings['GCC_PREPROCESSOR_DEFINITIONS'] ||= ['$(inherited)']
+    #       config.build_settings['GCC_PREPROCESSOR_DEFINITIONS'] << 'FOLLY_USE_JEMALLOC=0'
+    #     end
+    #   end
+    # end
     # @property (nonatomic, strong, readonly) dispatch_queue_t methodQueue RCT_DEPRECATED;
     # Property with 'retain (or strong)' attribute must be of object type
     # strong -> assign

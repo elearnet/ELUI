@@ -2,21 +2,22 @@
   "name": "elui",
   "version": "0.1.0",
   "description": "for understanding how RN works under the hood",
-  "main": "./lib/module/index.js",
-  "types": "./lib/typescript/src/index.d.ts",
+  "main": "lib-commonjs/index.js",
+  "module": "lib/index.js",
+  "typings": "lib/index.d.ts",
   "exports": {
     ".": {
-      "react-native": "src/index.tsx",
-      "source": "./src/index.tsx",
-      "types": "./lib/typescript/src/index.d.ts",
-      "default": "./lib/module/index.js"
-    },
-    "./package.json": "./package.json"
+      "react-native": "./src/index.tsx",
+      "import": "./lib/index.js",
+      "require": "./lib-commonjs/index.js",
+      "types": "./lib/index.d.ts"
+    }
   },
   "react-native": "src/index.tsx",
   "files": [
     "src",
     "lib",
+    "lib-commonjs",
     "android",
     "ios",
     "cpp",
@@ -34,9 +35,12 @@
     "!**/.*"
   ],
   "scripts": {
-    "clean": "del-cli android/build example/android/build example/android/app/build example/ios/build lib",
-    "prepare": "bob build",
-    "typecheck": "tsc"
+    "build": "fluentui-scripts build",
+    "clean": "fluentui-scripts clean",
+    "depcheck": "fluentui-scripts depcheck",
+    "lint": "fluentui-scripts eslint",
+    "prettier": "fluentui-scripts prettier",
+    "prettier-fix": "fluentui-scripts prettier --fix true"
   },
   "keywords": [
     "react-native",
@@ -57,13 +61,13 @@
     "registry": "https://registry.npmjs.org/"
   },
   "devDependencies": {
+    "@elui-react-native/eslint-config-rules": "workspace:*",
+    "@elui-react-native/scripts": "workspace:*",
     "@react-native-community/cli": "^20.0.0",
     "@react-native/babel-preset": "0.79.1",
     "@types/react": "^19.0.3",
-    "del-cli": "^6.0.0",
     "react": "19.0.3",
     "react-native": "^0.79.0",
-    "react-native-builder-bob": "^0.40.13",
     "react-native-macos": "^0.79.0",
     "react-native-windows": "^0.79.0",
     "typescript": "5.0.4"
@@ -79,24 +83,6 @@
     "react-native-windows": {
       "optional": true
     }
-  },
-  "react-native-builder-bob": {
-    "source": "src",
-    "output": "lib",
-    "targets": [
-      [
-        "module",
-        {
-          "esm": true
-        }
-      ],
-      [
-        "typescript",
-        {
-          "project": "tsconfig.build.json"
-        }
-      ]
-    ]
   },
   "codegenConfig": {
     "name": "ELUISpec",

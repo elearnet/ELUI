@@ -1,11 +1,4 @@
 #import "FbrViewExample.h"
-
-#ifdef __has_include
-#if __has_include(<AppKit/AppKit.h>)
-#import <Cocoa/Cocoa.h>
-#endif
-#endif
-
 #import <react/renderer/components/ELUISpec/ComponentDescriptors.h>
 #import <react/renderer/components/ELUISpec/EventEmitters.h>
 #import <react/renderer/components/ELUISpec/Props.h>
@@ -35,7 +28,7 @@ using namespace facebook::react;
 - (instancetype)initWithFrame:(CGRect)frame
 {
   if (self = [super initWithFrame:frame]) {
-    static const auto defaultProps = std::make_shared<const FbrViewExampleProps>();
+    static const auto defaultProps = std::shared_ptr<const FbrViewExampleProps>(new FbrViewExampleProps());
     _props = defaultProps;
 #if __has_include(<UIKit/UIKit.h>)
       _view = [[UIView alloc] init];

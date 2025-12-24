@@ -1,10 +1,10 @@
 #import "InvertedCorner.h"
-#ifdef __has_include
+//#ifdef __has_include
 #if __has_include(<AppKit/AppKit.h>)
-#import <Cocoa/Cocoa.h>
+// #import <Cocoa/Cocoa.h>
 #import <QuartzCore/QuartzCore.h>
 #endif
-#endif
+//#endif
 #import <react/renderer/components/ELUISpec/ComponentDescriptors.h>
 #import <react/renderer/components/ELUISpec/EventEmitters.h>
 #import <react/renderer/components/ELUISpec/Props.h>
@@ -29,7 +29,7 @@ using namespace facebook::react;
 - (instancetype)initWithFrame:(CGRect)frame
 {
     if (self = [super initWithFrame:frame]) {
-        static const auto defaultProps = std::make_shared<const InvertedCornerProps>();
+        static const auto defaultProps = std::shared_ptr<const InvertedCornerProps>(new InvertedCornerProps());
         _props = defaultProps;
 #if __has_include(<AppKit/AppKit.h>)
         _cornerPosition = @"left";

@@ -1584,7 +1584,7 @@ PODS:
 DEPENDENCIES:
   - boost (from `../../../node_modules/react-native-macos/third-party-podspecs/boost.podspec`)
   - DoubleConversion (from `../../../node_modules/react-native-macos/third-party-podspecs/DoubleConversion.podspec`)
-  - ELUI (from `../../../node_modules/elui`)
+  - ELUI (from `../../../packages/el/elui`)
   - fast_float (from `../../../node_modules/react-native-macos/third-party-podspecs/fast_float.podspec`)
   - FBLazyVector (from `../../../node_modules/react-native-macos/Libraries/FBLazyVector`)
   - fmt (from `../../../node_modules/react-native-macos/third-party-podspecs/fmt.podspec`)
@@ -1662,7 +1662,7 @@ EXTERNAL SOURCES:
   DoubleConversion:
     :podspec: "../../../node_modules/react-native-macos/third-party-podspecs/DoubleConversion.podspec"
   ELUI:
-    :path: "../../../node_modules/elui"
+    :path: "../../../packages/el/elui"
   fast_float:
     :podspec: "../../../node_modules/react-native-macos/third-party-podspecs/fast_float.podspec"
   FBLazyVector:
@@ -1870,6 +1870,6 @@ SPEC CHECKSUMS:
   SocketRocket: 03f7111df1a343b162bf5b06ead333be808e1e0a
   Yoga: ab4cb9b5ef1db8c37e2ed52fdc1b47ff43ea92bb
 
-PODFILE CHECKSUM: e3f2008f29571c3596eaee2583df5ae0527ef192
+PODFILE CHECKSUM: 8cdc8db514d2fadd105043d2250bd10c3d396584
 
 COCOAPODS: 1.15.2
