@@ -1,4 +1,4 @@
-# Change Log - @uifabricshared/theme-registry
+# Change Log - @eluifabricshared/theme-registry
 
 <!-- This log was last generated on Tue, 05 Aug 2025 18:50:39 GMT and should not be manually modified. -->
 

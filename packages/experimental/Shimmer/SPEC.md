@@ -10,7 +10,7 @@ Many a time, applications must wait for content to load or perform lengthy data 
 
 To work with [FURN's theming](../../../docs/pages/Theming/Basics.md), the `Shimmer` requires the use of `ThemeProvider` from `@fluentui-react-native/theme`.
 
-Please see [this page](../../../docs/pages/Guides/UpdateThemeProvider.md) for information on updating your `ThemeProvider` if you are already using the older version from `@uifabricshared/theming-react-native`.
+Please see [this page](../../../docs/pages/Guides/UpdateThemeProvider.md) for information on updating your `ThemeProvider` if you are already using the older version from `@eluifabricshared/theming-react-native`.
 
 ## Sample Code
 

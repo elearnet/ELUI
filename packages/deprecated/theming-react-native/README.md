@@ -8,7 +8,7 @@ This package serves as an entry point which aggregates and re-exports some of th
 
 You may want a few different packages from this repo. Let's start with the following:
 
-- `@uifabricshared/theming-react-native`
+- `@eluifabricshared/theming-react-native`
 - `@fluentui-react-native/themed-stylesheets` for styling react-native's primitives components.
 
 E.g. In your package.json file:
@@ -20,7 +20,7 @@ E.g. In your package.json file:
   "description": "An app with lots of cool features",
   "main": "lib/index.js",
   "dependencies": {
-    "@uifabricshared/theming-react-native": "^0.2.0",
+    "@eluifabricshared/theming-react-native": "^0.2.0",
     "@fluentui-react-native/themed-stylesheet": "^0.2.0"
   }
 }
@@ -45,7 +45,7 @@ Once you've added a ThemeProvider to your tree, functional component descendents
 // MyComponent.tsx
 
 import * as React from 'react';
-import { useTheme } from '@uifabricshared/theming-react-native';
+import { useTheme } from '@eluifabricshared/theming-react-native';
 
 export const MyComponent: React.FunctionComponent = (_props: {}) => {
   // This hook retrieves the theme from the context set by the nearest parent ThemeProvider
@@ -61,7 +61,7 @@ If you're writing class components instead of functional components, you'll need
 // OtherComponent.tsx
 
 import * as React from 'react';
-import { ThemeContext, ITheme } from '@uifabricshared/theming-react-native';
+import { ThemeContext, ITheme } from '@eluifabricshared/theming-react-native';
 
 export class OtherComponent extends React.Component {
   public render(): JSX.Element {
@@ -86,7 +86,7 @@ While a 'greenfield' app developer might be fine without setting a ThemeRegistry
 ```tsx
 // App.tsx
 
-import { ThemeProvider, createPlatformThemeRegistry } from '@uifabricshared/theming-react-native';
+import { ThemeProvider, createPlatformThemeRegistry } from '@eluifabricshared/theming-react-native';
 import { MyAppImpl } from './MyAppImpl';
 
 export const myThemeRegistry = createPlatformThemeRegistry();
@@ -117,7 +117,7 @@ The `themed-stylesheet` package allows you to author View/Text/Image Style objec
 ```tsx
 // styles.ts
 
-import { ITheme } from '@uifabricshared/theming-react-native';
+import { ITheme } from '@eluifabricshared/theming-react-native';
 
 export const getThemedStyles = themedStyleSheet((t: ITheme) => {
   return {
@@ -142,7 +142,7 @@ export const getThemedStyles = themedStyleSheet((t: ITheme) => {
 
 import * as React from 'react';
 import { Text, ViewProps } from 'react-native';
-import { useTheme } from '@uifabricshared/theming-react-native';
+import { useTheme } from '@eluifabricshared/theming-react-native';
 import { getThemedStyles } from './styles';
 
 export const ThemedView: React.FunctionComponent<ViewProps> = (p: ViewProps) => {
@@ -168,7 +168,7 @@ Certain platforms will have multiple platform theme definitions. If you want the
 ```tsx
 // App.tsx
 
-import { ThemeProvider, createPlatformThemeRegistry, ThemingModuleHelper } from '@uifabricshared/theming-react-native';
+import { ThemeProvider, createPlatformThemeRegistry, ThemingModuleHelper } from '@eluifabricshared/theming-react-native';
 
 // Initializes the Default Theme with the 'TaskPane' platform theme, implicitly pulled from ThemingModuleHelper
 export const myThemeRegistry = createPlatformThemeRegistry('TaskPane');

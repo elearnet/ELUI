@@ -2924,7 +2924,7 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/icon",
-            "comment": "Bump @uifabricshared/foundation-compose to v1.11.22",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.11.22",
             "commit": "f4e881a5caef5a8258094f2a2ba674c62321886d"
           }
         ]
@@ -3002,7 +3002,7 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/icon",
-            "comment": "Bump @uifabricshared/foundation-compose to v1.11.20",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.11.20",
             "commit": "36ea0d81629f9326eb8c23912d9949381014dade"
           }
         ]
@@ -3080,7 +3080,7 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/icon",
-            "comment": "Bump @uifabricshared/foundation-compose to v1.11.19",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.11.19",
             "commit": "8cff404ca31eaa61017551a1d73fd3fdae7da132"
           }
         ]
@@ -3131,7 +3131,7 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/icon",
-            "comment": "Bump @uifabricshared/foundation-compose to v1.11.18",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.11.18",
             "commit": "f3481f50e20c6ab33f7f3ffca63e9f1e424fe2c1"
           }
         ]
@@ -3164,7 +3164,7 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/icon",
-            "comment": "Bump @uifabricshared/foundation-compose to v1.11.17",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.11.17",
             "commit": "9d96c6b126ce5293d5315054216af4bd3a447fbe"
           }
         ]
@@ -3203,7 +3203,7 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/icon",
-            "comment": "Bump @uifabricshared/foundation-compose to v1.11.16",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.11.16",
             "commit": "cf5789633ef5230512cb21ab923cc9f71bfed4c1"
           }
         ]
@@ -3242,7 +3242,7 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/icon",
-            "comment": "Bump @uifabricshared/foundation-compose to v1.11.15",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.11.15",
             "commit": "bcd4ac6dc74295095a0564905024ef32d6450cff"
           }
         ]
@@ -3281,7 +3281,7 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/icon",
-            "comment": "Bump @uifabricshared/foundation-compose to v1.11.14",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.11.14",
             "commit": "c183b7eb02925bf1d1284ad1b3c80c0f2e0c442f"
           }
         ]
@@ -3332,7 +3332,7 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/icon",
-            "comment": "Bump @uifabricshared/foundation-compose to v1.11.13",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.11.13",
             "commit": "c39b4436f2ca160a31ca1d7ca9fa8bf7d59512ed"
           }
         ]
@@ -3377,7 +3377,7 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/icon",
-            "comment": "Bump @uifabricshared/foundation-compose to v1.11.12",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.11.12",
             "commit": "0a18d2f8bb6505c6c6e2445ff3ba62ac79334872"
           }
         ]
@@ -3470,7 +3470,7 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/icon",
-            "comment": "Bump @uifabricshared/foundation-compose to v1.11.11",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.11.11",
             "commit": "54222b74c7d5f16d1108fab470a6f549de8e9b45"
           }
         ]
@@ -3551,7 +3551,7 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/icon",
-            "comment": "Bump @uifabricshared/foundation-compose to v1.11.10",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.11.10",
             "commit": "039a993d13ae01ff2212e8b91295d1ed5676c82d"
           }
         ]
@@ -3590,7 +3590,7 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/icon",
-            "comment": "Bump @uifabricshared/foundation-compose to v1.11.9",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.11.9",
             "commit": "c42dec6d24b24ded9a85dd11076e49d9b92980aa"
           }
         ]
@@ -3629,7 +3629,7 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/icon",
-            "comment": "Bump @uifabricshared/foundation-compose to v1.11.8",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.11.8",
             "commit": "5ff1c8ba46f401679119d71fe4035642dc175e15"
           }
         ]
@@ -3686,7 +3686,7 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/icon",
-            "comment": "Bump @uifabricshared/foundation-compose to v1.11.7",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.11.7",
             "commit": "163defba33412f6f44117750a540b8fdecd3bdca"
           }
         ],
@@ -3745,7 +3745,7 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/icon",
-            "comment": "Bump @uifabricshared/foundation-compose to v1.11.6",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.11.6",
             "commit": "58c54eff228ec071098f3c18a91f11b4a89a6c15"
           }
         ]
@@ -3784,7 +3784,7 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/icon",
-            "comment": "Bump @uifabricshared/foundation-compose to v1.11.5",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.11.5",
             "commit": "06307699c93ffe31a57f8f1c1fb60beec83583e0"
           }
         ]
@@ -3856,7 +3856,7 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/icon",
-            "comment": "Bump @uifabricshared/foundation-compose to v1.11.4",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.11.4",
             "commit": "bc86b4fbf5f07c0bfbc950a1a99a3cf4b35807d1"
           }
         ]
@@ -3901,7 +3901,7 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/icon",
-            "comment": "Bump @uifabricshared/foundation-compose to v1.11.3",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.11.3",
             "commit": "38fe241a385ecd1ce4e51b5bcba57a9dd0426789"
           }
         ]
@@ -3970,7 +3970,7 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/icon",
-            "comment": "Bump @uifabricshared/foundation-compose to v1.11.2",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.11.2",
             "commit": "511aeb31982a5fb9dd2f7196c0c7217cc4a3dbc6"
           }
         ]
@@ -4036,7 +4036,7 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/icon",
-            "comment": "Bump @uifabricshared/foundation-compose to v1.11.1",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.11.1",
             "commit": "6a9f067ae2510481b6ff3512c10c08e7de84f86e"
           }
         ]
@@ -4081,7 +4081,7 @@
             "package": "@fluentui-react-native/icon"
           },
           {
-            "comment": "Bump @uifabricshared/foundation-compose to v1.11.0",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.11.0",
             "author": "afoxman@microsoft.com",
             "commit": "f16d742b5c2d5b97e49ac1ef7b740cbf89fc42e6",
             "package": "@fluentui-react-native/icon"
@@ -4602,7 +4602,7 @@
             "package": "@fluentui-react-native/icon"
           },
           {
-            "comment": "Bump @uifabricshared/foundation-compose to v1.10.3",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.10.3",
             "author": "jasonmo@microsoft.com",
             "commit": "e506337e109ef24e675c2ac794179db86fcb7e86",
             "package": "@fluentui-react-native/icon"
@@ -4674,7 +4674,7 @@
             "package": "@fluentui-react-native/icon"
           },
           {
-            "comment": "Bump @uifabricshared/foundation-compose to v1.10.1",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.10.1",
             "author": "ruaraki@microsoft.com",
             "commit": "56ccce452d0dbbd5c24f53ebdd467f2d01dda694",
             "package": "@fluentui-react-native/icon"
@@ -4756,7 +4756,7 @@
             "package": "@fluentui-react-native/icon"
           },
           {
-            "comment": "Bump @uifabricshared/foundation-compose to v1.10.0",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.10.0",
             "author": "67026167+chiuam@users.noreply.github.com",
             "commit": "68dd61bd45ca8ffacc1580e468f3c01810e3093e",
             "package": "@fluentui-react-native/icon"

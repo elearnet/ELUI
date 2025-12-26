@@ -210,8 +210,8 @@ Thu, 09 Nov 2023 02:39:09 GMT
 - Update to react-native 0.72 (30809111+acoates-ms@users.noreply.github.com)
 - Bump @fluentui-react-native/component-cache to v1.6.0
 - Bump @fluentui-react-native/interactive-hooks to v0.25.0
-- Bump @uifabricshared/foundation-composable to v0.12.3
-- Bump @uifabricshared/foundation-settings to v0.14.0
+- Bump @eluifabricshared/foundation-composable to v0.12.3
+- Bump @eluifabricshared/foundation-settings to v0.14.0
 
 ## 0.15.0
 
@@ -281,8 +281,8 @@ Wed, 09 Aug 2023 22:02:15 GMT
 ### Patches
 
 - Bump @fluentui-react-native/interactive-hooks to v0.24.6
-- Bump @uifabricshared/foundation-composable to v0.12.2
-- Bump @uifabricshared/foundation-settings to v0.13.2
+- Bump @eluifabricshared/foundation-composable to v0.12.2
+- Bump @eluifabricshared/foundation-settings to v0.13.2
 
 ## 0.12.7
 
@@ -339,8 +339,8 @@ Mon, 12 Jun 2023 17:46:44 GMT
 ### Patches
 
 - Bump @fluentui-react-native/interactive-hooks to v0.24.0
-- Bump @uifabricshared/foundation-composable to v0.12.1
-- Bump @uifabricshared/foundation-settings to v0.13.1
+- Bump @eluifabricshared/foundation-composable to v0.12.1
+- Bump @eluifabricshared/foundation-settings to v0.13.1
 
 ## 0.12.0
 
@@ -351,8 +351,8 @@ Mon, 05 Jun 2023 19:26:23 GMT
 - Upgrade to React Native 0.71 (sanajmi@microsoft.com)
 - Bump @fluentui-react-native/component-cache to v1.5.0
 - Bump @fluentui-react-native/interactive-hooks to v0.23.0
-- Bump @uifabricshared/foundation-composable to v0.12.0
-- Bump @uifabricshared/foundation-settings to v0.13.0
+- Bump @eluifabricshared/foundation-composable to v0.12.0
+- Bump @eluifabricshared/foundation-settings to v0.13.0
 
 ## 0.11.43
 
@@ -452,8 +452,8 @@ Fri, 24 Feb 2023 20:39:58 GMT
 - Order imports (78454019+lyzhan7@users.noreply.github.com)
 - Bump @fluentui-react-native/component-cache to v1.4.4
 - Bump @fluentui-react-native/interactive-hooks to v0.22.20
-- Bump @uifabricshared/foundation-composable to v0.11.3
-- Bump @uifabricshared/foundation-settings to v0.12.3
+- Bump @eluifabricshared/foundation-composable to v0.11.3
+- Bump @eluifabricshared/foundation-settings to v0.12.3
 
 ## 0.11.31
 
@@ -496,8 +496,8 @@ Wed, 01 Feb 2023 22:33:15 GMT
 - Enable @typescript-eslint/consistent-type-imports (30809111+acoates-ms@users.noreply.github.com)
 - Bump @fluentui-react-native/component-cache to v1.4.3
 - Bump @fluentui-react-native/interactive-hooks to v0.22.15
-- Bump @uifabricshared/foundation-composable to v0.11.2
-- Bump @uifabricshared/foundation-settings to v0.12.2
+- Bump @eluifabricshared/foundation-composable to v0.11.2
+- Bump @eluifabricshared/foundation-settings to v0.12.2
 
 ## 0.11.26
 
@@ -887,8 +887,8 @@ Fri, 30 Sep 2022 00:54:35 GMT
 - Update react-native to 0.68 (krsiler@microsoft.com)
 - Bump @fluentui-react-native/component-cache to v1.4.1
 - Bump @fluentui-react-native/interactive-hooks to v0.18.8
-- Bump @uifabricshared/foundation-composable to v0.11.1
-- Bump @uifabricshared/foundation-settings to v0.12.1
+- Bump @eluifabricshared/foundation-composable to v0.11.1
+- Bump @eluifabricshared/foundation-settings to v0.12.1
 
 ## 0.10.14
 
@@ -1011,8 +1011,8 @@ Thu, 14 Jul 2022 18:09:51 GMT
 - Update to React Native 0.66 (sanajmi@microsoft.com)
 - Bump @fluentui-react-native/component-cache to v1.4.0
 - Bump @fluentui-react-native/interactive-hooks to v0.17.0
-- Bump @uifabricshared/foundation-composable to v0.11.0
-- Bump @uifabricshared/foundation-settings to v0.12.0
+- Bump @eluifabricshared/foundation-composable to v0.11.0
+- Bump @eluifabricshared/foundation-settings to v0.12.0
 
 ## 0.9.35
 
@@ -1200,8 +1200,8 @@ Thu, 31 Mar 2022 07:27:47 GMT
 - Ban `export *` in index files for better tree-shakeability (4123478+tido64@users.noreply.github.com)
 - Bump @fluentui-react-native/component-cache to v1.3.2
 - Bump @fluentui-react-native/interactive-hooks to v0.14.6
-- Bump @uifabricshared/foundation-composable to v0.10.3
-- Bump @uifabricshared/foundation-settings to v0.11.3
+- Bump @eluifabricshared/foundation-composable to v0.10.3
+- Bump @eluifabricshared/foundation-settings to v0.11.3
 
 ## 0.9.12
 
@@ -1405,8 +1405,8 @@ Mon, 20 Dec 2021 22:56:01 GMT
 - Add repository property to all package.json files (ruaraki@microsoft.com)
 - Bump @fluentui-react-native/component-cache to v1.3.1
 - Bump @fluentui-react-native/interactive-hooks to v0.11.7
-- Bump @uifabricshared/foundation-composable to v0.10.2
-- Bump @uifabricshared/foundation-settings to v0.11.2
+- Bump @eluifabricshared/foundation-composable to v0.10.2
+- Bump @eluifabricshared/foundation-settings to v0.11.2
 
 ## 0.8.6
 
@@ -1423,8 +1423,8 @@ Sat, 18 Dec 2021 04:15:05 GMT
 ### Patches
 
 - Bump @fluentui-react-native/interactive-hooks to v0.11.5
-- Bump @uifabricshared/foundation-composable to v0.10.1
-- Bump @uifabricshared/foundation-settings to v0.11.1
+- Bump @eluifabricshared/foundation-composable to v0.10.1
+- Bump @eluifabricshared/foundation-settings to v0.11.1
 
 ## 0.8.4
 
@@ -1471,8 +1471,8 @@ Wed, 17 Nov 2021 19:28:07 GMT
 
 - Bump @fluentui-react-native/interactive-hooks to v0.11.0 (afoxman@microsoft.com)
 - Bump @fluentui-react-native/component-cache to v1.3.0 (afoxman@microsoft.com)
-- Bump @uifabricshared/foundation-composable to v0.10.0 (afoxman@microsoft.com)
-- Bump @uifabricshared/foundation-settings to v0.11.0 (afoxman@microsoft.com)
+- Bump @eluifabricshared/foundation-composable to v0.10.0 (afoxman@microsoft.com)
+- Bump @eluifabricshared/foundation-settings to v0.11.0 (afoxman@microsoft.com)
 
 ## 0.7.34
 
@@ -1504,7 +1504,7 @@ Mon, 25 Oct 2021 19:24:43 GMT
 
 ### Patches
 
-- Bump @uifabricshared/foundation-settings to v0.10.3 (ruaraki@microsoft.com)
+- Bump @eluifabricshared/foundation-settings to v0.10.3 (ruaraki@microsoft.com)
 
 ## 0.7.30
 
@@ -1757,8 +1757,8 @@ Wed, 04 Aug 2021 06:26:25 GMT
 ### Patches
 
 - Bump @fluentui-react-native/component-cache to v1.2.3 (67026167+chiuam@users.noreply.github.com)
-- Bump @uifabricshared/foundation-settings to v0.10.0 (67026167+chiuam@users.noreply.github.com)
-- Bump @uifabricshared/foundation-composable to v0.9.0 (67026167+chiuam@users.noreply.github.com)
+- Bump @eluifabricshared/foundation-settings to v0.10.0 (67026167+chiuam@users.noreply.github.com)
+- Bump @eluifabricshared/foundation-composable to v0.9.0 (67026167+chiuam@users.noreply.github.com)
 - Bump @fluentui-react-native/interactive-hooks to v0.10.23 (67026167+chiuam@users.noreply.github.com)
 
 ## 0.6.12

@@ -115,7 +115,7 @@ Thu, 22 Feb 2024 23:27:46 GMT
 - Bump @fluentui-react-native/contextual-menu to v0.23.12
 - Bump @fluentui-react-native/icon to v0.20.9
 - Bump @fluentui-react-native/tokens to v0.22.6
-- Bump @uifabricshared/foundation-compose to v1.14.21
+- Bump @eluifabricshared/foundation-compose to v1.14.21
 
 ## 0.12.13
 
@@ -134,7 +134,7 @@ Mon, 22 Jan 2024 22:09:17 GMT
 - Bump @fluentui-react-native/button to v0.36.10
 - Bump @fluentui-react-native/contextual-menu to v0.23.10
 - Bump @fluentui-react-native/icon to v0.20.8
-- Bump @uifabricshared/foundation-compose to v1.14.20
+- Bump @eluifabricshared/foundation-compose to v1.14.20
 
 ## 0.12.11
 
@@ -146,7 +146,7 @@ Thu, 04 Jan 2024 21:06:26 GMT
 - Bump @fluentui-react-native/contextual-menu to v0.23.9
 - Bump @fluentui-react-native/icon to v0.20.7
 - Bump @fluentui-react-native/tokens to v0.22.5
-- Bump @uifabricshared/foundation-compose to v1.14.19
+- Bump @eluifabricshared/foundation-compose to v1.14.19
 
 ## 0.12.10
 
@@ -158,7 +158,7 @@ Thu, 04 Jan 2024 01:35:42 GMT
 - Bump @fluentui-react-native/contextual-menu to v0.23.8
 - Bump @fluentui-react-native/icon to v0.20.6
 - Bump @fluentui-react-native/tokens to v0.22.4
-- Bump @uifabricshared/foundation-compose to v1.14.18
+- Bump @eluifabricshared/foundation-compose to v1.14.18
 
 ## 0.12.9
 
@@ -178,7 +178,7 @@ Wed, 03 Jan 2024 00:15:20 GMT
 - Bump @fluentui-react-native/contextual-menu to v0.23.6
 - Bump @fluentui-react-native/icon to v0.20.5
 - Bump @fluentui-react-native/tokens to v0.22.3
-- Bump @uifabricshared/foundation-compose to v1.14.17
+- Bump @eluifabricshared/foundation-compose to v1.14.17
 
 ## 0.12.7
 
@@ -198,7 +198,7 @@ Thu, 21 Dec 2023 01:31:00 GMT
 - Bump @fluentui-react-native/contextual-menu to v0.23.4
 - Bump @fluentui-react-native/icon to v0.20.4
 - Bump @fluentui-react-native/tokens to v0.22.2
-- Bump @uifabricshared/foundation-compose to v1.14.16
+- Bump @eluifabricshared/foundation-compose to v1.14.16
 
 ## 0.12.5
 
@@ -209,7 +209,7 @@ Wed, 20 Dec 2023 20:20:38 GMT
 - Bump @fluentui-react-native/button to v0.36.5
 - Bump @fluentui-react-native/contextual-menu to v0.23.3
 - Bump @fluentui-react-native/icon to v0.20.3
-- Bump @uifabricshared/foundation-compose to v1.14.15
+- Bump @eluifabricshared/foundation-compose to v1.14.15
 
 ## 0.12.4
 
@@ -221,7 +221,7 @@ Wed, 20 Dec 2023 00:05:24 GMT
 - Bump @fluentui-react-native/contextual-menu to v0.23.2
 - Bump @fluentui-react-native/icon to v0.20.2
 - Bump @fluentui-react-native/tokens to v0.22.1
-- Bump @uifabricshared/foundation-compose to v1.14.14
+- Bump @eluifabricshared/foundation-compose to v1.14.14
 
 ## 0.12.3
 
@@ -261,9 +261,9 @@ Thu, 09 Nov 2023 02:39:09 GMT
 - Bump @fluentui-react-native/contextual-menu to v0.23.0
 - Bump @fluentui-react-native/icon to v0.20.0
 - Bump @fluentui-react-native/tokens to v0.22.0
-- Bump @uifabricshared/foundation-composable to v0.12.3
-- Bump @uifabricshared/foundation-compose to v1.14.13
-- Bump @uifabricshared/foundation-settings to v0.14.0
+- Bump @eluifabricshared/foundation-composable to v0.12.3
+- Bump @eluifabricshared/foundation-compose to v1.14.13
+- Bump @eluifabricshared/foundation-settings to v0.14.0
 
 ## 0.11.31
 
@@ -276,7 +276,7 @@ Tue, 07 Nov 2023 20:20:34 GMT
 - Bump @fluentui-react-native/contextual-menu to v0.22.25
 - Bump @fluentui-react-native/icon to v0.19.16
 - Bump @fluentui-react-native/tokens to v0.21.6
-- Bump @uifabricshared/foundation-compose to v1.14.12
+- Bump @eluifabricshared/foundation-compose to v1.14.12
 
 ## 0.11.29
 
@@ -296,7 +296,7 @@ Mon, 30 Oct 2023 21:26:06 GMT
 - Bump @fluentui-react-native/contextual-menu to v0.22.22
 - Bump @fluentui-react-native/icon to v0.19.14
 - Bump @fluentui-react-native/tokens to v0.21.4
-- Bump @uifabricshared/foundation-compose to v1.14.10
+- Bump @eluifabricshared/foundation-compose to v1.14.10
 
 ## 0.11.27
 
@@ -307,7 +307,7 @@ Wed, 25 Oct 2023 20:50:34 GMT
 - Bump @fluentui-react-native/button to v0.35.8
 - Bump @fluentui-react-native/contextual-menu to v0.22.21
 - Bump @fluentui-react-native/icon to v0.19.13
-- Bump @uifabricshared/foundation-compose to v1.14.9
+- Bump @eluifabricshared/foundation-compose to v1.14.9
 
 ## 0.11.26
 
@@ -364,7 +364,7 @@ Tue, 29 Aug 2023 22:56:32 GMT
 - Bump @fluentui-react-native/contextual-menu to v0.22.17
 - Bump @fluentui-react-native/icon to v0.19.10
 - Bump @fluentui-react-native/tokens to v0.21.3
-- Bump @uifabricshared/foundation-compose to v1.14.8
+- Bump @eluifabricshared/foundation-compose to v1.14.8
 
 ## 0.11.20
 
@@ -386,7 +386,7 @@ Wed, 23 Aug 2023 18:55:24 GMT
 - Bump @fluentui-react-native/button to v0.35.1
 - Bump @fluentui-react-native/contextual-menu to v0.22.15
 - Bump @fluentui-react-native/icon to v0.19.8
-- Bump @uifabricshared/foundation-compose to v1.14.7
+- Bump @eluifabricshared/foundation-compose to v1.14.7
 
 ## 0.11.18
 
@@ -406,7 +406,7 @@ Mon, 14 Aug 2023 20:14:41 GMT
 - Bump @fluentui-react-native/contextual-menu to v0.22.14
 - Bump @fluentui-react-native/icon to v0.19.7
 - Bump @fluentui-react-native/tokens to v0.21.2
-- Bump @uifabricshared/foundation-compose to v1.14.6
+- Bump @eluifabricshared/foundation-compose to v1.14.6
 
 ## 0.11.16
 
@@ -417,9 +417,9 @@ Wed, 09 Aug 2023 22:02:15 GMT
 - Bump @fluentui-react-native/button to v0.34.9
 - Bump @fluentui-react-native/contextual-menu to v0.22.13
 - Bump @fluentui-react-native/icon to v0.19.6
-- Bump @uifabricshared/foundation-composable to v0.12.2
-- Bump @uifabricshared/foundation-compose to v1.14.5
-- Bump @uifabricshared/foundation-settings to v0.13.2
+- Bump @eluifabricshared/foundation-composable to v0.12.2
+- Bump @eluifabricshared/foundation-compose to v1.14.5
+- Bump @eluifabricshared/foundation-settings to v0.13.2
 
 ## 0.11.15
 
@@ -438,7 +438,7 @@ Mon, 31 Jul 2023 19:29:59 GMT
 - Bump @fluentui-react-native/button to v0.34.7
 - Bump @fluentui-react-native/contextual-menu to v0.22.12
 - Bump @fluentui-react-native/icon to v0.19.5
-- Bump @uifabricshared/foundation-compose to v1.14.4
+- Bump @eluifabricshared/foundation-compose to v1.14.4
 
 ## 0.11.13
 
@@ -449,7 +449,7 @@ Tue, 18 Jul 2023 19:09:32 GMT
 - Bump @fluentui-react-native/button to v0.34.6
 - Bump @fluentui-react-native/contextual-menu to v0.22.11
 - Bump @fluentui-react-native/icon to v0.19.4
-- Bump @uifabricshared/foundation-compose to v1.14.3
+- Bump @eluifabricshared/foundation-compose to v1.14.3
 
 ## 0.11.12
 
@@ -494,7 +494,7 @@ Fri, 07 Jul 2023 20:45:12 GMT
 - Bump @fluentui-react-native/contextual-menu to v0.22.6
 - Bump @fluentui-react-native/icon to v0.19.3
 - Bump @fluentui-react-native/tokens to v0.21.1
-- Bump @uifabricshared/foundation-compose to v1.14.2
+- Bump @eluifabricshared/foundation-compose to v1.14.2
 
 ## 0.11.7
 
@@ -542,9 +542,9 @@ Mon, 12 Jun 2023 17:46:44 GMT
 - Bump @fluentui-react-native/button to v0.34.0
 - Bump @fluentui-react-native/contextual-menu to v0.22.3
 - Bump @fluentui-react-native/icon to v0.19.0
-- Bump @uifabricshared/foundation-composable to v0.12.1
-- Bump @uifabricshared/foundation-compose to v1.14.1
-- Bump @uifabricshared/foundation-settings to v0.13.1
+- Bump @eluifabricshared/foundation-composable to v0.12.1
+- Bump @eluifabricshared/foundation-compose to v1.14.1
+- Bump @eluifabricshared/foundation-settings to v0.13.1
 
 ## 0.11.2
 
@@ -576,9 +576,9 @@ Mon, 05 Jun 2023 19:26:24 GMT
 - Bump @fluentui-react-native/contextual-menu to v0.22.0
 - Bump @fluentui-react-native/icon to v0.18.0
 - Bump @fluentui-react-native/tokens to v0.21.0
-- Bump @uifabricshared/foundation-composable to v0.12.0
-- Bump @uifabricshared/foundation-compose to v1.14.0
-- Bump @uifabricshared/foundation-settings to v0.13.0
+- Bump @eluifabricshared/foundation-composable to v0.12.0
+- Bump @eluifabricshared/foundation-compose to v1.14.0
+- Bump @eluifabricshared/foundation-settings to v0.13.0
 
 ## 0.10.52
 
@@ -590,7 +590,7 @@ Tue, 30 May 2023 20:34:15 GMT
 - Bump @fluentui-react-native/contextual-menu to v0.21.43
 - Bump @fluentui-react-native/icon to v0.17.27
 - Bump @fluentui-react-native/tokens to v0.20.16
-- Bump @uifabricshared/foundation-compose to v1.13.10
+- Bump @eluifabricshared/foundation-compose to v1.13.10
 
 ## 0.10.51
 
@@ -602,7 +602,7 @@ Wed, 03 May 2023 07:08:52 GMT
 - Bump @fluentui-react-native/contextual-menu to v0.21.42
 - Bump @fluentui-react-native/icon to v0.17.26
 - Bump @fluentui-react-native/tokens to v0.20.15
-- Bump @uifabricshared/foundation-compose to v1.13.9
+- Bump @eluifabricshared/foundation-compose to v1.13.9
 
 ## 0.10.50
 
@@ -651,7 +651,7 @@ Tue, 21 Mar 2023 21:53:47 GMT
 - Bump @fluentui-react-native/contextual-menu to v0.21.39
 - Bump @fluentui-react-native/icon to v0.17.23
 - Bump @fluentui-react-native/tokens to v0.20.14
-- Bump @uifabricshared/foundation-compose to v1.13.8
+- Bump @eluifabricshared/foundation-compose to v1.13.8
 
 ## 0.10.45
 
@@ -663,7 +663,7 @@ Sat, 18 Mar 2023 17:22:31 GMT
 - Bump @fluentui-react-native/contextual-menu to v0.21.38
 - Bump @fluentui-react-native/icon to v0.17.22
 - Bump @fluentui-react-native/tokens to v0.20.13
-- Bump @uifabricshared/foundation-compose to v1.13.7
+- Bump @eluifabricshared/foundation-compose to v1.13.7
 
 ## 0.10.44
 
@@ -685,7 +685,7 @@ Tue, 14 Mar 2023 20:50:45 GMT
 - Bump @fluentui-react-native/contextual-menu to v0.21.36
 - Bump @fluentui-react-native/icon to v0.17.20
 - Bump @fluentui-react-native/tokens to v0.20.12
-- Bump @uifabricshared/foundation-compose to v1.13.6
+- Bump @eluifabricshared/foundation-compose to v1.13.6
 
 ## 0.10.42
 
@@ -721,7 +721,7 @@ Tue, 07 Mar 2023 20:54:15 GMT
 - Bump @fluentui-react-native/button to v0.32.40
 - Bump @fluentui-react-native/contextual-menu to v0.21.35
 - Bump @fluentui-react-native/icon to v0.17.19
-- Bump @uifabricshared/foundation-compose to v1.13.5
+- Bump @eluifabricshared/foundation-compose to v1.13.5
 
 ## 0.10.38
 
@@ -743,7 +743,7 @@ Fri, 03 Mar 2023 06:47:26 GMT
 - Bump @fluentui-react-native/contextual-menu to v0.21.33
 - Bump @fluentui-react-native/icon to v0.17.17
 - Bump @fluentui-react-native/tokens to v0.20.11
-- Bump @uifabricshared/foundation-compose to v1.13.4
+- Bump @eluifabricshared/foundation-compose to v1.13.4
 
 ## 0.10.36
 
@@ -785,9 +785,9 @@ Fri, 24 Feb 2023 20:39:59 GMT
 - Bump @fluentui-react-native/contextual-menu to v0.21.30
 - Bump @fluentui-react-native/icon to v0.17.14
 - Bump @fluentui-react-native/tokens to v0.20.10
-- Bump @uifabricshared/foundation-composable to v0.11.3
-- Bump @uifabricshared/foundation-compose to v1.13.3
-- Bump @uifabricshared/foundation-settings to v0.12.3
+- Bump @eluifabricshared/foundation-composable to v0.11.3
+- Bump @eluifabricshared/foundation-compose to v1.13.3
+- Bump @eluifabricshared/foundation-settings to v0.12.3
 
 ## 0.10.32
 
@@ -799,7 +799,7 @@ Fri, 24 Feb 2023 02:22:40 GMT
 - Bump @fluentui-react-native/contextual-menu to v0.21.29
 - Bump @fluentui-react-native/icon to v0.17.13
 - Bump @fluentui-react-native/tokens to v0.20.9
-- Bump @uifabricshared/foundation-compose to v1.13.2
+- Bump @eluifabricshared/foundation-compose to v1.13.2
 
 ## 0.10.31
 
@@ -819,7 +819,7 @@ Sat, 11 Feb 2023 01:32:30 GMT
 - Bump @fluentui-react-native/contextual-menu to v0.21.28
 - Bump @fluentui-react-native/icon to v0.17.12
 - Bump @fluentui-react-native/tokens to v0.20.8
-- Bump @uifabricshared/foundation-compose to v1.13.1
+- Bump @eluifabricshared/foundation-compose to v1.13.1
 
 ## 0.10.29
 
@@ -846,7 +846,7 @@ Fri, 03 Feb 2023 01:49:36 GMT
 - Bump @fluentui-react-native/button to v0.32.30
 - Bump @fluentui-react-native/contextual-menu to v0.21.25
 - Bump @fluentui-react-native/icon to v0.17.11
-- Bump @uifabricshared/foundation-compose to v1.13.0
+- Bump @eluifabricshared/foundation-compose to v1.13.0
 
 ## 0.10.26
 
@@ -865,7 +865,7 @@ Thu, 02 Feb 2023 01:29:39 GMT
 - Bump @fluentui-react-native/button to v0.32.28
 - Bump @fluentui-react-native/contextual-menu to v0.21.24
 - Bump @fluentui-react-native/icon to v0.17.10
-- Bump @uifabricshared/foundation-compose to v1.12.39
+- Bump @eluifabricshared/foundation-compose to v1.12.39
 
 ## 0.10.24
 
@@ -879,9 +879,9 @@ Wed, 01 Feb 2023 22:33:16 GMT
 - Bump @fluentui-react-native/contextual-menu to v0.21.23
 - Bump @fluentui-react-native/icon to v0.17.9
 - Bump @fluentui-react-native/tokens to v0.20.7
-- Bump @uifabricshared/foundation-composable to v0.11.2
-- Bump @uifabricshared/foundation-compose to v1.12.38
-- Bump @uifabricshared/foundation-settings to v0.12.2
+- Bump @eluifabricshared/foundation-composable to v0.11.2
+- Bump @eluifabricshared/foundation-compose to v1.12.38
+- Bump @eluifabricshared/foundation-settings to v0.12.2
 
 ## 0.10.23
 
@@ -893,7 +893,7 @@ Mon, 30 Jan 2023 07:12:38 GMT
 - Bump @fluentui-react-native/contextual-menu to v0.21.22
 - Bump @fluentui-react-native/icon to v0.17.8
 - Bump @fluentui-react-native/tokens to v0.20.6
-- Bump @uifabricshared/foundation-compose to v1.12.37
+- Bump @eluifabricshared/foundation-compose to v1.12.37
 
 ## 0.10.22
 
@@ -905,7 +905,7 @@ Wed, 25 Jan 2023 21:31:18 GMT
 - Bump @fluentui-react-native/contextual-menu to v0.21.21
 - Bump @fluentui-react-native/icon to v0.17.7
 - Bump @fluentui-react-native/tokens to v0.20.5
-- Bump @uifabricshared/foundation-compose to v1.12.36
+- Bump @eluifabricshared/foundation-compose to v1.12.36
 
 ## 0.10.21
 
@@ -926,7 +926,7 @@ Fri, 20 Jan 2023 18:06:46 GMT
 - Bump @fluentui-react-native/button to v0.32.23
 - Bump @fluentui-react-native/contextual-menu to v0.21.19
 - Bump @fluentui-react-native/icon to v0.17.5
-- Bump @uifabricshared/foundation-compose to v1.12.35
+- Bump @eluifabricshared/foundation-compose to v1.12.35
 
 ## 0.10.19
 
@@ -938,7 +938,7 @@ Wed, 18 Jan 2023 01:55:11 GMT
 - Bump @fluentui-react-native/contextual-menu to v0.21.18
 - Bump @fluentui-react-native/icon to v0.17.4
 - Bump @fluentui-react-native/tokens to v0.20.4
-- Bump @uifabricshared/foundation-compose to v1.12.34
+- Bump @eluifabricshared/foundation-compose to v1.12.34
 
 ## 0.10.18
 
@@ -950,7 +950,7 @@ Tue, 10 Jan 2023 20:17:18 GMT
 - Bump @fluentui-react-native/contextual-menu to v0.21.17
 - Bump @fluentui-react-native/icon to v0.17.3
 - Bump @fluentui-react-native/tokens to v0.20.3
-- Bump @uifabricshared/foundation-compose to v1.12.33
+- Bump @eluifabricshared/foundation-compose to v1.12.33
 
 ## 0.10.17
 
@@ -961,7 +961,7 @@ Mon, 09 Jan 2023 22:25:00 GMT
 - Bump @fluentui-react-native/button to v0.32.20
 - Bump @fluentui-react-native/contextual-menu to v0.21.16
 - Bump @fluentui-react-native/icon to v0.17.2
-- Bump @uifabricshared/foundation-compose to v1.12.32
+- Bump @eluifabricshared/foundation-compose to v1.12.32
 
 ## 0.10.16
 
@@ -972,7 +972,7 @@ Fri, 06 Jan 2023 12:26:31 GMT
 - Bump @fluentui-react-native/button to v0.32.19
 - Bump @fluentui-react-native/contextual-menu to v0.21.15
 - Bump @fluentui-react-native/icon to v0.17.1
-- Bump @uifabricshared/foundation-compose to v1.12.31
+- Bump @eluifabricshared/foundation-compose to v1.12.31
 
 ## 0.10.15
 
@@ -1044,7 +1044,7 @@ Thu, 29 Dec 2022 03:47:47 GMT
 - Bump @fluentui-react-native/contextual-menu to v0.21.8
 - Bump @fluentui-react-native/icon to v0.16.6
 - Bump @fluentui-react-native/tokens to v0.20.2
-- Bump @uifabricshared/foundation-compose to v1.12.30
+- Bump @eluifabricshared/foundation-compose to v1.12.30
 
 ## 0.10.8
 
@@ -1064,7 +1064,7 @@ Tue, 27 Dec 2022 22:21:15 GMT
 - Bump @fluentui-react-native/contextual-menu to v0.21.7
 - Bump @fluentui-react-native/icon to v0.16.5
 - Bump @fluentui-react-native/tokens to v0.20.1
-- Bump @uifabricshared/foundation-compose to v1.12.29
+- Bump @eluifabricshared/foundation-compose to v1.12.29
 
 ## 0.10.6
 
@@ -1075,7 +1075,7 @@ Tue, 27 Dec 2022 10:18:14 GMT
 - Bump @fluentui-react-native/button to v0.32.9
 - Bump @fluentui-react-native/contextual-menu to v0.21.6
 - Bump @fluentui-react-native/icon to v0.16.4
-- Bump @uifabricshared/foundation-compose to v1.12.28
+- Bump @eluifabricshared/foundation-compose to v1.12.28
 
 ## 0.10.5
 
@@ -1095,7 +1095,7 @@ Thu, 15 Dec 2022 14:50:50 GMT
 - Bump @fluentui-react-native/contextual-menu to v0.21.4
 - Bump @fluentui-react-native/icon to v0.16.3
 - Bump @fluentui-react-native/tokens to v0.20.0
-- Bump @uifabricshared/foundation-compose to v1.12.27
+- Bump @eluifabricshared/foundation-compose to v1.12.27
 
 ## 0.10.3
 
@@ -1115,7 +1115,7 @@ Fri, 09 Dec 2022 05:23:38 GMT
 - Bump @fluentui-react-native/contextual-menu to v0.21.2
 - Bump @fluentui-react-native/icon to v0.16.2
 - Bump @fluentui-react-native/tokens to v0.19.1
-- Bump @uifabricshared/foundation-compose to v1.12.26
+- Bump @eluifabricshared/foundation-compose to v1.12.26
 
 ## 0.10.1
 
@@ -1126,7 +1126,7 @@ Tue, 06 Dec 2022 16:59:54 GMT
 - Bump @fluentui-react-native/button to v0.32.6
 - Bump @fluentui-react-native/contextual-menu to v0.21.1
 - Bump @fluentui-react-native/icon to v0.16.1
-- Bump @uifabricshared/foundation-compose to v1.12.25
+- Bump @eluifabricshared/foundation-compose to v1.12.25
 
 ## 0.10.0
 
@@ -1149,7 +1149,7 @@ Tue, 06 Dec 2022 00:46:41 GMT
 - Bump @fluentui-react-native/contextual-menu to v0.20.7
 - Bump @fluentui-react-native/icon to v0.15.5
 - Bump @fluentui-react-native/tokens to v0.19.0
-- Bump @uifabricshared/foundation-compose to v1.12.24
+- Bump @eluifabricshared/foundation-compose to v1.12.24
 
 ## 0.9.7
 
@@ -1162,7 +1162,7 @@ Thu, 01 Dec 2022 03:12:20 GMT
 - Bump @fluentui-react-native/contextual-menu to v0.20.6
 - Bump @fluentui-react-native/icon to v0.15.4
 - Bump @fluentui-react-native/tokens to v0.18.1
-- Bump @uifabricshared/foundation-compose to v1.12.23
+- Bump @eluifabricshared/foundation-compose to v1.12.23
 
 ## 0.9.6
 
@@ -1209,7 +1209,7 @@ Mon, 28 Nov 2022 11:51:05 GMT
 - Bump @fluentui-react-native/contextual-menu to v0.20.2
 - Bump @fluentui-react-native/icon to v0.15.2
 - Bump @fluentui-react-native/tokens to v0.18.0
-- Bump @uifabricshared/foundation-compose to v1.12.22
+- Bump @eluifabricshared/foundation-compose to v1.12.22
 
 ## 0.9.1
 
@@ -1220,7 +1220,7 @@ Wed, 16 Nov 2022 08:47:25 GMT
 - Bump @fluentui-react-native/button to v0.31.1
 - Bump @fluentui-react-native/contextual-menu to v0.20.1
 - Bump @fluentui-react-native/icon to v0.15.1
-- Bump @uifabricshared/foundation-compose to v1.12.21
+- Bump @eluifabricshared/foundation-compose to v1.12.21
 
 ## 0.9.0
 
@@ -1244,7 +1244,7 @@ Fri, 11 Nov 2022 18:06:31 GMT
 - Bump @fluentui-react-native/contextual-menu to v0.19.13
 - Bump @fluentui-react-native/icon to v0.14.1
 - Bump @fluentui-react-native/interactive-hooks to v0.20.2
-- Bump @uifabricshared/foundation-compose to v1.12.20
+- Bump @eluifabricshared/foundation-compose to v1.12.20
 
 ## 0.8.66
 
@@ -1283,7 +1283,7 @@ Tue, 08 Nov 2022 22:18:44 GMT
 - Bump @fluentui-react-native/icon to v0.14.0
 - Bump @fluentui-react-native/interactive-hooks to v0.20.0
 - Bump @fluentui-react-native/tokens to v0.17.8
-- Bump @uifabricshared/foundation-compose to v1.12.19
+- Bump @eluifabricshared/foundation-compose to v1.12.19
 
 ## 0.8.62
 
@@ -1295,7 +1295,7 @@ Tue, 08 Nov 2022 19:22:01 GMT
 - Bump @fluentui-react-native/contextual-menu to v0.19.8
 - Bump @fluentui-react-native/icon to v0.13.22
 - Bump @fluentui-react-native/interactive-hooks to v0.19.7
-- Bump @uifabricshared/foundation-compose to v1.12.18
+- Bump @eluifabricshared/foundation-compose to v1.12.18
 
 ## 0.8.61
 
@@ -1316,7 +1316,7 @@ Fri, 04 Nov 2022 14:36:23 GMT
 - Bump @fluentui-react-native/icon to v0.13.21
 - Bump @fluentui-react-native/interactive-hooks to v0.19.6
 - Bump @fluentui-react-native/tokens to v0.17.7
-- Bump @uifabricshared/foundation-compose to v1.12.17
+- Bump @eluifabricshared/foundation-compose to v1.12.17
 
 ## 0.8.59
 
@@ -1364,7 +1364,7 @@ Thu, 27 Oct 2022 11:09:35 GMT
 - Bump @fluentui-react-native/icon to v0.13.20
 - Bump @fluentui-react-native/interactive-hooks to v0.19.4
 - Bump @fluentui-react-native/tokens to v0.17.6
-- Bump @uifabricshared/foundation-compose to v1.12.16
+- Bump @eluifabricshared/foundation-compose to v1.12.16
 
 ## 0.8.54
 
@@ -1385,7 +1385,7 @@ Tue, 25 Oct 2022 22:47:44 GMT
 - Bump @fluentui-react-native/contextual-menu to v0.19.1
 - Bump @fluentui-react-native/icon to v0.13.19
 - Bump @fluentui-react-native/interactive-hooks to v0.19.3
-- Bump @uifabricshared/foundation-compose to v1.12.15
+- Bump @eluifabricshared/foundation-compose to v1.12.15
 
 ## 0.8.52
 
@@ -1405,7 +1405,7 @@ Fri, 21 Oct 2022 13:09:26 GMT
 - Bump @fluentui-react-native/contextual-menu to v0.19.0
 - Bump @fluentui-react-native/icon to v0.13.18
 - Bump @fluentui-react-native/interactive-hooks to v0.19.2
-- Bump @uifabricshared/foundation-compose to v1.12.14
+- Bump @eluifabricshared/foundation-compose to v1.12.14
 
 ## 0.8.50
 
@@ -1454,7 +1454,7 @@ Mon, 17 Oct 2022 17:52:49 GMT
 - Bump @fluentui-react-native/contextual-menu to v0.18.25
 - Bump @fluentui-react-native/icon to v0.13.17
 - Bump @fluentui-react-native/interactive-hooks to v0.18.15
-- Bump @uifabricshared/foundation-compose to v1.12.13
+- Bump @eluifabricshared/foundation-compose to v1.12.13
 
 ## 0.8.45
 
@@ -1467,7 +1467,7 @@ Fri, 14 Oct 2022 19:11:13 GMT
 - Bump @fluentui-react-native/icon to v0.13.16
 - Bump @fluentui-react-native/interactive-hooks to v0.18.14
 - Bump @fluentui-react-native/tokens to v0.17.5
-- Bump @uifabricshared/foundation-compose to v1.12.12
+- Bump @eluifabricshared/foundation-compose to v1.12.12
 
 ## 0.8.44
 
@@ -1497,7 +1497,7 @@ Wed, 12 Oct 2022 21:54:15 GMT
 - Bump @fluentui-react-native/icon to v0.13.15
 - Bump @fluentui-react-native/interactive-hooks to v0.18.13
 - Bump @fluentui-react-native/tokens to v0.17.4
-- Bump @uifabricshared/foundation-compose to v1.12.11
+- Bump @eluifabricshared/foundation-compose to v1.12.11
 
 ## 0.8.41
 
@@ -1510,7 +1510,7 @@ Tue, 11 Oct 2022 22:41:44 GMT
 - Bump @fluentui-react-native/icon to v0.13.14
 - Bump @fluentui-react-native/interactive-hooks to v0.18.12
 - Bump @fluentui-react-native/tokens to v0.17.3
-- Bump @uifabricshared/foundation-compose to v1.12.10
+- Bump @eluifabricshared/foundation-compose to v1.12.10
 
 ## 0.8.40
 
@@ -1530,7 +1530,7 @@ Thu, 06 Oct 2022 17:24:49 GMT
 - Bump @fluentui-react-native/contextual-menu to v0.18.20
 - Bump @fluentui-react-native/icon to v0.13.13
 - Bump @fluentui-react-native/interactive-hooks to v0.18.11
-- Bump @uifabricshared/foundation-compose to v1.12.9
+- Bump @eluifabricshared/foundation-compose to v1.12.9
 
 ## 0.8.38
 
@@ -1542,7 +1542,7 @@ Tue, 04 Oct 2022 21:09:28 GMT
 - Bump @fluentui-react-native/contextual-menu to v0.18.19
 - Bump @fluentui-react-native/icon to v0.13.12
 - Bump @fluentui-react-native/interactive-hooks to v0.18.10
-- Bump @uifabricshared/foundation-compose to v1.12.8
+- Bump @eluifabricshared/foundation-compose to v1.12.8
 
 ## 0.8.37
 
@@ -1572,7 +1572,7 @@ Fri, 30 Sep 2022 08:04:44 GMT
 - Bump @fluentui-react-native/icon to v0.13.11
 - Bump @fluentui-react-native/interactive-hooks to v0.18.9
 - Bump @fluentui-react-native/tokens to v0.17.2
-- Bump @uifabricshared/foundation-compose to v1.12.7
+- Bump @eluifabricshared/foundation-compose to v1.12.7
 
 ## 0.8.34
 
@@ -1587,9 +1587,9 @@ Fri, 30 Sep 2022 00:54:36 GMT
 - Bump @fluentui-react-native/icon to v0.13.10
 - Bump @fluentui-react-native/interactive-hooks to v0.18.8
 - Bump @fluentui-react-native/tokens to v0.17.1
-- Bump @uifabricshared/foundation-composable to v0.11.1
-- Bump @uifabricshared/foundation-compose to v1.12.6
-- Bump @uifabricshared/foundation-settings to v0.12.1
+- Bump @eluifabricshared/foundation-composable to v0.11.1
+- Bump @eluifabricshared/foundation-compose to v1.12.6
+- Bump @eluifabricshared/foundation-settings to v0.12.1
 
 ## 0.8.33
 
@@ -1620,7 +1620,7 @@ Wed, 21 Sep 2022 21:00:40 GMT
 - Bump @fluentui-react-native/icon to v0.13.9
 - Bump @fluentui-react-native/interactive-hooks to v0.18.6
 - Bump @fluentui-react-native/tokens to v0.17.0
-- Bump @uifabricshared/foundation-compose to v1.12.5
+- Bump @eluifabricshared/foundation-compose to v1.12.5
 
 ## 0.8.30
 
@@ -1641,7 +1641,7 @@ Fri, 16 Sep 2022 01:53:06 GMT
 - Bump @fluentui-react-native/icon to v0.13.8
 - Bump @fluentui-react-native/interactive-hooks to v0.18.5
 - Bump @fluentui-react-native/tokens to v0.16.2
-- Bump @uifabricshared/foundation-compose to v1.12.4
+- Bump @eluifabricshared/foundation-compose to v1.12.4
 
 ## 0.8.28
 
@@ -1654,7 +1654,7 @@ Wed, 14 Sep 2022 23:07:42 GMT
 - Bump @fluentui-react-native/icon to v0.13.7
 - Bump @fluentui-react-native/interactive-hooks to v0.18.4
 - Bump @fluentui-react-native/tokens to v0.16.1
-- Bump @uifabricshared/foundation-compose to v1.12.3
+- Bump @eluifabricshared/foundation-compose to v1.12.3
 
 ## 0.8.27
 
@@ -1709,7 +1709,7 @@ Mon, 29 Aug 2022 23:21:44 GMT
 - Bump @fluentui-react-native/contextual-menu to v0.18.9
 - Bump @fluentui-react-native/icon to v0.13.5
 - Bump @fluentui-react-native/interactive-hooks to v0.18.2
-- Bump @uifabricshared/foundation-compose to v1.12.2
+- Bump @eluifabricshared/foundation-compose to v1.12.2
 
 ## 0.8.21
 
@@ -1828,7 +1828,7 @@ Tue, 26 Jul 2022 19:30:23 GMT
 - Bump @fluentui-react-native/contextual-menu to v0.18.2
 - Bump @fluentui-react-native/icon to v0.13.1
 - Bump @fluentui-react-native/interactive-hooks to v0.17.3
-- Bump @uifabricshared/foundation-compose to v1.12.1
+- Bump @eluifabricshared/foundation-compose to v1.12.1
 
 ## 0.8.8
 
@@ -1911,9 +1911,9 @@ Thu, 14 Jul 2022 18:09:51 GMT
 - Bump @fluentui-react-native/icon to v0.13.0
 - Bump @fluentui-react-native/interactive-hooks to v0.17.0
 - Bump @fluentui-react-native/tokens to v0.16.0
-- Bump @uifabricshared/foundation-composable to v0.11.0
-- Bump @uifabricshared/foundation-compose to v1.12.0
-- Bump @uifabricshared/foundation-settings to v0.12.0
+- Bump @eluifabricshared/foundation-composable to v0.11.0
+- Bump @eluifabricshared/foundation-compose to v1.12.0
+- Bump @eluifabricshared/foundation-settings to v0.12.0
 
 ## 0.7.78
 
@@ -1950,7 +1950,7 @@ Fri, 08 Jul 2022 21:23:37 GMT
 - Bump @fluentui-react-native/icon to v0.12.3
 - Bump @fluentui-react-native/interactive-hooks to v0.16.5
 - Bump @fluentui-react-native/tokens to v0.15.1
-- Bump @uifabricshared/foundation-compose to v1.11.23
+- Bump @eluifabricshared/foundation-compose to v1.11.23
 
 ## 0.7.74
 
@@ -2058,7 +2058,7 @@ Wed, 25 May 2022 18:43:09 GMT
 - Bump @fluentui-react-native/icon to v0.11.25
 - Bump @fluentui-react-native/interactive-hooks to v0.15.10
 - Bump @fluentui-react-native/tokens to v0.14.0
-- Bump @uifabricshared/foundation-compose to v1.11.22
+- Bump @eluifabricshared/foundation-compose to v1.11.22
 
 ## 0.7.63
 
@@ -2083,7 +2083,7 @@ Sat, 21 May 2022 01:47:58 GMT
 - Bump @fluentui-react-native/icon to v0.11.22
 - Bump @fluentui-react-native/interactive-hooks to v0.15.7
 - Bump @fluentui-react-native/tokens to v0.12.1
-- Bump @uifabricshared/foundation-compose to v1.11.20
+- Bump @eluifabricshared/foundation-compose to v1.11.20
 
 ## 0.7.61
 
@@ -2124,7 +2124,7 @@ Thu, 28 Apr 2022 19:09:51 GMT
 - Bump @fluentui-react-native/icon to v0.11.20
 - Bump @fluentui-react-native/interactive-hooks to v0.15.5
 - Bump @fluentui-react-native/tokens to v0.11.11
-- Bump @uifabricshared/foundation-compose to v1.11.19
+- Bump @eluifabricshared/foundation-compose to v1.11.19
 
 ## 0.7.57
 
@@ -2137,7 +2137,7 @@ Wed, 27 Apr 2022 19:30:38 GMT
 - Bump @fluentui-react-native/icon to v0.11.19
 - Bump @fluentui-react-native/interactive-hooks to v0.15.4
 - Bump @fluentui-react-native/tokens to v0.11.10
-- Bump @uifabricshared/foundation-compose to v1.11.18
+- Bump @eluifabricshared/foundation-compose to v1.11.18
 
 ## 0.7.56
 
@@ -2157,7 +2157,7 @@ Thu, 21 Apr 2022 21:50:03 GMT
 - Bump @fluentui-react-native/contextual-menu to v0.16.24
 - Bump @fluentui-react-native/icon to v0.11.18
 - Bump @fluentui-react-native/interactive-hooks to v0.15.3
-- Bump @uifabricshared/foundation-compose to v1.11.17
+- Bump @eluifabricshared/foundation-compose to v1.11.17
 
 ## 0.7.54
 
@@ -2169,7 +2169,7 @@ Tue, 19 Apr 2022 16:54:55 GMT
 - Bump @fluentui-react-native/contextual-menu to v0.16.23
 - Bump @fluentui-react-native/icon to v0.11.17
 - Bump @fluentui-react-native/interactive-hooks to v0.15.2
-- Bump @uifabricshared/foundation-compose to v1.11.16
+- Bump @eluifabricshared/foundation-compose to v1.11.16
 
 ## 0.7.53
 
@@ -2242,7 +2242,7 @@ Wed, 06 Apr 2022 22:58:22 GMT
 - Bump @fluentui-react-native/contextual-menu to v0.16.17
 - Bump @fluentui-react-native/icon to v0.11.16
 - Bump @fluentui-react-native/interactive-hooks to v0.14.8
-- Bump @uifabricshared/foundation-compose to v1.11.15
+- Bump @eluifabricshared/foundation-compose to v1.11.15
 
 ## 0.7.45
 
@@ -2254,7 +2254,7 @@ Tue, 05 Apr 2022 20:05:50 GMT
 - Bump @fluentui-react-native/contextual-menu to v0.16.16
 - Bump @fluentui-react-native/icon to v0.11.15
 - Bump @fluentui-react-native/interactive-hooks to v0.14.7
-- Bump @uifabricshared/foundation-compose to v1.11.14
+- Bump @eluifabricshared/foundation-compose to v1.11.14
 
 ## 0.7.44
 
@@ -2269,9 +2269,9 @@ Thu, 31 Mar 2022 07:27:47 GMT
 - Bump @fluentui-react-native/icon to v0.11.14
 - Bump @fluentui-react-native/interactive-hooks to v0.14.6
 - Bump @fluentui-react-native/tokens to v0.11.9
-- Bump @uifabricshared/foundation-composable to v0.10.3
-- Bump @uifabricshared/foundation-compose to v1.11.13
-- Bump @uifabricshared/foundation-settings to v0.11.3
+- Bump @eluifabricshared/foundation-composable to v0.10.3
+- Bump @eluifabricshared/foundation-compose to v1.11.13
+- Bump @eluifabricshared/foundation-settings to v0.11.3
 
 ## 0.7.43
 
@@ -2295,7 +2295,7 @@ Wed, 23 Mar 2022 17:24:05 GMT
 - Bump @fluentui-react-native/contextual-menu to v0.16.13
 - Bump @fluentui-react-native/icon to v0.11.13
 - Bump @fluentui-react-native/interactive-hooks to v0.14.4
-- Bump @uifabricshared/foundation-compose to v1.11.12
+- Bump @eluifabricshared/foundation-compose to v1.11.12
 
 ## 0.7.41
 
@@ -2356,7 +2356,7 @@ Thu, 03 Mar 2022 20:20:09 GMT
 - Bump @fluentui-react-native/icon to v0.11.10
 - Bump @fluentui-react-native/interactive-hooks to v0.14.1
 - Bump @fluentui-react-native/tokens to v0.11.7
-- Bump @uifabricshared/foundation-compose to v1.11.11
+- Bump @eluifabricshared/foundation-compose to v1.11.11
 
 ## 0.7.35
 
@@ -2409,7 +2409,7 @@ Thu, 17 Feb 2022 01:22:02 GMT
 - Bump @fluentui-react-native/contextual-menu to v0.16.3
 - Bump @fluentui-react-native/icon to v0.11.7
 - Bump @fluentui-react-native/interactive-hooks to v0.13.1
-- Bump @uifabricshared/foundation-compose to v1.11.10
+- Bump @eluifabricshared/foundation-compose to v1.11.10
 
 ## 0.7.30
 
@@ -2471,7 +2471,7 @@ Wed, 02 Feb 2022 02:29:07 GMT
 - Bump @fluentui-react-native/contextual-menu to v0.15.0
 - Bump @fluentui-react-native/icon to v0.11.6
 - Bump @fluentui-react-native/interactive-hooks to v0.12.2
-- Bump @uifabricshared/foundation-compose to v1.11.9
+- Bump @eluifabricshared/foundation-compose to v1.11.9
 
 ## 0.7.23
 
@@ -2531,7 +2531,7 @@ Fri, 14 Jan 2022 21:49:07 GMT
 - Bump @fluentui-react-native/contextual-menu to v0.14.11
 - Bump @fluentui-react-native/icon to v0.11.5
 - Bump @fluentui-react-native/interactive-hooks to v0.11.13
-- Bump @uifabricshared/foundation-compose to v1.11.8
+- Bump @eluifabricshared/foundation-compose to v1.11.8
 
 ## 0.7.17
 
@@ -2545,7 +2545,7 @@ Fri, 14 Jan 2022 01:00:03 GMT
 - Bump @fluentui-react-native/icon to v0.11.4
 - Bump @fluentui-react-native/interactive-hooks to v0.11.12
 - Bump @fluentui-react-native/tokens to v0.11.5
-- Bump @uifabricshared/foundation-compose to v1.11.7
+- Bump @eluifabricshared/foundation-compose to v1.11.7
 
 ## 0.7.16
 
@@ -2566,7 +2566,7 @@ Thu, 06 Jan 2022 23:14:38 GMT
 - Bump @fluentui-react-native/icon to v0.11.3
 - Bump @fluentui-react-native/interactive-hooks to v0.11.11
 - Bump @fluentui-react-native/tokens to v0.11.4
-- Bump @uifabricshared/foundation-compose to v1.11.6
+- Bump @eluifabricshared/foundation-compose to v1.11.6
 
 ## 0.7.14
 
@@ -2578,7 +2578,7 @@ Thu, 06 Jan 2022 21:30:08 GMT
 - Bump @fluentui-react-native/contextual-menu to v0.14.8
 - Bump @fluentui-react-native/icon to v0.11.2
 - Bump @fluentui-react-native/interactive-hooks to v0.11.10
-- Bump @uifabricshared/foundation-compose to v1.11.5
+- Bump @eluifabricshared/foundation-compose to v1.11.5
 
 ## 0.7.13
 
@@ -2631,9 +2631,9 @@ Mon, 20 Dec 2021 22:56:01 GMT
 - Bump @fluentui-react-native/icon to v0.11.0
 - Bump @fluentui-react-native/interactive-hooks to v0.11.7
 - Bump @fluentui-react-native/tokens to v0.11.3
-- Bump @uifabricshared/foundation-composable to v0.10.2
-- Bump @uifabricshared/foundation-compose to v1.11.4
-- Bump @uifabricshared/foundation-settings to v0.11.2
+- Bump @eluifabricshared/foundation-composable to v0.10.2
+- Bump @eluifabricshared/foundation-compose to v1.11.4
+- Bump @eluifabricshared/foundation-settings to v0.11.2
 
 ## 0.7.8
 
@@ -2656,9 +2656,9 @@ Sat, 18 Dec 2021 04:15:05 GMT
 - Bump @fluentui-react-native/icon to v0.10.4
 - Bump @fluentui-react-native/interactive-hooks to v0.11.5
 - Bump @fluentui-react-native/tokens to v0.11.2
-- Bump @uifabricshared/foundation-composable to v0.10.1
-- Bump @uifabricshared/foundation-compose to v1.11.3
-- Bump @uifabricshared/foundation-settings to v0.11.1
+- Bump @eluifabricshared/foundation-composable to v0.10.1
+- Bump @eluifabricshared/foundation-compose to v1.11.3
+- Bump @eluifabricshared/foundation-settings to v0.11.1
 
 ## 0.7.6
 
@@ -2708,7 +2708,7 @@ Fri, 17 Dec 2021 01:26:42 GMT
 - Bump @fluentui-react-native/contextual-menu to v0.13.1
 - Bump @fluentui-react-native/icon to v0.10.1
 - Bump @fluentui-react-native/interactive-hooks to v0.11.2
-- Bump @uifabricshared/foundation-compose to v1.11.2
+- Bump @eluifabricshared/foundation-compose to v1.11.2
 
 ## 0.7.1
 
@@ -2722,7 +2722,7 @@ Thu, 16 Dec 2021 19:10:26 GMT
 - Bump @fluentui-react-native/icon to v0.10.0
 - Bump @fluentui-react-native/interactive-hooks to v0.11.1
 - Bump @fluentui-react-native/tokens to v0.11.1
-- Bump @uifabricshared/foundation-compose to v1.11.1
+- Bump @eluifabricshared/foundation-compose to v1.11.1
 
 ## 0.7.0
 
@@ -2740,9 +2740,9 @@ Wed, 17 Nov 2021 19:28:07 GMT
 - Bump @fluentui-react-native/interactive-hooks to v0.11.0 (afoxman@microsoft.com)
 - Bump @fluentui-react-native/tokens to v0.11.0 (afoxman@microsoft.com)
 - Bump @fluentui-react-native/component-cache to v1.3.0 (afoxman@microsoft.com)
-- Bump @uifabricshared/foundation-compose to v1.11.0 (afoxman@microsoft.com)
-- Bump @uifabricshared/foundation-composable to v0.10.0 (afoxman@microsoft.com)
-- Bump @uifabricshared/foundation-settings to v0.11.0 (afoxman@microsoft.com)
+- Bump @eluifabricshared/foundation-compose to v1.11.0 (afoxman@microsoft.com)
+- Bump @eluifabricshared/foundation-composable to v0.10.0 (afoxman@microsoft.com)
+- Bump @eluifabricshared/foundation-settings to v0.11.0 (afoxman@microsoft.com)
 
 ## 0.6.18
 
@@ -3032,7 +3032,7 @@ Fri, 06 Aug 2021 00:36:02 GMT
 
 ### Patches
 
-- Bump @uifabricshared/foundation-compose to v1.10.1 (ruaraki@microsoft.com)
+- Bump @eluifabricshared/foundation-compose to v1.10.1 (ruaraki@microsoft.com)
 
 ## 0.4.2
 
@@ -3063,9 +3063,9 @@ Wed, 04 Aug 2021 06:26:25 GMT
 - Bump @fluentui-react-native/button to v0.18.0 (67026167+chiuam@users.noreply.github.com)
 - Bump @fluentui-react-native/contextual-menu to v0.10.0 (67026167+chiuam@users.noreply.github.com)
 - Bump @fluentui-react-native/component-cache to v1.2.3 (67026167+chiuam@users.noreply.github.com)
-- Bump @uifabricshared/foundation-compose to v1.10.0 (67026167+chiuam@users.noreply.github.com)
-- Bump @uifabricshared/foundation-settings to v0.10.0 (67026167+chiuam@users.noreply.github.com)
-- Bump @uifabricshared/foundation-composable to v0.9.0 (67026167+chiuam@users.noreply.github.com)
+- Bump @eluifabricshared/foundation-compose to v1.10.0 (67026167+chiuam@users.noreply.github.com)
+- Bump @eluifabricshared/foundation-settings to v0.10.0 (67026167+chiuam@users.noreply.github.com)
+- Bump @eluifabricshared/foundation-composable to v0.9.0 (67026167+chiuam@users.noreply.github.com)
 - Bump @fluentui-react-native/tokens to v0.9.13 (67026167+chiuam@users.noreply.github.com)
 
 ## 0.3.0

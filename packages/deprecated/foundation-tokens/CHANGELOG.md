@@ -1,4 +1,4 @@
-# Change Log - @uifabricshared/foundation-tokens
+# Change Log - @eluifabricshared/foundation-tokens
 
 <!-- This log was last generated on Tue, 05 Aug 2025 18:50:39 GMT and should not be manually modified. -->
 
@@ -127,7 +127,7 @@ Thu, 09 Nov 2023 02:39:06 GMT
 - Update to react-native 0.72 (30809111+acoates-ms@users.noreply.github.com)
 - Bump @fluentui-react-native/merge-props to v0.8.0
 - Bump @fluentui-react-native/tokens to v0.22.0
-- Bump @uifabricshared/foundation-settings to v0.14.0
+- Bump @eluifabricshared/foundation-settings to v0.14.0
 
 ## 0.13.9
 
@@ -177,7 +177,7 @@ Wed, 09 Aug 2023 22:02:15 GMT
 ### Patches
 
 - Bump @fluentui-react-native/merge-props to v0.7.1
-- Bump @uifabricshared/foundation-settings to v0.13.2
+- Bump @eluifabricshared/foundation-settings to v0.13.2
 - Bump @fluentui-react-native/memo-cache to v1.3.1
 
 ## 0.13.2
@@ -195,7 +195,7 @@ Mon, 12 Jun 2023 17:46:44 GMT
 ### Patches
 
 - Bump @fluentui-react-native/merge-props to v0.7.0
-- Bump @uifabricshared/foundation-settings to v0.13.1
+- Bump @eluifabricshared/foundation-settings to v0.13.1
 - Bump @fluentui-react-native/memo-cache to v1.3.0
 
 ## 0.13.0
@@ -207,7 +207,7 @@ Mon, 05 Jun 2023 19:26:25 GMT
 - Upgrade to React Native 0.71 (sanajmi@microsoft.com)
 - Bump @fluentui-react-native/merge-props to v0.6.0
 - Bump @fluentui-react-native/tokens to v0.21.0
-- Bump @uifabricshared/foundation-settings to v0.13.0
+- Bump @eluifabricshared/foundation-settings to v0.13.0
 - Bump @fluentui-react-native/memo-cache to v1.2.0
 
 ## 0.12.33
@@ -268,7 +268,7 @@ Fri, 24 Feb 2023 20:40:00 GMT
 - Order imports (78454019+lyzhan7@users.noreply.github.com)
 - Bump @fluentui-react-native/merge-props to v0.5.3
 - Bump @fluentui-react-native/tokens to v0.20.10
-- Bump @uifabricshared/foundation-settings to v0.12.3
+- Bump @eluifabricshared/foundation-settings to v0.12.3
 
 ## 0.12.26
 
@@ -302,7 +302,7 @@ Wed, 01 Feb 2023 22:33:17 GMT
 
 - Bump @fluentui-react-native/merge-props to v0.5.2
 - Bump @fluentui-react-native/tokens to v0.20.7
-- Bump @uifabricshared/foundation-settings to v0.12.2
+- Bump @eluifabricshared/foundation-settings to v0.12.2
 - Bump @fluentui-react-native/memo-cache to v1.1.8
 
 ## 0.12.22
@@ -458,7 +458,7 @@ Fri, 30 Sep 2022 00:54:37 GMT
 - Update react-native to 0.68 (krsiler@microsoft.com)
 - Bump @fluentui-react-native/merge-props to v0.5.1
 - Bump @fluentui-react-native/tokens to v0.17.1
-- Bump @uifabricshared/foundation-settings to v0.12.1
+- Bump @eluifabricshared/foundation-settings to v0.12.1
 
 ## 0.12.3
 
@@ -493,7 +493,7 @@ Thu, 14 Jul 2022 18:09:50 GMT
 - Update to React Native 0.66 (sanajmi@microsoft.com)
 - Bump @fluentui-react-native/merge-props to v0.5.0
 - Bump @fluentui-react-native/tokens to v0.16.0
-- Bump @uifabricshared/foundation-settings to v0.12.0
+- Bump @eluifabricshared/foundation-settings to v0.12.0
 
 ## 0.11.4
 
@@ -511,7 +511,7 @@ Thu, 31 Mar 2022 07:27:48 GMT
 ### Patches
 
 - Bump @fluentui-react-native/merge-props to v0.4.3
-- Bump @uifabricshared/foundation-settings to v0.11.3
+- Bump @eluifabricshared/foundation-settings to v0.11.3
 
 ## 0.11.2
 
@@ -521,7 +521,7 @@ Mon, 20 Dec 2021 22:56:02 GMT
 
 - Add repository property to all package.json files (ruaraki@microsoft.com)
 - Bump @fluentui-react-native/merge-props to v0.4.2
-- Bump @uifabricshared/foundation-settings to v0.11.2
+- Bump @eluifabricshared/foundation-settings to v0.11.2
 - Bump @fluentui-react-native/memo-cache to v1.1.7
 
 ## 0.11.1
@@ -531,7 +531,7 @@ Sat, 18 Dec 2021 04:15:05 GMT
 ### Patches
 
 - Bump @fluentui-react-native/merge-props to v0.4.1
-- Bump @uifabricshared/foundation-settings to v0.11.1
+- Bump @eluifabricshared/foundation-settings to v0.11.1
 - Bump @fluentui-react-native/memo-cache to v1.1.6
 
 ## 0.11.0
@@ -545,7 +545,7 @@ Wed, 17 Nov 2021 19:28:07 GMT
 ### Patches
 
 - Bump @fluentui-react-native/merge-props to v0.4.0 (afoxman@microsoft.com)
-- Bump @uifabricshared/foundation-settings to v0.11.0 (afoxman@microsoft.com)
+- Bump @eluifabricshared/foundation-settings to v0.11.0 (afoxman@microsoft.com)
 
 ## 0.10.3
 
@@ -553,7 +553,7 @@ Mon, 25 Oct 2021 19:24:43 GMT
 
 ### Patches
 
-- Bump @uifabricshared/foundation-settings to v0.10.3 (ruaraki@microsoft.com)
+- Bump @eluifabricshared/foundation-settings to v0.10.3 (ruaraki@microsoft.com)
 
 ## 0.10.2
 
@@ -581,7 +581,7 @@ Wed, 04 Aug 2021 06:26:25 GMT
 
 ### Patches
 
-- Bump @uifabricshared/foundation-settings to v0.10.0 (67026167+chiuam@users.noreply.github.com)
+- Bump @eluifabricshared/foundation-settings to v0.10.0 (67026167+chiuam@users.noreply.github.com)
 - Bump @fluentui-react-native/memo-cache to v1.1.3 (67026167+chiuam@users.noreply.github.com)
 - Bump @fluentui-react-native/merge-props to v0.3.3 (67026167+chiuam@users.noreply.github.com)
 

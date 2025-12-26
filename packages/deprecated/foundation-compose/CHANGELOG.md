@@ -1,4 +1,4 @@
-# Change Log - @uifabricshared/foundation-compose
+# Change Log - @eluifabricshared/foundation-compose
 
 <!-- This log was last generated on Tue, 05 Aug 2025 18:50:39 GMT and should not be manually modified. -->
 
@@ -86,7 +86,7 @@ Thu, 22 Feb 2024 23:27:46 GMT
 ### Patches
 
 - Bump @fluentui-react-native/default-theme to v0.25.2
-- Bump @uifabricshared/foundation-tokens to v0.14.6
+- Bump @eluifabricshared/foundation-tokens to v0.14.6
 
 ## 1.14.20
 
@@ -104,8 +104,8 @@ Thu, 04 Jan 2024 21:06:26 GMT
 
 - Bump @fluentui-react-native/default-theme to v0.25.0
 - Bump @fluentui-react-native/theme-types to v0.38.0
-- Bump @uifabricshared/foundation-tokens to v0.14.5
-- Bump @uifabricshared/theming-ramp to v0.19.10
+- Bump @eluifabricshared/foundation-tokens to v0.14.5
+- Bump @eluifabricshared/theming-ramp to v0.19.10
 
 ## 1.14.18
 
@@ -115,8 +115,8 @@ Thu, 04 Jan 2024 01:35:42 GMT
 
 - Bump @fluentui-react-native/default-theme to v0.24.0
 - Bump @fluentui-react-native/theme-types to v0.37.0
-- Bump @uifabricshared/foundation-tokens to v0.14.4
-- Bump @uifabricshared/theming-ramp to v0.19.9
+- Bump @eluifabricshared/foundation-tokens to v0.14.4
+- Bump @eluifabricshared/theming-ramp to v0.19.9
 
 ## 1.14.17
 
@@ -126,8 +126,8 @@ Wed, 03 Jan 2024 00:15:20 GMT
 
 - Bump @fluentui-react-native/default-theme to v0.23.0
 - Bump @fluentui-react-native/theme-types to v0.36.0
-- Bump @uifabricshared/foundation-tokens to v0.14.3
-- Bump @uifabricshared/theming-ramp to v0.19.8
+- Bump @eluifabricshared/foundation-tokens to v0.14.3
+- Bump @eluifabricshared/theming-ramp to v0.19.8
 
 ## 1.14.16
 
@@ -137,8 +137,8 @@ Thu, 21 Dec 2023 01:31:00 GMT
 
 - Bump @fluentui-react-native/default-theme to v0.22.0
 - Bump @fluentui-react-native/theme-types to v0.35.0
-- Bump @uifabricshared/foundation-tokens to v0.14.2
-- Bump @uifabricshared/theming-ramp to v0.19.7
+- Bump @eluifabricshared/foundation-tokens to v0.14.2
+- Bump @eluifabricshared/theming-ramp to v0.19.7
 
 ## 1.14.15
 
@@ -156,8 +156,8 @@ Wed, 20 Dec 2023 00:05:24 GMT
 
 - Bump @fluentui-react-native/default-theme to v0.21.0
 - Bump @fluentui-react-native/theme-types to v0.34.0
-- Bump @uifabricshared/foundation-tokens to v0.14.1
-- Bump @uifabricshared/theming-ramp to v0.19.6
+- Bump @eluifabricshared/foundation-tokens to v0.14.1
+- Bump @eluifabricshared/theming-ramp to v0.19.6
 
 ## 1.14.13
 
@@ -167,11 +167,11 @@ Thu, 09 Nov 2023 02:39:11 GMT
 
 - Bump @fluentui-react-native/default-theme to v0.20.0
 - Bump @fluentui-react-native/theme-types to v0.33.0
-- Bump @uifabricshared/foundation-composable to v0.12.3
-- Bump @uifabricshared/foundation-settings to v0.14.0
-- Bump @uifabricshared/foundation-tokens to v0.14.0
-- Bump @uifabricshared/themed-settings to v0.11.0
-- Bump @uifabricshared/theming-ramp to v0.19.5
+- Bump @eluifabricshared/foundation-composable to v0.12.3
+- Bump @eluifabricshared/foundation-settings to v0.14.0
+- Bump @eluifabricshared/foundation-tokens to v0.14.0
+- Bump @eluifabricshared/themed-settings to v0.11.0
+- Bump @eluifabricshared/theming-ramp to v0.19.5
 
 ## 1.14.12
 
@@ -182,8 +182,8 @@ Tue, 07 Nov 2023 20:20:36 GMT
 - Manually bump packages stuck in the pipeline (safreibe@microsoft.com)
 - Bump @fluentui-react-native/default-theme to v0.19.11
 - Bump @fluentui-react-native/theme-types to v0.32.3
-- Bump @uifabricshared/foundation-tokens to v0.13.9
-- Bump @uifabricshared/theming-ramp to v0.19.4
+- Bump @eluifabricshared/foundation-tokens to v0.13.9
+- Bump @eluifabricshared/theming-ramp to v0.19.4
 
 ## 1.14.10
 
@@ -193,8 +193,8 @@ Mon, 30 Oct 2023 21:26:06 GMT
 
 - Bump @fluentui-react-native/default-theme to v0.19.9
 - Bump @fluentui-react-native/theme-types to v0.32.1
-- Bump @uifabricshared/foundation-tokens to v0.13.7
-- Bump @uifabricshared/theming-ramp to v0.19.2
+- Bump @eluifabricshared/foundation-tokens to v0.13.7
+- Bump @eluifabricshared/theming-ramp to v0.19.2
 
 ## 1.14.9
 
@@ -211,7 +211,7 @@ Tue, 29 Aug 2023 22:56:32 GMT
 ### Patches
 
 - Bump @fluentui-react-native/default-theme to v0.19.7
-- Bump @uifabricshared/foundation-tokens to v0.13.6
+- Bump @eluifabricshared/foundation-tokens to v0.13.6
 
 ## 1.14.7
 
@@ -219,7 +219,7 @@ Wed, 23 Aug 2023 18:55:24 GMT
 
 ### Patches
 
-- Bump @uifabricshared/foundation-tokens to v0.13.5
+- Bump @eluifabricshared/foundation-tokens to v0.13.5
 
 ## 1.14.6
 
@@ -228,7 +228,7 @@ Mon, 14 Aug 2023 20:14:41 GMT
 ### Patches
 
 - Bump @fluentui-react-native/default-theme to v0.19.6
-- Bump @uifabricshared/foundation-tokens to v0.13.4
+- Bump @eluifabricshared/foundation-tokens to v0.13.4
 
 ## 1.14.5
 
@@ -240,11 +240,11 @@ Wed, 09 Aug 2023 22:02:15 GMT
 - Bump @fluentui-react-native/default-theme to v0.19.5
 - Bump @fluentui-react-native/immutable-merge to v1.2.1
 - Bump @fluentui-react-native/memo-cache to v1.3.1
-- Bump @uifabricshared/foundation-composable to v0.12.2
-- Bump @uifabricshared/foundation-settings to v0.13.2
-- Bump @uifabricshared/foundation-tokens to v0.13.3
-- Bump @uifabricshared/themed-settings to v0.10.2
-- Bump @uifabricshared/theming-ramp to v0.19.1
+- Bump @eluifabricshared/foundation-composable to v0.12.2
+- Bump @eluifabricshared/foundation-settings to v0.13.2
+- Bump @eluifabricshared/foundation-tokens to v0.13.3
+- Bump @eluifabricshared/themed-settings to v0.10.2
+- Bump @eluifabricshared/theming-ramp to v0.19.1
 
 ## 1.14.4
 
@@ -269,7 +269,7 @@ Fri, 07 Jul 2023 20:45:12 GMT
 ### Patches
 
 - Bump @fluentui-react-native/default-theme to v0.19.2
-- Bump @uifabricshared/foundation-tokens to v0.13.2
+- Bump @eluifabricshared/foundation-tokens to v0.13.2
 
 ## 1.14.1
 
@@ -279,11 +279,11 @@ Mon, 12 Jun 2023 17:46:44 GMT
 
 - Bump @fluentui-react-native/default-theme to v0.19.1
 - Bump @fluentui-react-native/memo-cache to v1.3.0
-- Bump @uifabricshared/themed-settings to v0.10.1
-- Bump @uifabricshared/foundation-composable to v0.12.1
-- Bump @uifabricshared/foundation-settings to v0.13.1
-- Bump @uifabricshared/foundation-tokens to v0.13.1
-- Bump @uifabricshared/theming-ramp to v0.19.0
+- Bump @eluifabricshared/themed-settings to v0.10.1
+- Bump @eluifabricshared/foundation-composable to v0.12.1
+- Bump @eluifabricshared/foundation-settings to v0.13.1
+- Bump @eluifabricshared/foundation-tokens to v0.13.1
+- Bump @eluifabricshared/theming-ramp to v0.19.0
 
 ## 1.14.0
 
@@ -296,11 +296,11 @@ Mon, 05 Jun 2023 19:26:25 GMT
 - Bump @fluentui-react-native/immutable-merge to v1.2.0
 - Bump @fluentui-react-native/memo-cache to v1.2.0
 - Bump @fluentui-react-native/theme-types to v0.32.0
-- Bump @uifabricshared/themed-settings to v0.10.0
-- Bump @uifabricshared/foundation-composable to v0.12.0
-- Bump @uifabricshared/foundation-settings to v0.13.0
-- Bump @uifabricshared/foundation-tokens to v0.13.0
-- Bump @uifabricshared/theming-ramp to v0.18.0
+- Bump @eluifabricshared/themed-settings to v0.10.0
+- Bump @eluifabricshared/foundation-composable to v0.12.0
+- Bump @eluifabricshared/foundation-settings to v0.13.0
+- Bump @eluifabricshared/foundation-tokens to v0.13.0
+- Bump @eluifabricshared/theming-ramp to v0.18.0
 
 ## 1.13.10
 
@@ -310,8 +310,8 @@ Tue, 30 May 2023 20:34:15 GMT
 
 - Bump @fluentui-react-native/default-theme to v0.18.4
 - Bump @fluentui-react-native/theme-types to v0.31.2
-- Bump @uifabricshared/foundation-tokens to v0.12.33
-- Bump @uifabricshared/theming-ramp to v0.17.24
+- Bump @eluifabricshared/foundation-tokens to v0.12.33
+- Bump @eluifabricshared/theming-ramp to v0.17.24
 
 ## 1.13.9
 
@@ -321,8 +321,8 @@ Wed, 03 May 2023 07:08:52 GMT
 
 - Bump @fluentui-react-native/default-theme to v0.18.3
 - Bump @fluentui-react-native/theme-types to v0.31.1
-- Bump @uifabricshared/foundation-tokens to v0.12.32
-- Bump @uifabricshared/theming-ramp to v0.17.23
+- Bump @eluifabricshared/foundation-tokens to v0.12.32
+- Bump @eluifabricshared/theming-ramp to v0.17.23
 
 ## 1.13.8
 
@@ -332,7 +332,7 @@ Tue, 21 Mar 2023 21:53:45 GMT
 
 - Trigger manual bump (no changes) (krsiler@microsoft.com)
 - Bump @fluentui-react-native/default-theme to v0.18.2
-- Bump @uifabricshared/foundation-tokens to v0.12.31
+- Bump @eluifabricshared/foundation-tokens to v0.12.31
 
 ## 1.13.7
 
@@ -341,7 +341,7 @@ Sat, 18 Mar 2023 17:22:31 GMT
 ### Patches
 
 - Bump @fluentui-react-native/default-theme to v0.18.1
-- Bump @uifabricshared/foundation-tokens to v0.12.30
+- Bump @eluifabricshared/foundation-tokens to v0.12.30
 
 ## 1.13.6
 
@@ -351,8 +351,8 @@ Tue, 14 Mar 2023 20:50:45 GMT
 
 - Bump @fluentui-react-native/default-theme to v0.18.0
 - Bump @fluentui-react-native/theme-types to v0.31.0
-- Bump @uifabricshared/foundation-tokens to v0.12.29
-- Bump @uifabricshared/theming-ramp to v0.17.22
+- Bump @eluifabricshared/foundation-tokens to v0.12.29
+- Bump @eluifabricshared/theming-ramp to v0.17.22
 
 ## 1.13.5
 
@@ -370,8 +370,8 @@ Fri, 03 Mar 2023 06:47:26 GMT
 
 - Bump @fluentui-react-native/default-theme to v0.17.4
 - Bump @fluentui-react-native/theme-types to v0.30.4
-- Bump @uifabricshared/foundation-tokens to v0.12.28
-- Bump @uifabricshared/theming-ramp to v0.17.21
+- Bump @eluifabricshared/foundation-tokens to v0.12.28
+- Bump @eluifabricshared/theming-ramp to v0.17.21
 
 ## 1.13.3
 
@@ -381,11 +381,11 @@ Fri, 24 Feb 2023 20:40:00 GMT
 
 - Bump @fluentui-react-native/default-theme to v0.17.3
 - Bump @fluentui-react-native/theme-types to v0.30.3
-- Bump @uifabricshared/themed-settings to v0.9.3
-- Bump @uifabricshared/foundation-composable to v0.11.3
-- Bump @uifabricshared/foundation-settings to v0.12.3
-- Bump @uifabricshared/foundation-tokens to v0.12.27
-- Bump @uifabricshared/theming-ramp to v0.17.20
+- Bump @eluifabricshared/themed-settings to v0.9.3
+- Bump @eluifabricshared/foundation-composable to v0.11.3
+- Bump @eluifabricshared/foundation-settings to v0.12.3
+- Bump @eluifabricshared/foundation-tokens to v0.12.27
+- Bump @eluifabricshared/theming-ramp to v0.17.20
 
 ## 1.13.2
 
@@ -394,7 +394,7 @@ Fri, 24 Feb 2023 02:22:40 GMT
 ### Patches
 
 - Bump @fluentui-react-native/default-theme to v0.17.2
-- Bump @uifabricshared/foundation-tokens to v0.12.26
+- Bump @eluifabricshared/foundation-tokens to v0.12.26
 
 ## 1.13.1
 
@@ -403,7 +403,7 @@ Sat, 11 Feb 2023 01:32:30 GMT
 ### Patches
 
 - Bump @fluentui-react-native/default-theme to v0.17.1
-- Bump @uifabricshared/foundation-tokens to v0.12.25
+- Bump @eluifabricshared/foundation-tokens to v0.12.25
 
 ## 1.13.0
 
@@ -421,7 +421,7 @@ Thu, 02 Feb 2023 01:29:39 GMT
 ### Patches
 
 - Bump @fluentui-react-native/default-theme to v0.16.29
-- Bump @uifabricshared/foundation-tokens to v0.12.24
+- Bump @eluifabricshared/foundation-tokens to v0.12.24
 
 ## 1.12.38
 
@@ -433,11 +433,11 @@ Wed, 01 Feb 2023 22:33:17 GMT
 - Bump @fluentui-react-native/immutable-merge to v1.1.8
 - Bump @fluentui-react-native/memo-cache to v1.1.8
 - Bump @fluentui-react-native/theme-types to v0.30.2
-- Bump @uifabricshared/themed-settings to v0.9.2
-- Bump @uifabricshared/foundation-composable to v0.11.2
-- Bump @uifabricshared/foundation-settings to v0.12.2
-- Bump @uifabricshared/foundation-tokens to v0.12.23
-- Bump @uifabricshared/theming-ramp to v0.17.19
+- Bump @eluifabricshared/themed-settings to v0.9.2
+- Bump @eluifabricshared/foundation-composable to v0.11.2
+- Bump @eluifabricshared/foundation-settings to v0.12.2
+- Bump @eluifabricshared/foundation-tokens to v0.12.23
+- Bump @eluifabricshared/theming-ramp to v0.17.19
 
 ## 1.12.37
 
@@ -447,8 +447,8 @@ Mon, 30 Jan 2023 07:12:38 GMT
 
 - Bump @fluentui-react-native/default-theme to v0.16.27
 - Bump @fluentui-react-native/theme-types to v0.30.1
-- Bump @uifabricshared/foundation-tokens to v0.12.22
-- Bump @uifabricshared/theming-ramp to v0.17.18
+- Bump @eluifabricshared/foundation-tokens to v0.12.22
+- Bump @eluifabricshared/theming-ramp to v0.17.18
 
 ## 1.12.36
 
@@ -458,8 +458,8 @@ Wed, 25 Jan 2023 21:31:18 GMT
 
 - Bump @fluentui-react-native/default-theme to v0.16.26
 - Bump @fluentui-react-native/theme-types to v0.30.0
-- Bump @uifabricshared/foundation-tokens to v0.12.21
-- Bump @uifabricshared/theming-ramp to v0.17.17
+- Bump @eluifabricshared/foundation-tokens to v0.12.21
+- Bump @eluifabricshared/theming-ramp to v0.17.17
 
 ## 1.12.35
 
@@ -477,8 +477,8 @@ Wed, 18 Jan 2023 01:55:11 GMT
 
 - Bump @fluentui-react-native/default-theme to v0.16.24
 - Bump @fluentui-react-native/theme-types to v0.29.1
-- Bump @uifabricshared/foundation-tokens to v0.12.20
-- Bump @uifabricshared/theming-ramp to v0.17.16
+- Bump @eluifabricshared/foundation-tokens to v0.12.20
+- Bump @eluifabricshared/theming-ramp to v0.17.16
 
 ## 1.12.33
 
@@ -488,8 +488,8 @@ Tue, 10 Jan 2023 20:17:18 GMT
 
 - Bump @fluentui-react-native/default-theme to v0.16.23
 - Bump @fluentui-react-native/theme-types to v0.29.0
-- Bump @uifabricshared/foundation-tokens to v0.12.19
-- Bump @uifabricshared/theming-ramp to v0.17.15
+- Bump @eluifabricshared/foundation-tokens to v0.12.19
+- Bump @eluifabricshared/theming-ramp to v0.17.15
 
 ## 1.12.32
 
@@ -516,8 +516,8 @@ Thu, 29 Dec 2022 03:47:47 GMT
 
 - Bump @fluentui-react-native/default-theme to v0.16.20
 - Bump @fluentui-react-native/theme-types to v0.28.0
-- Bump @uifabricshared/foundation-tokens to v0.12.18
-- Bump @uifabricshared/theming-ramp to v0.17.14
+- Bump @eluifabricshared/foundation-tokens to v0.12.18
+- Bump @eluifabricshared/theming-ramp to v0.17.14
 
 ## 1.12.29
 
@@ -527,8 +527,8 @@ Tue, 27 Dec 2022 22:21:15 GMT
 
 - Bump @fluentui-react-native/default-theme to v0.16.19
 - Bump @fluentui-react-native/theme-types to v0.27.1
-- Bump @uifabricshared/foundation-tokens to v0.12.17
-- Bump @uifabricshared/theming-ramp to v0.17.13
+- Bump @eluifabricshared/foundation-tokens to v0.12.17
+- Bump @eluifabricshared/theming-ramp to v0.17.13
 
 ## 1.12.28
 
@@ -546,8 +546,8 @@ Thu, 15 Dec 2022 14:50:50 GMT
 
 - Bump @fluentui-react-native/default-theme to v0.16.17
 - Bump @fluentui-react-native/theme-types to v0.27.0
-- Bump @uifabricshared/foundation-tokens to v0.12.16
-- Bump @uifabricshared/theming-ramp to v0.17.12
+- Bump @eluifabricshared/foundation-tokens to v0.12.16
+- Bump @eluifabricshared/theming-ramp to v0.17.12
 
 ## 1.12.26
 
@@ -557,8 +557,8 @@ Fri, 09 Dec 2022 05:23:38 GMT
 
 - Bump @fluentui-react-native/default-theme to v0.16.16
 - Bump @fluentui-react-native/theme-types to v0.26.0
-- Bump @uifabricshared/foundation-tokens to v0.12.15
-- Bump @uifabricshared/theming-ramp to v0.17.11
+- Bump @eluifabricshared/foundation-tokens to v0.12.15
+- Bump @eluifabricshared/theming-ramp to v0.17.11
 
 ## 1.12.25
 
@@ -576,8 +576,8 @@ Tue, 06 Dec 2022 00:46:41 GMT
 
 - Bump @fluentui-react-native/default-theme to v0.16.14
 - Bump @fluentui-react-native/theme-types to v0.25.0
-- Bump @uifabricshared/foundation-tokens to v0.12.14
-- Bump @uifabricshared/theming-ramp to v0.17.10
+- Bump @eluifabricshared/foundation-tokens to v0.12.14
+- Bump @eluifabricshared/theming-ramp to v0.17.10
 
 ## 1.12.23
 
@@ -587,8 +587,8 @@ Thu, 01 Dec 2022 03:12:20 GMT
 
 - Bump @fluentui-react-native/default-theme to v0.16.13
 - Bump @fluentui-react-native/theme-types to v0.24.0
-- Bump @uifabricshared/foundation-tokens to v0.12.13
-- Bump @uifabricshared/theming-ramp to v0.17.9
+- Bump @eluifabricshared/foundation-tokens to v0.12.13
+- Bump @eluifabricshared/theming-ramp to v0.17.9
 
 ## 1.12.22
 
@@ -596,7 +596,7 @@ Mon, 28 Nov 2022 11:51:06 GMT
 
 ### Patches
 
-- Bump @uifabricshared/foundation-tokens to v0.12.12
+- Bump @eluifabricshared/foundation-tokens to v0.12.12
 
 ## 1.12.21
 
@@ -620,7 +620,7 @@ Tue, 08 Nov 2022 22:18:44 GMT
 
 ### Patches
 
-- Bump @uifabricshared/foundation-tokens to v0.12.11
+- Bump @eluifabricshared/foundation-tokens to v0.12.11
 
 ## 1.12.18
 
@@ -638,8 +638,8 @@ Fri, 04 Nov 2022 14:36:23 GMT
 
 - Bump @fluentui-react-native/default-theme to v0.16.9
 - Bump @fluentui-react-native/theme-types to v0.23.1
-- Bump @uifabricshared/foundation-tokens to v0.12.10
-- Bump @uifabricshared/theming-ramp to v0.17.8
+- Bump @eluifabricshared/foundation-tokens to v0.12.10
+- Bump @eluifabricshared/theming-ramp to v0.17.8
 
 ## 1.12.16
 
@@ -649,8 +649,8 @@ Thu, 27 Oct 2022 11:09:35 GMT
 
 - Bump @fluentui-react-native/default-theme to v0.16.8
 - Bump @fluentui-react-native/theme-types to v0.23.0
-- Bump @uifabricshared/foundation-tokens to v0.12.9
-- Bump @uifabricshared/theming-ramp to v0.17.7
+- Bump @eluifabricshared/foundation-tokens to v0.12.9
+- Bump @eluifabricshared/theming-ramp to v0.17.7
 
 ## 1.12.15
 
@@ -682,7 +682,7 @@ Fri, 14 Oct 2022 19:11:13 GMT
 
 ### Patches
 
-- Bump @uifabricshared/foundation-tokens to v0.12.8
+- Bump @eluifabricshared/foundation-tokens to v0.12.8
 
 ## 1.12.11
 
@@ -692,8 +692,8 @@ Wed, 12 Oct 2022 21:54:15 GMT
 
 - Bump @fluentui-react-native/default-theme to v0.16.4
 - Bump @fluentui-react-native/theme-types to v0.22.0
-- Bump @uifabricshared/foundation-tokens to v0.12.7
-- Bump @uifabricshared/theming-ramp to v0.17.6
+- Bump @eluifabricshared/foundation-tokens to v0.12.7
+- Bump @eluifabricshared/theming-ramp to v0.17.6
 
 ## 1.12.10
 
@@ -703,8 +703,8 @@ Tue, 11 Oct 2022 22:41:44 GMT
 
 - Bump @fluentui-react-native/default-theme to v0.16.3
 - Bump @fluentui-react-native/theme-types to v0.21.0
-- Bump @uifabricshared/foundation-tokens to v0.12.6
-- Bump @uifabricshared/theming-ramp to v0.17.5
+- Bump @eluifabricshared/foundation-tokens to v0.12.6
+- Bump @eluifabricshared/theming-ramp to v0.17.5
 
 ## 1.12.9
 
@@ -730,8 +730,8 @@ Fri, 30 Sep 2022 08:04:44 GMT
 
 - Bump @fluentui-react-native/default-theme to v0.16.0
 - Bump @fluentui-react-native/theme-types to v0.20.0
-- Bump @uifabricshared/foundation-tokens to v0.12.5
-- Bump @uifabricshared/theming-ramp to v0.17.4
+- Bump @eluifabricshared/foundation-tokens to v0.12.5
+- Bump @eluifabricshared/theming-ramp to v0.17.4
 
 ## 1.12.6
 
@@ -741,11 +741,11 @@ Fri, 30 Sep 2022 00:54:37 GMT
 
 - Bump @fluentui-react-native/default-theme to v0.15.3
 - Bump @fluentui-react-native/theme-types to v0.19.2
-- Bump @uifabricshared/themed-settings to v0.9.1
-- Bump @uifabricshared/foundation-composable to v0.11.1
-- Bump @uifabricshared/foundation-settings to v0.12.1
-- Bump @uifabricshared/foundation-tokens to v0.12.4
-- Bump @uifabricshared/theming-ramp to v0.17.3
+- Bump @eluifabricshared/themed-settings to v0.9.1
+- Bump @eluifabricshared/foundation-composable to v0.11.1
+- Bump @eluifabricshared/foundation-settings to v0.12.1
+- Bump @eluifabricshared/foundation-tokens to v0.12.4
+- Bump @eluifabricshared/theming-ramp to v0.17.3
 
 ## 1.12.5
 
@@ -755,8 +755,8 @@ Wed, 21 Sep 2022 21:00:40 GMT
 
 - Bump @fluentui-react-native/default-theme to v0.15.2
 - Bump @fluentui-react-native/theme-types to v0.19.1
-- Bump @uifabricshared/foundation-tokens to v0.12.3
-- Bump @uifabricshared/theming-ramp to v0.17.2
+- Bump @eluifabricshared/foundation-tokens to v0.12.3
+- Bump @eluifabricshared/theming-ramp to v0.17.2
 
 ## 1.12.4
 
@@ -766,8 +766,8 @@ Fri, 16 Sep 2022 01:53:06 GMT
 
 - Bump @fluentui-react-native/default-theme to v0.15.1
 - Bump @fluentui-react-native/theme-types to v0.19.0
-- Bump @uifabricshared/foundation-tokens to v0.12.2
-- Bump @uifabricshared/theming-ramp to v0.17.1
+- Bump @eluifabricshared/foundation-tokens to v0.12.2
+- Bump @eluifabricshared/theming-ramp to v0.17.1
 
 ## 1.12.3
 
@@ -775,7 +775,7 @@ Wed, 14 Sep 2022 23:07:42 GMT
 
 ### Patches
 
-- Bump @uifabricshared/foundation-tokens to v0.12.1
+- Bump @eluifabricshared/foundation-tokens to v0.12.1
 
 ## 1.12.2
 
@@ -802,11 +802,11 @@ Thu, 14 Jul 2022 18:09:50 GMT
 - Update to React Native 0.66 (sanajmi@microsoft.com)
 - Bump @fluentui-react-native/default-theme to v0.14.0
 - Bump @fluentui-react-native/theme-types to v0.18.0
-- Bump @uifabricshared/themed-settings to v0.9.0
-- Bump @uifabricshared/foundation-composable to v0.11.0
-- Bump @uifabricshared/foundation-settings to v0.12.0
-- Bump @uifabricshared/foundation-tokens to v0.12.0
-- Bump @uifabricshared/theming-ramp to v0.17.0
+- Bump @eluifabricshared/themed-settings to v0.9.0
+- Bump @eluifabricshared/foundation-composable to v0.11.0
+- Bump @eluifabricshared/foundation-settings to v0.12.0
+- Bump @eluifabricshared/foundation-tokens to v0.12.0
+- Bump @eluifabricshared/theming-ramp to v0.17.0
 
 ## 1.11.23
 
@@ -814,7 +814,7 @@ Fri, 08 Jul 2022 21:23:37 GMT
 
 ### Patches
 
-- Bump @uifabricshared/foundation-tokens to v0.11.4
+- Bump @eluifabricshared/foundation-tokens to v0.11.4
 
 ## 1.11.22
 
@@ -826,7 +826,7 @@ Wed, 25 May 2022 18:43:10 GMT
 - Version bump for packages to attempt to fix NPM publish pipeline (krsiler@microsoft.com)
 - Bump @fluentui-react-native/default-theme to v0.13.0
 - Bump @fluentui-react-native/theme-types to v0.17.0
-- Bump @uifabricshared/theming-ramp to v0.16.11
+- Bump @eluifabricshared/theming-ramp to v0.16.11
 
 ## 1.11.20
 
@@ -836,7 +836,7 @@ Sat, 21 May 2022 01:47:58 GMT
 
 - Bump @fluentui-react-native/default-theme to v0.11.0
 - Bump @fluentui-react-native/theme-types to v0.15.0
-- Bump @uifabricshared/theming-ramp to v0.16.9
+- Bump @eluifabricshared/theming-ramp to v0.16.9
 
 ## 1.11.19
 
@@ -846,7 +846,7 @@ Thu, 28 Apr 2022 19:09:51 GMT
 
 - Bump @fluentui-react-native/default-theme to v0.10.3
 - Bump @fluentui-react-native/theme-types to v0.14.3
-- Bump @uifabricshared/theming-ramp to v0.16.8
+- Bump @eluifabricshared/theming-ramp to v0.16.8
 
 ## 1.11.18
 
@@ -856,7 +856,7 @@ Wed, 27 Apr 2022 19:30:38 GMT
 
 - Bump @fluentui-react-native/default-theme to v0.10.2
 - Bump @fluentui-react-native/theme-types to v0.14.2
-- Bump @uifabricshared/theming-ramp to v0.16.7
+- Bump @eluifabricshared/theming-ramp to v0.16.7
 
 ## 1.11.17
 
@@ -900,11 +900,11 @@ Thu, 31 Mar 2022 07:27:48 GMT
 - Bump @fluentui-react-native/default-theme to v0.9.13
 - Bump @fluentui-react-native/immutable-merge to v1.1.7
 - Bump @fluentui-react-native/theme-types to v0.14.1
-- Bump @uifabricshared/themed-settings to v0.8.3
-- Bump @uifabricshared/foundation-composable to v0.10.3
-- Bump @uifabricshared/foundation-settings to v0.11.3
-- Bump @uifabricshared/foundation-tokens to v0.11.3
-- Bump @uifabricshared/theming-ramp to v0.16.6
+- Bump @eluifabricshared/themed-settings to v0.8.3
+- Bump @eluifabricshared/foundation-composable to v0.10.3
+- Bump @eluifabricshared/foundation-settings to v0.11.3
+- Bump @eluifabricshared/foundation-tokens to v0.11.3
+- Bump @eluifabricshared/theming-ramp to v0.16.6
 
 ## 1.11.12
 
@@ -922,7 +922,7 @@ Thu, 03 Mar 2022 20:20:09 GMT
 
 - Bump @fluentui-react-native/default-theme to v0.9.11
 - Bump @fluentui-react-native/theme-types to v0.14.0
-- Bump @uifabricshared/theming-ramp to v0.16.5
+- Bump @eluifabricshared/theming-ramp to v0.16.5
 
 ## 1.11.10
 
@@ -957,7 +957,7 @@ Fri, 14 Jan 2022 01:00:04 GMT
 - fix disabled button (email not defined)
 - Bump @fluentui-react-native/default-theme to v0.9.7
 - Bump @fluentui-react-native/theme-types to v0.13.3
-- Bump @uifabricshared/theming-ramp to v0.16.4
+- Bump @eluifabricshared/theming-ramp to v0.16.4
 
 ## 1.11.6
 
@@ -967,7 +967,7 @@ Thu, 06 Jan 2022 23:14:38 GMT
 
 - Bump @fluentui-react-native/default-theme to v0.9.6
 - Bump @fluentui-react-native/theme-types to v0.13.2
-- Bump @uifabricshared/theming-ramp to v0.16.3
+- Bump @eluifabricshared/theming-ramp to v0.16.3
 
 ## 1.11.5
 
@@ -987,11 +987,11 @@ Mon, 20 Dec 2021 22:56:02 GMT
 - Bump @fluentui-react-native/default-theme to v0.9.4
 - Bump @fluentui-react-native/immutable-merge to v1.1.6
 - Bump @fluentui-react-native/theme-types to v0.13.1
-- Bump @uifabricshared/themed-settings to v0.8.2
-- Bump @uifabricshared/foundation-composable to v0.10.2
-- Bump @uifabricshared/foundation-settings to v0.11.2
-- Bump @uifabricshared/foundation-tokens to v0.11.2
-- Bump @uifabricshared/theming-ramp to v0.16.2
+- Bump @eluifabricshared/themed-settings to v0.8.2
+- Bump @eluifabricshared/foundation-composable to v0.10.2
+- Bump @eluifabricshared/foundation-settings to v0.11.2
+- Bump @eluifabricshared/foundation-tokens to v0.11.2
+- Bump @eluifabricshared/theming-ramp to v0.16.2
 
 ## 1.11.3
 
@@ -1001,11 +1001,11 @@ Sat, 18 Dec 2021 04:15:05 GMT
 
 - Bump @fluentui-react-native/default-theme to v0.9.3
 - Bump @fluentui-react-native/immutable-merge to v1.1.5
-- Bump @uifabricshared/themed-settings to v0.8.1
-- Bump @uifabricshared/foundation-composable to v0.10.1
-- Bump @uifabricshared/foundation-settings to v0.11.1
-- Bump @uifabricshared/foundation-tokens to v0.11.1
-- Bump @uifabricshared/theming-ramp to v0.16.1
+- Bump @eluifabricshared/themed-settings to v0.8.1
+- Bump @eluifabricshared/foundation-composable to v0.10.1
+- Bump @eluifabricshared/foundation-settings to v0.11.1
+- Bump @eluifabricshared/foundation-tokens to v0.11.1
+- Bump @eluifabricshared/theming-ramp to v0.16.1
 
 ## 1.11.2
 
@@ -1034,11 +1034,11 @@ Wed, 17 Nov 2021 19:28:07 GMT
 ### Patches
 
 - Bump @fluentui-react-native/default-theme to v0.9.0 (afoxman@microsoft.com)
-- Bump @uifabricshared/foundation-composable to v0.10.0 (afoxman@microsoft.com)
-- Bump @uifabricshared/foundation-settings to v0.11.0 (afoxman@microsoft.com)
-- Bump @uifabricshared/foundation-tokens to v0.11.0 (afoxman@microsoft.com)
-- Bump @uifabricshared/themed-settings to v0.8.0 (afoxman@microsoft.com)
-- Bump @uifabricshared/theming-ramp to v0.16.0 (afoxman@microsoft.com)
+- Bump @eluifabricshared/foundation-composable to v0.10.0 (afoxman@microsoft.com)
+- Bump @eluifabricshared/foundation-settings to v0.11.0 (afoxman@microsoft.com)
+- Bump @eluifabricshared/foundation-tokens to v0.11.0 (afoxman@microsoft.com)
+- Bump @eluifabricshared/themed-settings to v0.8.0 (afoxman@microsoft.com)
+- Bump @eluifabricshared/theming-ramp to v0.16.0 (afoxman@microsoft.com)
 - Bump @fluentui-react-native/theme-types to v0.13.0 (afoxman@microsoft.com)
 
 ## 1.10.22
@@ -1229,11 +1229,11 @@ Wed, 04 Aug 2021 06:26:25 GMT
 
 - Bump @fluentui-react-native/default-theme to v0.7.3 (67026167+chiuam@users.noreply.github.com)
 - Bump @fluentui-react-native/immutable-merge to v1.1.3 (67026167+chiuam@users.noreply.github.com)
-- Bump @uifabricshared/foundation-settings to v0.10.0 (67026167+chiuam@users.noreply.github.com)
-- Bump @uifabricshared/foundation-composable to v0.9.0 (67026167+chiuam@users.noreply.github.com)
-- Bump @uifabricshared/foundation-tokens to v0.10.0 (67026167+chiuam@users.noreply.github.com)
-- Bump @uifabricshared/themed-settings to v0.7.0 (67026167+chiuam@users.noreply.github.com)
-- Bump @uifabricshared/theming-ramp to v0.15.0 (67026167+chiuam@users.noreply.github.com)
+- Bump @eluifabricshared/foundation-settings to v0.10.0 (67026167+chiuam@users.noreply.github.com)
+- Bump @eluifabricshared/foundation-composable to v0.9.0 (67026167+chiuam@users.noreply.github.com)
+- Bump @eluifabricshared/foundation-tokens to v0.10.0 (67026167+chiuam@users.noreply.github.com)
+- Bump @eluifabricshared/themed-settings to v0.7.0 (67026167+chiuam@users.noreply.github.com)
+- Bump @eluifabricshared/theming-ramp to v0.15.0 (67026167+chiuam@users.noreply.github.com)
 - Bump @fluentui-react-native/theme-types to v0.9.3 (67026167+chiuam@users.noreply.github.com)
 
 ## 1.9.11

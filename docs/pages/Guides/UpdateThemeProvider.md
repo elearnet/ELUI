@@ -11,7 +11,7 @@ If you were using `createPlatformThemeRegistry(<paletteName>)` to create your `T
 The gist is that what used to be the `ProcessTheme` function passed into the `ThemeRegistry`'s `setTheme` can now be turned into a `ThemeRecipe` passed into the `ThemeReference`. So where a `ThemeRegistry` might have had:
 
 ```ts
-import { createThemeRegistry, Theme, PartialTheme, resolvePartialTheme } from '@uifabricshared/theming-react-native';
+import { createThemeRegistry, Theme, PartialTheme, resolvePartialTheme } from '@eluifabricshared/theming-react-native';
 
 const registry = createThemeRegistry(baseTheme, resolvePartialTheme);
 registry.setTheme((parentTheme: Theme) => {
@@ -40,7 +40,7 @@ const themeRef = new ThemeReference(
 The new `ThemeProvider` resides in a different package and takes in the `ThemeReference` instead. You'll want to change which package you import the `ThemeProvider` from, and then take the theme you converted and pass it into the new `ThemeProvider`:
 
 ```ts
-import { ThemeProvider } from @uifabricshared/theming-react-native;
+import { ThemeProvider } from @eluifabricshared/theming-react-native;
 
 const App = () => {
   const themeRegistry = getThemeRegistry();
@@ -74,7 +74,7 @@ const App = () => {
 The new ThemeProvider uses the same context as the old one, so accessing the theme still uses the same `useFluentTheme()` hook - no functional change is needed to access the theme with the new `ThemeProvider`. The only change you'll want to make is to import `useFluentTheme()` from the newer package:
 
 ```ts
-import { useFluentTheme } from @uifabricshared/theming-react-native;
+import { useFluentTheme } from @eluifabricshared/theming-react-native;
 ```
 
 to

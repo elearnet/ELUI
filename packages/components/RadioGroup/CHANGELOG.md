@@ -128,7 +128,7 @@ Thu, 22 Feb 2024 23:27:43 GMT
 - Bump @fluentui-react-native/text to v0.22.8
 - Bump @fluentui-react-native/theme-tokens to v0.26.6
 - Bump @fluentui-react-native/tokens to v0.22.6
-- Bump @uifabricshared/foundation-compose to v1.14.21
+- Bump @eluifabricshared/foundation-compose to v1.14.21
 
 ## 0.20.9
 
@@ -141,7 +141,7 @@ Mon, 22 Jan 2024 22:09:17 GMT
 - Bump @fluentui-react-native/interactive-hooks to v0.25.7
 - Bump @fluentui-react-native/pressable to v0.11.7
 - Bump @fluentui-react-native/text to v0.22.7
-- Bump @uifabricshared/foundation-compose to v1.14.20
+- Bump @eluifabricshared/foundation-compose to v1.14.20
 
 ## 0.20.8
 
@@ -164,7 +164,7 @@ Thu, 04 Jan 2024 21:06:26 GMT
 - Bump @fluentui-react-native/text to v0.22.6
 - Bump @fluentui-react-native/theme-tokens to v0.26.5
 - Bump @fluentui-react-native/tokens to v0.22.5
-- Bump @uifabricshared/foundation-compose to v1.14.19
+- Bump @eluifabricshared/foundation-compose to v1.14.19
 
 ## 0.20.6
 
@@ -179,7 +179,7 @@ Thu, 04 Jan 2024 01:35:42 GMT
 - Bump @fluentui-react-native/text to v0.22.5
 - Bump @fluentui-react-native/theme-tokens to v0.26.4
 - Bump @fluentui-react-native/tokens to v0.22.4
-- Bump @uifabricshared/foundation-compose to v1.14.18
+- Bump @eluifabricshared/foundation-compose to v1.14.18
 
 ## 0.20.5
 
@@ -194,7 +194,7 @@ Wed, 03 Jan 2024 00:15:20 GMT
 - Bump @fluentui-react-native/text to v0.22.4
 - Bump @fluentui-react-native/theme-tokens to v0.26.3
 - Bump @fluentui-react-native/tokens to v0.22.3
-- Bump @uifabricshared/foundation-compose to v1.14.17
+- Bump @eluifabricshared/foundation-compose to v1.14.17
 
 ## 0.20.4
 
@@ -209,7 +209,7 @@ Thu, 21 Dec 2023 01:31:00 GMT
 - Bump @fluentui-react-native/text to v0.22.3
 - Bump @fluentui-react-native/theme-tokens to v0.26.2
 - Bump @fluentui-react-native/tokens to v0.22.2
-- Bump @uifabricshared/foundation-compose to v1.14.16
+- Bump @eluifabricshared/foundation-compose to v1.14.16
 
 ## 0.20.3
 
@@ -222,7 +222,7 @@ Wed, 20 Dec 2023 20:20:38 GMT
 - Bump @fluentui-react-native/interactive-hooks to v0.25.2
 - Bump @fluentui-react-native/pressable to v0.11.2
 - Bump @fluentui-react-native/text to v0.22.2
-- Bump @uifabricshared/foundation-compose to v1.14.15
+- Bump @eluifabricshared/foundation-compose to v1.14.15
 
 ## 0.20.2
 
@@ -237,7 +237,7 @@ Wed, 20 Dec 2023 00:05:24 GMT
 - Bump @fluentui-react-native/text to v0.22.1
 - Bump @fluentui-react-native/theme-tokens to v0.26.1
 - Bump @fluentui-react-native/tokens to v0.22.1
-- Bump @uifabricshared/foundation-compose to v1.14.14
+- Bump @eluifabricshared/foundation-compose to v1.14.14
 
 ## 0.20.1
 
@@ -264,9 +264,9 @@ Thu, 09 Nov 2023 02:39:10 GMT
 - Bump @fluentui-react-native/theme-tokens to v0.26.0
 - Bump @fluentui-react-native/tokens to v0.22.0
 - Bump @fluentui-react-native/use-styling to v0.12.0
-- Bump @uifabricshared/foundation-composable to v0.12.3
-- Bump @uifabricshared/foundation-compose to v1.14.13
-- Bump @uifabricshared/foundation-settings to v0.14.0
+- Bump @eluifabricshared/foundation-composable to v0.12.3
+- Bump @eluifabricshared/foundation-compose to v1.14.13
+- Bump @eluifabricshared/foundation-settings to v0.14.0
 
 ## 0.19.9
 
@@ -282,7 +282,7 @@ Tue, 07 Nov 2023 20:20:35 GMT
 - Bump @fluentui-react-native/text to v0.21.14
 - Bump @fluentui-react-native/theme-tokens to v0.25.4
 - Bump @fluentui-react-native/tokens to v0.21.6
-- Bump @uifabricshared/foundation-compose to v1.14.12
+- Bump @eluifabricshared/foundation-compose to v1.14.12
 
 ## 0.19.7
 
@@ -305,7 +305,7 @@ Mon, 30 Oct 2023 21:26:06 GMT
 - Bump @fluentui-react-native/text to v0.21.12
 - Bump @fluentui-react-native/theme-tokens to v0.25.2
 - Bump @fluentui-react-native/tokens to v0.21.4
-- Bump @uifabricshared/foundation-compose to v1.14.10
+- Bump @eluifabricshared/foundation-compose to v1.14.10
 
 ## 0.19.5
 
@@ -318,7 +318,7 @@ Wed, 25 Oct 2023 20:50:34 GMT
 - Bump @fluentui-react-native/interactive-hooks to v0.24.9
 - Bump @fluentui-react-native/pressable to v0.10.10
 - Bump @fluentui-react-native/text to v0.21.11
-- Bump @uifabricshared/foundation-compose to v1.14.9
+- Bump @eluifabricshared/foundation-compose to v1.14.9
 
 ## 0.19.4
 
@@ -349,7 +349,7 @@ Tue, 29 Aug 2023 22:56:32 GMT
 - Bump @fluentui-react-native/pressable to v0.10.9
 - Bump @fluentui-react-native/text to v0.21.9
 - Bump @fluentui-react-native/tokens to v0.21.3
-- Bump @uifabricshared/foundation-compose to v1.14.8
+- Bump @eluifabricshared/foundation-compose to v1.14.8
 
 ## 0.19.1
 
@@ -359,7 +359,7 @@ Wed, 23 Aug 2023 18:55:24 GMT
 
 - Update SVG dependencies (ruaraki@microsoft.com)
 - Bump @fluentui-react-native/text to v0.21.8
-- Bump @uifabricshared/foundation-compose to v1.14.7
+- Bump @eluifabricshared/foundation-compose to v1.14.7
 
 ## 0.19.0
 
@@ -382,7 +382,7 @@ Mon, 14 Aug 2023 20:14:41 GMT
 - Bump @fluentui-react-native/pressable to v0.10.8
 - Bump @fluentui-react-native/text to v0.21.7
 - Bump @fluentui-react-native/tokens to v0.21.2
-- Bump @uifabricshared/foundation-compose to v1.14.6
+- Bump @eluifabricshared/foundation-compose to v1.14.6
 
 ## 0.18.8
 
@@ -398,9 +398,9 @@ Wed, 09 Aug 2023 22:02:14 GMT
 - Bump @fluentui-react-native/text to v0.21.6
 - Bump @fluentui-react-native/theme-tokens to v0.25.1
 - Bump @fluentui-react-native/use-styling to v0.11.1
-- Bump @uifabricshared/foundation-composable to v0.12.2
-- Bump @uifabricshared/foundation-compose to v1.14.5
-- Bump @uifabricshared/foundation-settings to v0.13.2
+- Bump @eluifabricshared/foundation-composable to v0.12.2
+- Bump @eluifabricshared/foundation-compose to v1.14.5
+- Bump @eluifabricshared/foundation-settings to v0.13.2
 
 ## 0.18.7
 
@@ -408,7 +408,7 @@ Mon, 31 Jul 2023 19:29:59 GMT
 
 ### Patches
 
-- Bump @uifabricshared/foundation-compose to v1.14.4
+- Bump @eluifabricshared/foundation-compose to v1.14.4
 - Bump @fluentui-react-native/focus-zone to v0.12.7
 - Bump @fluentui-react-native/framework to v0.11.3
 - Bump @fluentui-react-native/interactive-hooks to v0.24.5
@@ -421,7 +421,7 @@ Tue, 18 Jul 2023 19:09:32 GMT
 
 ### Patches
 
-- Bump @uifabricshared/foundation-compose to v1.14.3
+- Bump @eluifabricshared/foundation-compose to v1.14.3
 - Bump @fluentui-react-native/focus-zone to v0.12.6
 - Bump @fluentui-react-native/framework to v0.11.2
 - Bump @fluentui-react-native/interactive-hooks to v0.24.4
@@ -443,7 +443,7 @@ Fri, 07 Jul 2023 20:45:12 GMT
 
 ### Patches
 
-- Bump @uifabricshared/foundation-compose to v1.14.2
+- Bump @eluifabricshared/foundation-compose to v1.14.2
 - Bump @fluentui-react-native/adapters to v0.11.1
 - Bump @fluentui-react-native/focus-zone to v0.12.4
 - Bump @fluentui-react-native/framework to v0.11.1
@@ -489,15 +489,15 @@ Mon, 12 Jun 2023 17:46:43 GMT
 ### Minor changes
 
 - Changes for treeshake to work (ayushsinghs@yahoo.in)
-- Bump @uifabricshared/foundation-compose to v1.14.1
+- Bump @eluifabricshared/foundation-compose to v1.14.1
 - Bump @fluentui-react-native/focus-zone to v0.12.1
 - Bump @fluentui-react-native/framework to v0.11.0
 - Bump @fluentui-react-native/interactive-hooks to v0.24.0
 - Bump @fluentui-react-native/pressable to v0.10.1
 - Bump @fluentui-react-native/text to v0.21.0
 - Bump @fluentui-react-native/use-styling to v0.11.0
-- Bump @uifabricshared/foundation-composable to v0.12.1
-- Bump @uifabricshared/foundation-settings to v0.13.1
+- Bump @eluifabricshared/foundation-composable to v0.12.1
+- Bump @eluifabricshared/foundation-settings to v0.13.1
 
 ## 0.17.1
 
@@ -514,7 +514,7 @@ Mon, 05 Jun 2023 19:26:24 GMT
 ### Minor changes
 
 - Upgrade to React Native 0.71 (sanajmi@microsoft.com)
-- Bump @uifabricshared/foundation-compose to v1.14.0
+- Bump @eluifabricshared/foundation-compose to v1.14.0
 - Bump @fluentui-react-native/adapters to v0.11.0
 - Bump @fluentui-react-native/component-cache to v1.5.0
 - Bump @fluentui-react-native/focus-zone to v0.12.0
@@ -525,8 +525,8 @@ Mon, 05 Jun 2023 19:26:24 GMT
 - Bump @fluentui-react-native/theme-tokens to v0.25.0
 - Bump @fluentui-react-native/tokens to v0.21.0
 - Bump @fluentui-react-native/use-styling to v0.10.0
-- Bump @uifabricshared/foundation-composable to v0.12.0
-- Bump @uifabricshared/foundation-settings to v0.13.0
+- Bump @eluifabricshared/foundation-composable to v0.12.0
+- Bump @eluifabricshared/foundation-settings to v0.13.0
 
 ## 0.16.48
 
@@ -534,7 +534,7 @@ Tue, 30 May 2023 20:34:15 GMT
 
 ### Patches
 
-- Bump @uifabricshared/foundation-compose to v1.13.10
+- Bump @eluifabricshared/foundation-compose to v1.13.10
 - Bump @fluentui-react-native/focus-zone to v0.11.43
 - Bump @fluentui-react-native/framework to v0.9.10
 - Bump @fluentui-react-native/interactive-hooks to v0.22.31
@@ -557,7 +557,7 @@ Wed, 03 May 2023 07:08:52 GMT
 
 ### Patches
 
-- Bump @uifabricshared/foundation-compose to v1.13.9
+- Bump @eluifabricshared/foundation-compose to v1.13.9
 - Bump @fluentui-react-native/focus-zone to v0.11.42
 - Bump @fluentui-react-native/interactive-hooks to v0.22.30
 - Bump @fluentui-react-native/pressable to v0.9.69
@@ -593,7 +593,7 @@ Tue, 21 Mar 2023 21:53:47 GMT
 ### Patches
 
 - Trigger manual bump (no changes) (krsiler@microsoft.com)
-- Bump @uifabricshared/foundation-compose to v1.13.8
+- Bump @eluifabricshared/foundation-compose to v1.13.8
 - Bump @fluentui-react-native/focus-zone to v0.11.39
 - Bump @fluentui-react-native/interactive-hooks to v0.22.27
 - Bump @fluentui-react-native/pressable to v0.9.66
@@ -606,7 +606,7 @@ Sat, 18 Mar 2023 17:22:31 GMT
 
 ### Patches
 
-- Bump @uifabricshared/foundation-compose to v1.13.7
+- Bump @eluifabricshared/foundation-compose to v1.13.7
 - Bump @fluentui-react-native/focus-zone to v0.11.38
 - Bump @fluentui-react-native/interactive-hooks to v0.22.26
 - Bump @fluentui-react-native/pressable to v0.9.65
@@ -619,7 +619,7 @@ Tue, 14 Mar 2023 20:50:45 GMT
 
 ### Patches
 
-- Bump @uifabricshared/foundation-compose to v1.13.6
+- Bump @eluifabricshared/foundation-compose to v1.13.6
 - Bump @fluentui-react-native/focus-zone to v0.11.37
 - Bump @fluentui-react-native/interactive-hooks to v0.22.25
 - Bump @fluentui-react-native/pressable to v0.9.64
@@ -632,7 +632,7 @@ Tue, 07 Mar 2023 20:54:15 GMT
 
 ### Patches
 
-- Bump @uifabricshared/foundation-compose to v1.13.5
+- Bump @eluifabricshared/foundation-compose to v1.13.5
 - Bump @fluentui-react-native/focus-zone to v0.11.36
 - Bump @fluentui-react-native/interactive-hooks to v0.22.24
 - Bump @fluentui-react-native/pressable to v0.9.63
@@ -655,7 +655,7 @@ Fri, 03 Mar 2023 06:47:26 GMT
 
 ### Patches
 
-- Bump @uifabricshared/foundation-compose to v1.13.4
+- Bump @eluifabricshared/foundation-compose to v1.13.4
 - Bump @fluentui-react-native/focus-zone to v0.11.34
 - Bump @fluentui-react-native/interactive-hooks to v0.22.22
 - Bump @fluentui-react-native/pressable to v0.9.61
@@ -680,7 +680,7 @@ Fri, 24 Feb 2023 20:39:59 GMT
 ### Patches
 
 - Order imports (78454019+lyzhan7@users.noreply.github.com)
-- Bump @uifabricshared/foundation-compose to v1.13.3
+- Bump @eluifabricshared/foundation-compose to v1.13.3
 - Bump @fluentui-react-native/adapters to v0.10.2
 - Bump @fluentui-react-native/component-cache to v1.4.4
 - Bump @fluentui-react-native/focus-zone to v0.11.32
@@ -688,8 +688,8 @@ Fri, 24 Feb 2023 20:39:59 GMT
 - Bump @fluentui-react-native/pressable to v0.9.59
 - Bump @fluentui-react-native/text to v0.19.22
 - Bump @fluentui-react-native/tokens to v0.20.10
-- Bump @uifabricshared/foundation-composable to v0.11.3
-- Bump @uifabricshared/foundation-settings to v0.12.3
+- Bump @eluifabricshared/foundation-composable to v0.11.3
+- Bump @eluifabricshared/foundation-settings to v0.12.3
 
 ## 0.16.35
 
@@ -697,7 +697,7 @@ Fri, 24 Feb 2023 02:22:40 GMT
 
 ### Patches
 
-- Bump @uifabricshared/foundation-compose to v1.13.2
+- Bump @eluifabricshared/foundation-compose to v1.13.2
 - Bump @fluentui-react-native/focus-zone to v0.11.31
 - Bump @fluentui-react-native/interactive-hooks to v0.22.19
 - Bump @fluentui-react-native/pressable to v0.9.58
@@ -710,7 +710,7 @@ Sat, 11 Feb 2023 01:32:30 GMT
 
 ### Patches
 
-- Bump @uifabricshared/foundation-compose to v1.13.1
+- Bump @eluifabricshared/foundation-compose to v1.13.1
 - Bump @fluentui-react-native/focus-zone to v0.11.30
 - Bump @fluentui-react-native/interactive-hooks to v0.22.18
 - Bump @fluentui-react-native/pressable to v0.9.57
@@ -723,7 +723,7 @@ Fri, 03 Feb 2023 01:49:36 GMT
 
 ### Patches
 
-- Bump @uifabricshared/foundation-compose to v1.13.0
+- Bump @eluifabricshared/foundation-compose to v1.13.0
 - Bump @fluentui-react-native/focus-zone to v0.11.29
 - Bump @fluentui-react-native/interactive-hooks to v0.22.17
 - Bump @fluentui-react-native/pressable to v0.9.56
@@ -735,7 +735,7 @@ Thu, 02 Feb 2023 01:29:39 GMT
 
 ### Patches
 
-- Bump @uifabricshared/foundation-compose to v1.12.39
+- Bump @eluifabricshared/foundation-compose to v1.12.39
 - Bump @fluentui-react-native/focus-zone to v0.11.28
 - Bump @fluentui-react-native/interactive-hooks to v0.22.16
 - Bump @fluentui-react-native/pressable to v0.9.55
@@ -748,7 +748,7 @@ Wed, 01 Feb 2023 22:33:16 GMT
 ### Patches
 
 - Enable @typescript-eslint/consistent-type-imports (30809111+acoates-ms@users.noreply.github.com)
-- Bump @uifabricshared/foundation-compose to v1.12.38
+- Bump @eluifabricshared/foundation-compose to v1.12.38
 - Bump @fluentui-react-native/adapters to v0.10.1
 - Bump @fluentui-react-native/component-cache to v1.4.3
 - Bump @fluentui-react-native/focus-zone to v0.11.27
@@ -756,8 +756,8 @@ Wed, 01 Feb 2023 22:33:16 GMT
 - Bump @fluentui-react-native/pressable to v0.9.54
 - Bump @fluentui-react-native/text to v0.19.17
 - Bump @fluentui-react-native/tokens to v0.20.7
-- Bump @uifabricshared/foundation-composable to v0.11.2
-- Bump @uifabricshared/foundation-settings to v0.12.2
+- Bump @eluifabricshared/foundation-composable to v0.11.2
+- Bump @eluifabricshared/foundation-settings to v0.12.2
 
 ## 0.16.30
 
@@ -765,7 +765,7 @@ Mon, 30 Jan 2023 07:12:38 GMT
 
 ### Patches
 
-- Bump @uifabricshared/foundation-compose to v1.12.37
+- Bump @eluifabricshared/foundation-compose to v1.12.37
 - Bump @fluentui-react-native/focus-zone to v0.11.26
 - Bump @fluentui-react-native/interactive-hooks to v0.22.14
 - Bump @fluentui-react-native/pressable to v0.9.53
@@ -778,7 +778,7 @@ Wed, 25 Jan 2023 21:31:18 GMT
 
 ### Patches
 
-- Bump @uifabricshared/foundation-compose to v1.12.36
+- Bump @eluifabricshared/foundation-compose to v1.12.36
 - Bump @fluentui-react-native/focus-zone to v0.11.25
 - Bump @fluentui-react-native/interactive-hooks to v0.22.13
 - Bump @fluentui-react-native/pressable to v0.9.52
@@ -799,7 +799,7 @@ Fri, 20 Jan 2023 18:06:46 GMT
 
 ### Patches
 
-- Bump @uifabricshared/foundation-compose to v1.12.35
+- Bump @eluifabricshared/foundation-compose to v1.12.35
 - Bump @fluentui-react-native/focus-zone to v0.11.24
 - Bump @fluentui-react-native/interactive-hooks to v0.22.12
 - Bump @fluentui-react-native/pressable to v0.9.51
@@ -811,7 +811,7 @@ Wed, 18 Jan 2023 01:55:11 GMT
 
 ### Patches
 
-- Bump @uifabricshared/foundation-compose to v1.12.34
+- Bump @eluifabricshared/foundation-compose to v1.12.34
 - Bump @fluentui-react-native/focus-zone to v0.11.23
 - Bump @fluentui-react-native/interactive-hooks to v0.22.11
 - Bump @fluentui-react-native/pressable to v0.9.50
@@ -824,7 +824,7 @@ Tue, 10 Jan 2023 20:17:18 GMT
 
 ### Patches
 
-- Bump @uifabricshared/foundation-compose to v1.12.33
+- Bump @eluifabricshared/foundation-compose to v1.12.33
 - Bump @fluentui-react-native/focus-zone to v0.11.22
 - Bump @fluentui-react-native/interactive-hooks to v0.22.10
 - Bump @fluentui-react-native/pressable to v0.9.49
@@ -837,7 +837,7 @@ Mon, 09 Jan 2023 22:25:00 GMT
 
 ### Patches
 
-- Bump @uifabricshared/foundation-compose to v1.12.32
+- Bump @eluifabricshared/foundation-compose to v1.12.32
 - Bump @fluentui-react-native/focus-zone to v0.11.21
 - Bump @fluentui-react-native/interactive-hooks to v0.22.9
 - Bump @fluentui-react-native/pressable to v0.9.48
@@ -849,7 +849,7 @@ Fri, 06 Jan 2023 12:26:31 GMT
 
 ### Patches
 
-- Bump @uifabricshared/foundation-compose to v1.12.31
+- Bump @eluifabricshared/foundation-compose to v1.12.31
 - Bump @fluentui-react-native/focus-zone to v0.11.20
 - Bump @fluentui-react-native/interactive-hooks to v0.22.8
 - Bump @fluentui-react-native/pressable to v0.9.47
@@ -910,7 +910,7 @@ Thu, 29 Dec 2022 03:47:47 GMT
 
 ### Patches
 
-- Bump @uifabricshared/foundation-compose to v1.12.30
+- Bump @eluifabricshared/foundation-compose to v1.12.30
 - Bump @fluentui-react-native/focus-zone to v0.11.16
 - Bump @fluentui-react-native/interactive-hooks to v0.22.4
 - Bump @fluentui-react-native/pressable to v0.9.43
@@ -923,7 +923,7 @@ Tue, 27 Dec 2022 22:21:15 GMT
 
 ### Patches
 
-- Bump @uifabricshared/foundation-compose to v1.12.29
+- Bump @eluifabricshared/foundation-compose to v1.12.29
 - Bump @fluentui-react-native/focus-zone to v0.11.15
 - Bump @fluentui-react-native/interactive-hooks to v0.22.3
 - Bump @fluentui-react-native/pressable to v0.9.42
@@ -936,7 +936,7 @@ Tue, 27 Dec 2022 10:18:14 GMT
 
 ### Patches
 
-- Bump @uifabricshared/foundation-compose to v1.12.28
+- Bump @eluifabricshared/foundation-compose to v1.12.28
 - Bump @fluentui-react-native/focus-zone to v0.11.14
 - Bump @fluentui-react-native/interactive-hooks to v0.22.2
 - Bump @fluentui-react-native/pressable to v0.9.41
@@ -948,7 +948,7 @@ Thu, 15 Dec 2022 14:50:50 GMT
 
 ### Patches
 
-- Bump @uifabricshared/foundation-compose to v1.12.27
+- Bump @eluifabricshared/foundation-compose to v1.12.27
 - Bump @fluentui-react-native/focus-zone to v0.11.13
 - Bump @fluentui-react-native/interactive-hooks to v0.22.1
 - Bump @fluentui-react-native/pressable to v0.9.40
@@ -961,7 +961,7 @@ Fri, 09 Dec 2022 05:23:38 GMT
 
 ### Patches
 
-- Bump @uifabricshared/foundation-compose to v1.12.26
+- Bump @eluifabricshared/foundation-compose to v1.12.26
 - Bump @fluentui-react-native/focus-zone to v0.11.12
 - Bump @fluentui-react-native/interactive-hooks to v0.22.0
 - Bump @fluentui-react-native/pressable to v0.9.39
@@ -974,7 +974,7 @@ Tue, 06 Dec 2022 16:59:54 GMT
 
 ### Patches
 
-- Bump @uifabricshared/foundation-compose to v1.12.25
+- Bump @eluifabricshared/foundation-compose to v1.12.25
 - Bump @fluentui-react-native/focus-zone to v0.11.11
 - Bump @fluentui-react-native/interactive-hooks to v0.21.5
 - Bump @fluentui-react-native/pressable to v0.9.38
@@ -986,7 +986,7 @@ Tue, 06 Dec 2022 00:46:41 GMT
 
 ### Patches
 
-- Bump @uifabricshared/foundation-compose to v1.12.24
+- Bump @eluifabricshared/foundation-compose to v1.12.24
 - Bump @fluentui-react-native/focus-zone to v0.11.10
 - Bump @fluentui-react-native/interactive-hooks to v0.21.4
 - Bump @fluentui-react-native/pressable to v0.9.37
@@ -999,7 +999,7 @@ Thu, 01 Dec 2022 03:12:20 GMT
 
 ### Patches
 
-- Bump @uifabricshared/foundation-compose to v1.12.23
+- Bump @eluifabricshared/foundation-compose to v1.12.23
 - Bump @fluentui-react-native/focus-zone to v0.11.9
 - Bump @fluentui-react-native/interactive-hooks to v0.21.3
 - Bump @fluentui-react-native/pressable to v0.9.36
@@ -1028,7 +1028,7 @@ Mon, 28 Nov 2022 11:51:06 GMT
 
 ### Patches
 
-- Bump @uifabricshared/foundation-compose to v1.12.22
+- Bump @eluifabricshared/foundation-compose to v1.12.22
 - Bump @fluentui-react-native/focus-zone to v0.11.7
 - Bump @fluentui-react-native/interactive-hooks to v0.21.2
 - Bump @fluentui-react-native/pressable to v0.9.35
@@ -1041,7 +1041,7 @@ Wed, 16 Nov 2022 08:47:25 GMT
 
 ### Patches
 
-- Bump @uifabricshared/foundation-compose to v1.12.21
+- Bump @eluifabricshared/foundation-compose to v1.12.21
 - Bump @fluentui-react-native/focus-zone to v0.11.6
 - Bump @fluentui-react-native/interactive-hooks to v0.21.1
 - Bump @fluentui-react-native/pressable to v0.9.34
@@ -1064,7 +1064,7 @@ Fri, 11 Nov 2022 18:06:32 GMT
 
 ### Patches
 
-- Bump @uifabricshared/foundation-compose to v1.12.20
+- Bump @eluifabricshared/foundation-compose to v1.12.20
 - Bump @fluentui-react-native/focus-zone to v0.11.4
 - Bump @fluentui-react-native/interactive-hooks to v0.20.2
 - Bump @fluentui-react-native/pressable to v0.9.32
@@ -1103,7 +1103,7 @@ Tue, 08 Nov 2022 22:18:43 GMT
 ### Minor changes
 
 - update @office-iss/react-native-win32 to 0.68.8 (krsiler@microsoft.com)
-- Bump @uifabricshared/foundation-compose to v1.12.19
+- Bump @eluifabricshared/foundation-compose to v1.12.19
 - Bump @fluentui-react-native/adapters to v0.10.0
 - Bump @fluentui-react-native/focus-zone to v0.11.0
 - Bump @fluentui-react-native/interactive-hooks to v0.20.0
@@ -1117,7 +1117,7 @@ Tue, 08 Nov 2022 19:22:01 GMT
 
 ### Patches
 
-- Bump @uifabricshared/foundation-compose to v1.12.18
+- Bump @eluifabricshared/foundation-compose to v1.12.18
 - Bump @fluentui-react-native/focus-zone to v0.10.35
 - Bump @fluentui-react-native/interactive-hooks to v0.19.7
 - Bump @fluentui-react-native/pressable to v0.9.29
@@ -1137,7 +1137,7 @@ Fri, 04 Nov 2022 14:36:23 GMT
 
 ### Patches
 
-- Bump @uifabricshared/foundation-compose to v1.12.17
+- Bump @eluifabricshared/foundation-compose to v1.12.17
 - Bump @fluentui-react-native/focus-zone to v0.10.33
 - Bump @fluentui-react-native/interactive-hooks to v0.19.6
 - Bump @fluentui-react-native/pressable to v0.9.28
@@ -1176,7 +1176,7 @@ Thu, 27 Oct 2022 11:09:35 GMT
 
 ### Patches
 
-- Bump @uifabricshared/foundation-compose to v1.12.16
+- Bump @eluifabricshared/foundation-compose to v1.12.16
 - Bump @fluentui-react-native/focus-zone to v0.10.29
 - Bump @fluentui-react-native/interactive-hooks to v0.19.4
 - Bump @fluentui-react-native/pressable to v0.9.26
@@ -1189,7 +1189,7 @@ Tue, 25 Oct 2022 22:47:45 GMT
 
 ### Patches
 
-- Bump @uifabricshared/foundation-compose to v1.12.15
+- Bump @eluifabricshared/foundation-compose to v1.12.15
 - Bump @fluentui-react-native/focus-zone to v0.10.28
 - Bump @fluentui-react-native/interactive-hooks to v0.19.3
 - Bump @fluentui-react-native/pressable to v0.9.25
@@ -1201,7 +1201,7 @@ Fri, 21 Oct 2022 13:09:26 GMT
 
 ### Patches
 
-- Bump @uifabricshared/foundation-compose to v1.12.14
+- Bump @eluifabricshared/foundation-compose to v1.12.14
 - Bump @fluentui-react-native/focus-zone to v0.10.27
 - Bump @fluentui-react-native/interactive-hooks to v0.19.2
 - Bump @fluentui-react-native/pressable to v0.9.24
@@ -1241,7 +1241,7 @@ Mon, 17 Oct 2022 17:52:49 GMT
 
 ### Patches
 
-- Bump @uifabricshared/foundation-compose to v1.12.13
+- Bump @eluifabricshared/foundation-compose to v1.12.13
 - Bump @fluentui-react-native/focus-zone to v0.10.23
 - Bump @fluentui-react-native/interactive-hooks to v0.18.15
 - Bump @fluentui-react-native/pressable to v0.9.21
@@ -1253,7 +1253,7 @@ Fri, 14 Oct 2022 19:11:13 GMT
 
 ### Patches
 
-- Bump @uifabricshared/foundation-compose to v1.12.12
+- Bump @eluifabricshared/foundation-compose to v1.12.12
 - Bump @fluentui-react-native/adapters to v0.9.3
 - Bump @fluentui-react-native/focus-zone to v0.10.22
 - Bump @fluentui-react-native/interactive-hooks to v0.18.14
@@ -1267,7 +1267,7 @@ Wed, 12 Oct 2022 21:54:15 GMT
 
 ### Patches
 
-- Bump @uifabricshared/foundation-compose to v1.12.11
+- Bump @eluifabricshared/foundation-compose to v1.12.11
 - Bump @fluentui-react-native/focus-zone to v0.10.21
 - Bump @fluentui-react-native/interactive-hooks to v0.18.13
 - Bump @fluentui-react-native/pressable to v0.9.19
@@ -1280,7 +1280,7 @@ Tue, 11 Oct 2022 22:41:44 GMT
 
 ### Patches
 
-- Bump @uifabricshared/foundation-compose to v1.12.10
+- Bump @eluifabricshared/foundation-compose to v1.12.10
 - Bump @fluentui-react-native/focus-zone to v0.10.20
 - Bump @fluentui-react-native/interactive-hooks to v0.18.12
 - Bump @fluentui-react-native/pressable to v0.9.18
@@ -1293,7 +1293,7 @@ Thu, 06 Oct 2022 17:24:49 GMT
 
 ### Patches
 
-- Bump @uifabricshared/foundation-compose to v1.12.9
+- Bump @eluifabricshared/foundation-compose to v1.12.9
 - Bump @fluentui-react-native/focus-zone to v0.10.19
 - Bump @fluentui-react-native/interactive-hooks to v0.18.11
 - Bump @fluentui-react-native/pressable to v0.9.17
@@ -1305,7 +1305,7 @@ Tue, 04 Oct 2022 21:09:28 GMT
 
 ### Patches
 
-- Bump @uifabricshared/foundation-compose to v1.12.8
+- Bump @eluifabricshared/foundation-compose to v1.12.8
 - Bump @fluentui-react-native/focus-zone to v0.10.18
 - Bump @fluentui-react-native/interactive-hooks to v0.18.10
 - Bump @fluentui-react-native/pressable to v0.9.16
@@ -1326,7 +1326,7 @@ Fri, 30 Sep 2022 08:04:44 GMT
 
 ### Patches
 
-- Bump @uifabricshared/foundation-compose to v1.12.7
+- Bump @eluifabricshared/foundation-compose to v1.12.7
 - Bump @fluentui-react-native/focus-zone to v0.10.16
 - Bump @fluentui-react-native/interactive-hooks to v0.18.9
 - Bump @fluentui-react-native/pressable to v0.9.15
@@ -1340,7 +1340,7 @@ Fri, 30 Sep 2022 00:54:36 GMT
 ### Patches
 
 - Update react-native to 0.68 (krsiler@microsoft.com)
-- Bump @uifabricshared/foundation-compose to v1.12.6
+- Bump @eluifabricshared/foundation-compose to v1.12.6
 - Bump @fluentui-react-native/adapters to v0.9.2
 - Bump @fluentui-react-native/component-cache to v1.4.1
 - Bump @fluentui-react-native/focus-zone to v0.10.15
@@ -1348,8 +1348,8 @@ Fri, 30 Sep 2022 00:54:36 GMT
 - Bump @fluentui-react-native/pressable to v0.9.14
 - Bump @fluentui-react-native/text to v0.15.1
 - Bump @fluentui-react-native/tokens to v0.17.1
-- Bump @uifabricshared/foundation-composable to v0.11.1
-- Bump @uifabricshared/foundation-settings to v0.12.1
+- Bump @eluifabricshared/foundation-composable to v0.11.1
+- Bump @eluifabricshared/foundation-settings to v0.12.1
 
 ## 0.15.16
 
@@ -1367,7 +1367,7 @@ Wed, 21 Sep 2022 21:00:40 GMT
 
 ### Patches
 
-- Bump @uifabricshared/foundation-compose to v1.12.5
+- Bump @eluifabricshared/foundation-compose to v1.12.5
 - Bump @fluentui-react-native/focus-zone to v0.10.13
 - Bump @fluentui-react-native/interactive-hooks to v0.18.6
 - Bump @fluentui-react-native/pressable to v0.9.12
@@ -1380,7 +1380,7 @@ Fri, 16 Sep 2022 01:53:06 GMT
 
 ### Patches
 
-- Bump @uifabricshared/foundation-compose to v1.12.4
+- Bump @eluifabricshared/foundation-compose to v1.12.4
 - Bump @fluentui-react-native/focus-zone to v0.10.12
 - Bump @fluentui-react-native/interactive-hooks to v0.18.5
 - Bump @fluentui-react-native/pressable to v0.9.11
@@ -1394,7 +1394,7 @@ Wed, 14 Sep 2022 23:07:41 GMT
 ### Patches
 
 - Remove rn win32 dep (ruaraki@microsoft.com)
-- Bump @uifabricshared/foundation-compose to v1.12.3
+- Bump @eluifabricshared/foundation-compose to v1.12.3
 - Bump @fluentui-react-native/adapters to v0.9.1
 - Bump @fluentui-react-native/focus-zone to v0.10.11
 - Bump @fluentui-react-native/interactive-hooks to v0.18.4
@@ -1427,7 +1427,7 @@ Mon, 29 Aug 2022 23:21:44 GMT
 
 ### Patches
 
-- Bump @uifabricshared/foundation-compose to v1.12.2
+- Bump @eluifabricshared/foundation-compose to v1.12.2
 - Bump @fluentui-react-native/focus-zone to v0.10.8
 - Bump @fluentui-react-native/interactive-hooks to v0.18.2
 - Bump @fluentui-react-native/pressable to v0.9.8
@@ -1497,7 +1497,7 @@ Tue, 26 Jul 2022 19:30:23 GMT
 
 ### Patches
 
-- Bump @uifabricshared/foundation-compose to v1.12.1
+- Bump @eluifabricshared/foundation-compose to v1.12.1
 - Bump @fluentui-react-native/focus-zone to v0.10.3
 - Bump @fluentui-react-native/interactive-hooks to v0.17.3
 - Bump @fluentui-react-native/pressable to v0.9.3
@@ -1530,7 +1530,7 @@ Thu, 14 Jul 2022 18:09:49 GMT
 ### Minor changes
 
 - Update to React Native 0.66 (sanajmi@microsoft.com)
-- Bump @uifabricshared/foundation-compose to v1.12.0
+- Bump @eluifabricshared/foundation-compose to v1.12.0
 - Bump @fluentui-react-native/adapters to v0.9.0
 - Bump @fluentui-react-native/component-cache to v1.4.0
 - Bump @fluentui-react-native/focus-zone to v0.10.0
@@ -1538,8 +1538,8 @@ Thu, 14 Jul 2022 18:09:49 GMT
 - Bump @fluentui-react-native/pressable to v0.9.0
 - Bump @fluentui-react-native/text to v0.12.0
 - Bump @fluentui-react-native/tokens to v0.16.0
-- Bump @uifabricshared/foundation-composable to v0.11.0
-- Bump @uifabricshared/foundation-settings to v0.12.0
+- Bump @eluifabricshared/foundation-composable to v0.11.0
+- Bump @eluifabricshared/foundation-settings to v0.12.0
 
 ## 0.14.55
 
@@ -1547,7 +1547,7 @@ Fri, 08 Jul 2022 21:23:37 GMT
 
 ### Patches
 
-- Bump @uifabricshared/foundation-compose to v1.11.23
+- Bump @eluifabricshared/foundation-compose to v1.11.23
 - Bump @fluentui-react-native/focus-zone to v0.9.35
 - Bump @fluentui-react-native/interactive-hooks to v0.16.5
 - Bump @fluentui-react-native/pressable to v0.8.47
@@ -1622,7 +1622,7 @@ Wed, 25 May 2022 18:43:09 GMT
 ### Patches
 
 - beachball sync (krsiler@microsoft.com)
-- Bump @uifabricshared/foundation-compose to v1.11.22
+- Bump @eluifabricshared/foundation-compose to v1.11.22
 - Bump @fluentui-react-native/focus-zone to v0.9.28
 - Bump @fluentui-react-native/interactive-hooks to v0.15.10
 - Bump @fluentui-react-native/pressable to v0.8.41
@@ -1647,7 +1647,7 @@ Sat, 21 May 2022 01:47:58 GMT
 
 ### Patches
 
-- Bump @uifabricshared/foundation-compose to v1.11.20
+- Bump @eluifabricshared/foundation-compose to v1.11.20
 - Bump @fluentui-react-native/focus-zone to v0.9.26
 - Bump @fluentui-react-native/interactive-hooks to v0.15.7
 - Bump @fluentui-react-native/pressable to v0.8.39
@@ -1672,7 +1672,7 @@ Thu, 28 Apr 2022 19:09:51 GMT
 
 ### Patches
 
-- Bump @uifabricshared/foundation-compose to v1.11.19
+- Bump @eluifabricshared/foundation-compose to v1.11.19
 - Bump @fluentui-react-native/focus-zone to v0.9.24
 - Bump @fluentui-react-native/interactive-hooks to v0.15.5
 - Bump @fluentui-react-native/pressable to v0.8.37
@@ -1685,7 +1685,7 @@ Wed, 27 Apr 2022 19:30:38 GMT
 
 ### Patches
 
-- Bump @uifabricshared/foundation-compose to v1.11.18
+- Bump @eluifabricshared/foundation-compose to v1.11.18
 - Bump @fluentui-react-native/focus-zone to v0.9.23
 - Bump @fluentui-react-native/interactive-hooks to v0.15.4
 - Bump @fluentui-react-native/pressable to v0.8.36
@@ -1698,7 +1698,7 @@ Thu, 21 Apr 2022 21:50:03 GMT
 
 ### Patches
 
-- Bump @uifabricshared/foundation-compose to v1.11.17
+- Bump @eluifabricshared/foundation-compose to v1.11.17
 - Bump @fluentui-react-native/focus-zone to v0.9.22
 - Bump @fluentui-react-native/interactive-hooks to v0.15.3
 - Bump @fluentui-react-native/pressable to v0.8.35
@@ -1710,7 +1710,7 @@ Tue, 19 Apr 2022 16:54:55 GMT
 
 ### Patches
 
-- Bump @uifabricshared/foundation-compose to v1.11.16
+- Bump @eluifabricshared/foundation-compose to v1.11.16
 - Bump @fluentui-react-native/focus-zone to v0.9.21
 - Bump @fluentui-react-native/interactive-hooks to v0.15.2
 - Bump @fluentui-react-native/pressable to v0.8.34
@@ -1766,7 +1766,7 @@ Wed, 06 Apr 2022 22:58:22 GMT
 
 ### Patches
 
-- Bump @uifabricshared/foundation-compose to v1.11.15
+- Bump @eluifabricshared/foundation-compose to v1.11.15
 - Bump @fluentui-react-native/focus-zone to v0.9.15
 - Bump @fluentui-react-native/interactive-hooks to v0.14.8
 - Bump @fluentui-react-native/pressable to v0.8.31
@@ -1778,7 +1778,7 @@ Tue, 05 Apr 2022 20:05:50 GMT
 
 ### Patches
 
-- Bump @uifabricshared/foundation-compose to v1.11.14
+- Bump @eluifabricshared/foundation-compose to v1.11.14
 - Bump @fluentui-react-native/focus-zone to v0.9.14
 - Bump @fluentui-react-native/interactive-hooks to v0.14.7
 - Bump @fluentui-react-native/pressable to v0.8.30
@@ -1791,7 +1791,7 @@ Thu, 31 Mar 2022 07:27:47 GMT
 ### Patches
 
 - Ban `export *` in index files for better tree-shakeability (4123478+tido64@users.noreply.github.com)
-- Bump @uifabricshared/foundation-compose to v1.11.13
+- Bump @eluifabricshared/foundation-compose to v1.11.13
 - Bump @fluentui-react-native/adapters to v0.8.5
 - Bump @fluentui-react-native/component-cache to v1.3.2
 - Bump @fluentui-react-native/focus-zone to v0.9.13
@@ -1799,8 +1799,8 @@ Thu, 31 Mar 2022 07:27:47 GMT
 - Bump @fluentui-react-native/pressable to v0.8.29
 - Bump @fluentui-react-native/text to v0.11.15
 - Bump @fluentui-react-native/tokens to v0.11.9
-- Bump @uifabricshared/foundation-composable to v0.10.3
-- Bump @uifabricshared/foundation-settings to v0.11.3
+- Bump @eluifabricshared/foundation-composable to v0.10.3
+- Bump @eluifabricshared/foundation-settings to v0.11.3
 
 ## 0.14.32
 
@@ -1818,7 +1818,7 @@ Wed, 23 Mar 2022 17:24:05 GMT
 
 ### Patches
 
-- Bump @uifabricshared/foundation-compose to v1.11.12
+- Bump @eluifabricshared/foundation-compose to v1.11.12
 - Bump @fluentui-react-native/focus-zone to v0.9.11
 - Bump @fluentui-react-native/interactive-hooks to v0.14.4
 - Bump @fluentui-react-native/pressable to v0.8.27
@@ -1877,7 +1877,7 @@ Thu, 03 Mar 2022 20:20:09 GMT
 
 ### Patches
 
-- Bump @uifabricshared/foundation-compose to v1.11.11
+- Bump @eluifabricshared/foundation-compose to v1.11.11
 - Bump @fluentui-react-native/focus-zone to v0.9.6
 - Bump @fluentui-react-native/interactive-hooks to v0.14.1
 - Bump @fluentui-react-native/pressable to v0.8.24
@@ -1923,7 +1923,7 @@ Thu, 17 Feb 2022 01:22:02 GMT
 
 ### Patches
 
-- Bump @uifabricshared/foundation-compose to v1.11.10
+- Bump @eluifabricshared/foundation-compose to v1.11.10
 - Bump @fluentui-react-native/focus-zone to v0.9.2
 - Bump @fluentui-react-native/interactive-hooks to v0.13.1
 - Bump @fluentui-react-native/pressable to v0.8.20
@@ -1953,7 +1953,7 @@ Wed, 02 Feb 2022 02:29:07 GMT
 
 ### Patches
 
-- Bump @uifabricshared/foundation-compose to v1.11.9
+- Bump @eluifabricshared/foundation-compose to v1.11.9
 - Bump @fluentui-react-native/focus-zone to v0.8.18
 - Bump @fluentui-react-native/interactive-hooks to v0.12.2
 - Bump @fluentui-react-native/pressable to v0.8.18
@@ -2005,7 +2005,7 @@ Fri, 14 Jan 2022 21:49:07 GMT
 
 ### Patches
 
-- Bump @uifabricshared/foundation-compose to v1.11.8
+- Bump @eluifabricshared/foundation-compose to v1.11.8
 - Bump @fluentui-react-native/focus-zone to v0.8.13
 - Bump @fluentui-react-native/interactive-hooks to v0.11.13
 - Bump @fluentui-react-native/pressable to v0.8.13
@@ -2018,7 +2018,7 @@ Fri, 14 Jan 2022 01:00:03 GMT
 ### Patches
 
 - fix disabled button (email not defined)
-- Bump @uifabricshared/foundation-compose to v1.11.7
+- Bump @eluifabricshared/foundation-compose to v1.11.7
 - Bump @fluentui-react-native/focus-zone to v0.8.12
 - Bump @fluentui-react-native/interactive-hooks to v0.11.12
 - Bump @fluentui-react-native/pressable to v0.8.12
@@ -2031,7 +2031,7 @@ Thu, 06 Jan 2022 23:14:38 GMT
 
 ### Patches
 
-- Bump @uifabricshared/foundation-compose to v1.11.6
+- Bump @eluifabricshared/foundation-compose to v1.11.6
 - Bump @fluentui-react-native/focus-zone to v0.8.11
 - Bump @fluentui-react-native/interactive-hooks to v0.11.11
 - Bump @fluentui-react-native/pressable to v0.8.11
@@ -2044,7 +2044,7 @@ Thu, 06 Jan 2022 21:30:08 GMT
 
 ### Patches
 
-- Bump @uifabricshared/foundation-compose to v1.11.5
+- Bump @eluifabricshared/foundation-compose to v1.11.5
 - Bump @fluentui-react-native/focus-zone to v0.8.10
 - Bump @fluentui-react-native/interactive-hooks to v0.11.10
 - Bump @fluentui-react-native/pressable to v0.8.10
@@ -2077,7 +2077,7 @@ Mon, 20 Dec 2021 22:56:01 GMT
 ### Patches
 
 - Add repository property to all package.json files (ruaraki@microsoft.com)
-- Bump @uifabricshared/foundation-compose to v1.11.4
+- Bump @eluifabricshared/foundation-compose to v1.11.4
 - Bump @fluentui-react-native/adapters to v0.8.2
 - Bump @fluentui-react-native/component-cache to v1.3.1
 - Bump @fluentui-react-native/focus-zone to v0.8.7
@@ -2085,8 +2085,8 @@ Mon, 20 Dec 2021 22:56:01 GMT
 - Bump @fluentui-react-native/pressable to v0.8.7
 - Bump @fluentui-react-native/text to v0.11.4
 - Bump @fluentui-react-native/tokens to v0.11.3
-- Bump @uifabricshared/foundation-composable to v0.10.2
-- Bump @uifabricshared/foundation-settings to v0.11.2
+- Bump @eluifabricshared/foundation-composable to v0.10.2
+- Bump @eluifabricshared/foundation-settings to v0.11.2
 
 ## 0.14.6
 
@@ -2104,14 +2104,14 @@ Sat, 18 Dec 2021 04:15:05 GMT
 
 ### Patches
 
-- Bump @uifabricshared/foundation-compose to v1.11.3
+- Bump @eluifabricshared/foundation-compose to v1.11.3
 - Bump @fluentui-react-native/focus-zone to v0.8.5
 - Bump @fluentui-react-native/interactive-hooks to v0.11.5
 - Bump @fluentui-react-native/pressable to v0.8.5
 - Bump @fluentui-react-native/text to v0.11.3
 - Bump @fluentui-react-native/tokens to v0.11.2
-- Bump @uifabricshared/foundation-composable to v0.10.1
-- Bump @uifabricshared/foundation-settings to v0.11.1
+- Bump @eluifabricshared/foundation-composable to v0.10.1
+- Bump @eluifabricshared/foundation-settings to v0.11.1
 
 ## 0.14.4
 
@@ -2139,7 +2139,7 @@ Fri, 17 Dec 2021 01:26:42 GMT
 
 ### Patches
 
-- Bump @uifabricshared/foundation-compose to v1.11.2
+- Bump @eluifabricshared/foundation-compose to v1.11.2
 - Bump @fluentui-react-native/focus-zone to v0.8.2
 - Bump @fluentui-react-native/interactive-hooks to v0.11.2
 - Bump @fluentui-react-native/pressable to v0.8.2
@@ -2151,7 +2151,7 @@ Thu, 16 Dec 2021 19:10:31 GMT
 
 ### Patches
 
-- Bump @uifabricshared/foundation-compose to v1.11.1
+- Bump @eluifabricshared/foundation-compose to v1.11.1
 - Bump @fluentui-react-native/adapters to v0.8.1
 - Bump @fluentui-react-native/focus-zone to v0.8.1
 - Bump @fluentui-react-native/interactive-hooks to v0.11.1
@@ -2176,9 +2176,9 @@ Wed, 17 Nov 2021 19:28:07 GMT
 - Bump @fluentui-react-native/focus-zone to v0.8.0 (afoxman@microsoft.com)
 - Bump @fluentui-react-native/tokens to v0.11.0 (afoxman@microsoft.com)
 - Bump @fluentui-react-native/component-cache to v1.3.0 (afoxman@microsoft.com)
-- Bump @uifabricshared/foundation-compose to v1.11.0 (afoxman@microsoft.com)
-- Bump @uifabricshared/foundation-composable to v0.10.0 (afoxman@microsoft.com)
-- Bump @uifabricshared/foundation-settings to v0.11.0 (afoxman@microsoft.com)
+- Bump @eluifabricshared/foundation-compose to v1.11.0 (afoxman@microsoft.com)
+- Bump @eluifabricshared/foundation-composable to v0.10.0 (afoxman@microsoft.com)
+- Bump @eluifabricshared/foundation-settings to v0.11.0 (afoxman@microsoft.com)
 - Bump @fluentui-react-native/test-tools to v0.1.1 (afoxman@microsoft.com)
 
 ## 0.13.19
@@ -2187,7 +2187,7 @@ Tue, 09 Nov 2021 23:04:33 GMT
 
 ### Patches
 
-- Bump @uifabricshared/foundation-compose to v1.10.22 (67026167+chiuam@users.noreply.github.com)
+- Bump @eluifabricshared/foundation-compose to v1.10.22 (67026167+chiuam@users.noreply.github.com)
 
 ## 0.13.18
 
@@ -2235,7 +2235,7 @@ Thu, 07 Oct 2021 20:59:20 GMT
 
 ### Patches
 
-- Bump @uifabricshared/foundation-compose to v1.10.18 (ruaraki@microsoft.com)
+- Bump @eluifabricshared/foundation-compose to v1.10.18 (ruaraki@microsoft.com)
 
 ## 0.13.12
 
@@ -2275,7 +2275,7 @@ Fri, 10 Sep 2021 18:16:59 GMT
 
 ### Patches
 
-- Bump @uifabricshared/foundation-compose to v1.10.14 (ruaraki@microsoft.com)
+- Bump @eluifabricshared/foundation-compose to v1.10.14 (ruaraki@microsoft.com)
 
 ## 0.13.7
 
@@ -2283,7 +2283,7 @@ Thu, 09 Sep 2021 22:12:19 GMT
 
 ### Patches
 
-- Bump @uifabricshared/foundation-compose to v1.10.13 (ruaraki@microsoft.com)
+- Bump @eluifabricshared/foundation-compose to v1.10.13 (ruaraki@microsoft.com)
 
 ## 0.13.6
 
@@ -2291,7 +2291,7 @@ Thu, 09 Sep 2021 20:03:01 GMT
 
 ### Patches
 
-- Bump @uifabricshared/foundation-compose to v1.10.12 (ruaraki@microsoft.com)
+- Bump @eluifabricshared/foundation-compose to v1.10.12 (ruaraki@microsoft.com)
 
 ## 0.13.5
 
@@ -2364,7 +2364,7 @@ Wed, 18 Aug 2021 23:00:57 GMT
 
 ### Patches
 
-- Bump @uifabricshared/foundation-compose to v1.10.9 (ruaraki@microsoft.com)
+- Bump @eluifabricshared/foundation-compose to v1.10.9 (ruaraki@microsoft.com)
 
 ## 0.12.0
 
@@ -2410,7 +2410,7 @@ Thu, 12 Aug 2021 17:23:44 GMT
 
 ### Patches
 
-- Bump @uifabricshared/foundation-compose to v1.10.7 (ruaraki@microsoft.com)
+- Bump @eluifabricshared/foundation-compose to v1.10.7 (ruaraki@microsoft.com)
 
 ## 0.11.8
 
@@ -2426,7 +2426,7 @@ Tue, 10 Aug 2021 21:12:30 GMT
 
 ### Patches
 
-- Bump @uifabricshared/foundation-compose to v1.10.6 (ruaraki@microsoft.com)
+- Bump @eluifabricshared/foundation-compose to v1.10.6 (ruaraki@microsoft.com)
 
 ## 0.11.6
 
@@ -2442,7 +2442,7 @@ Mon, 09 Aug 2021 19:16:08 GMT
 
 ### Patches
 
-- Bump @uifabricshared/foundation-compose to v1.10.4 (ruaraki@microsoft.com)
+- Bump @eluifabricshared/foundation-compose to v1.10.4 (ruaraki@microsoft.com)
 
 ## 0.11.4
 
@@ -2458,7 +2458,7 @@ Fri, 06 Aug 2021 23:18:21 GMT
 
 ### Patches
 
-- Bump @uifabricshared/foundation-compose to v1.10.2 (ruaraki@microsoft.com)
+- Bump @eluifabricshared/foundation-compose to v1.10.2 (ruaraki@microsoft.com)
 
 ## 0.11.2
 
@@ -2490,9 +2490,9 @@ Wed, 04 Aug 2021 06:26:25 GMT
 - Bump @fluentui-react-native/pressable to v0.7.0 (67026167+chiuam@users.noreply.github.com)
 - Bump @fluentui-react-native/text to v0.10.0 (67026167+chiuam@users.noreply.github.com)
 - Bump @fluentui-react-native/focus-zone to v0.7.0 (67026167+chiuam@users.noreply.github.com)
-- Bump @uifabricshared/foundation-compose to v1.10.0 (67026167+chiuam@users.noreply.github.com)
-- Bump @uifabricshared/foundation-settings to v0.10.0 (67026167+chiuam@users.noreply.github.com)
-- Bump @uifabricshared/foundation-composable to v0.9.0 (67026167+chiuam@users.noreply.github.com)
+- Bump @eluifabricshared/foundation-compose to v1.10.0 (67026167+chiuam@users.noreply.github.com)
+- Bump @eluifabricshared/foundation-settings to v0.10.0 (67026167+chiuam@users.noreply.github.com)
+- Bump @eluifabricshared/foundation-composable to v0.9.0 (67026167+chiuam@users.noreply.github.com)
 - Bump @fluentui-react-native/interactive-hooks to v0.10.23 (67026167+chiuam@users.noreply.github.com)
 - Bump @fluentui-react-native/test-tools to v0.1.1 (67026167+chiuam@users.noreply.github.com)
 - Bump @fluentui-react-native/tokens to v0.9.13 (67026167+chiuam@users.noreply.github.com)

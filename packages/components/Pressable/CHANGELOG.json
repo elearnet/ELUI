@@ -339,13 +339,13 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/pressable",
-            "comment": "Bump @uifabricshared/foundation-composable to v0.12.3",
+            "comment": "Bump @eluifabricshared/foundation-composable to v0.12.3",
             "commit": "not available"
           },
           {
             "author": "beachball",
             "package": "@fluentui-react-native/pressable",
-            "comment": "Bump @uifabricshared/foundation-settings to v0.14.0",
+            "comment": "Bump @eluifabricshared/foundation-settings to v0.14.0",
             "commit": "not available"
           }
         ]
@@ -459,13 +459,13 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/pressable",
-            "comment": "Bump @uifabricshared/foundation-composable to v0.12.2",
+            "comment": "Bump @eluifabricshared/foundation-composable to v0.12.2",
             "commit": "not available"
           },
           {
             "author": "beachball",
             "package": "@fluentui-react-native/pressable",
-            "comment": "Bump @uifabricshared/foundation-settings to v0.13.2",
+            "comment": "Bump @eluifabricshared/foundation-settings to v0.13.2",
             "commit": "not available"
           }
         ]
@@ -567,13 +567,13 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/pressable",
-            "comment": "Bump @uifabricshared/foundation-composable to v0.12.1",
+            "comment": "Bump @eluifabricshared/foundation-composable to v0.12.1",
             "commit": "6530042f4f24cbb296337a8bcf5fb32a09cc6378"
           },
           {
             "author": "beachball",
             "package": "@fluentui-react-native/pressable",
-            "comment": "Bump @uifabricshared/foundation-settings to v0.13.1",
+            "comment": "Bump @eluifabricshared/foundation-settings to v0.13.1",
             "commit": "6530042f4f24cbb296337a8bcf5fb32a09cc6378"
           }
         ]
@@ -606,13 +606,13 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/pressable",
-            "comment": "Bump @uifabricshared/foundation-composable to v0.12.0",
+            "comment": "Bump @eluifabricshared/foundation-composable to v0.12.0",
             "commit": "8c0f9d27e34913da82c00299c12c399877257325"
           },
           {
             "author": "beachball",
             "package": "@fluentui-react-native/pressable",
-            "comment": "Bump @uifabricshared/foundation-settings to v0.13.0",
+            "comment": "Bump @eluifabricshared/foundation-settings to v0.13.0",
             "commit": "8c0f9d27e34913da82c00299c12c399877257325"
           }
         ]
@@ -816,13 +816,13 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/pressable",
-            "comment": "Bump @uifabricshared/foundation-composable to v0.11.3",
+            "comment": "Bump @eluifabricshared/foundation-composable to v0.11.3",
             "commit": "743bd1507af336a62946361f3fe3c800ae5bd4c2"
           },
           {
             "author": "beachball",
             "package": "@fluentui-react-native/pressable",
-            "comment": "Bump @uifabricshared/foundation-settings to v0.12.3",
+            "comment": "Bump @eluifabricshared/foundation-settings to v0.12.3",
             "commit": "743bd1507af336a62946361f3fe3c800ae5bd4c2"
           }
         ]
@@ -915,13 +915,13 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/pressable",
-            "comment": "Bump @uifabricshared/foundation-composable to v0.11.2",
+            "comment": "Bump @eluifabricshared/foundation-composable to v0.11.2",
             "commit": "2d0138c80d7512b905fcf32583760bec2b911910"
           },
           {
             "author": "beachball",
             "package": "@fluentui-react-native/pressable",
-            "comment": "Bump @uifabricshared/foundation-settings to v0.12.2",
+            "comment": "Bump @eluifabricshared/foundation-settings to v0.12.2",
             "commit": "2d0138c80d7512b905fcf32583760bec2b911910"
           }
         ]
@@ -1566,13 +1566,13 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/pressable",
-            "comment": "Bump @uifabricshared/foundation-composable to v0.11.1",
+            "comment": "Bump @eluifabricshared/foundation-composable to v0.11.1",
             "commit": "de9ddf75304295843613e144473e4fef3190f14b"
           },
           {
             "author": "beachball",
             "package": "@fluentui-react-native/pressable",
-            "comment": "Bump @uifabricshared/foundation-settings to v0.12.1",
+            "comment": "Bump @eluifabricshared/foundation-settings to v0.12.1",
             "commit": "de9ddf75304295843613e144473e4fef3190f14b"
           }
         ]
@@ -1814,13 +1814,13 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/pressable",
-            "comment": "Bump @uifabricshared/foundation-composable to v0.11.0",
+            "comment": "Bump @eluifabricshared/foundation-composable to v0.11.0",
             "commit": "155145b496a51b06bba73f8f9c6b89dc7b348c4b"
           },
           {
             "author": "beachball",
             "package": "@fluentui-react-native/pressable",
-            "comment": "Bump @uifabricshared/foundation-settings to v0.12.0",
+            "comment": "Bump @eluifabricshared/foundation-settings to v0.12.0",
             "commit": "155145b496a51b06bba73f8f9c6b89dc7b348c4b"
           }
         ]
@@ -2129,13 +2129,13 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/pressable",
-            "comment": "Bump @uifabricshared/foundation-composable to v0.10.3",
+            "comment": "Bump @eluifabricshared/foundation-composable to v0.10.3",
             "commit": "c39b4436f2ca160a31ca1d7ca9fa8bf7d59512ed"
           },
           {
             "author": "beachball",
             "package": "@fluentui-react-native/pressable",
-            "comment": "Bump @uifabricshared/foundation-settings to v0.11.3",
+            "comment": "Bump @eluifabricshared/foundation-settings to v0.11.3",
             "commit": "c39b4436f2ca160a31ca1d7ca9fa8bf7d59512ed"
           }
         ]
@@ -2509,13 +2509,13 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/pressable",
-            "comment": "Bump @uifabricshared/foundation-composable to v0.10.2",
+            "comment": "Bump @eluifabricshared/foundation-composable to v0.10.2",
             "commit": "bc86b4fbf5f07c0bfbc950a1a99a3cf4b35807d1"
           },
           {
             "author": "beachball",
             "package": "@fluentui-react-native/pressable",
-            "comment": "Bump @uifabricshared/foundation-settings to v0.11.2",
+            "comment": "Bump @eluifabricshared/foundation-settings to v0.11.2",
             "commit": "bc86b4fbf5f07c0bfbc950a1a99a3cf4b35807d1"
           }
         ]
@@ -2551,13 +2551,13 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/pressable",
-            "comment": "Bump @uifabricshared/foundation-composable to v0.10.1",
+            "comment": "Bump @eluifabricshared/foundation-composable to v0.10.1",
             "commit": "38fe241a385ecd1ce4e51b5bcba57a9dd0426789"
           },
           {
             "author": "beachball",
             "package": "@fluentui-react-native/pressable",
-            "comment": "Bump @uifabricshared/foundation-settings to v0.11.1",
+            "comment": "Bump @eluifabricshared/foundation-settings to v0.11.1",
             "commit": "38fe241a385ecd1ce4e51b5bcba57a9dd0426789"
           }
         ]
@@ -2671,13 +2671,13 @@
             "package": "@fluentui-react-native/pressable"
           },
           {
-            "comment": "Bump @uifabricshared/foundation-composable to v0.10.0",
+            "comment": "Bump @eluifabricshared/foundation-composable to v0.10.0",
             "author": "afoxman@microsoft.com",
             "commit": "f16d742b5c2d5b97e49ac1ef7b740cbf89fc42e6",
             "package": "@fluentui-react-native/pressable"
           },
           {
-            "comment": "Bump @uifabricshared/foundation-settings to v0.11.0",
+            "comment": "Bump @eluifabricshared/foundation-settings to v0.11.0",
             "author": "afoxman@microsoft.com",
             "commit": "f16d742b5c2d5b97e49ac1ef7b740cbf89fc42e6",
             "package": "@fluentui-react-native/pressable"
@@ -2752,7 +2752,7 @@
       "comments": {
         "patch": [
           {
-            "comment": "Bump @uifabricshared/foundation-settings to v0.10.3",
+            "comment": "Bump @eluifabricshared/foundation-settings to v0.10.3",
             "author": "ruaraki@microsoft.com",
             "commit": "f6578742d6c957cf7e346db82f89171f80bedc3b",
             "package": "@fluentui-react-native/pressable"
@@ -3186,13 +3186,13 @@
             "package": "@fluentui-react-native/pressable"
           },
           {
-            "comment": "Bump @uifabricshared/foundation-settings to v0.10.1",
+            "comment": "Bump @eluifabricshared/foundation-settings to v0.10.1",
             "author": "jasonmo@microsoft.com",
             "commit": "e506337e109ef24e675c2ac794179db86fcb7e86",
             "package": "@fluentui-react-native/pressable"
           },
           {
-            "comment": "Bump @uifabricshared/foundation-composable to v0.9.1",
+            "comment": "Bump @eluifabricshared/foundation-composable to v0.9.1",
             "author": "jasonmo@microsoft.com",
             "commit": "e506337e109ef24e675c2ac794179db86fcb7e86",
             "package": "@fluentui-react-native/pressable"
@@ -3228,13 +3228,13 @@
             "package": "@fluentui-react-native/pressable"
           },
           {
-            "comment": "Bump @uifabricshared/foundation-composable to v0.9.0",
+            "comment": "Bump @eluifabricshared/foundation-composable to v0.9.0",
             "author": "ruaraki@microsoft.com",
             "commit": "56ccce452d0dbbd5c24f53ebdd467f2d01dda694",
             "package": "@fluentui-react-native/pressable"
           },
           {
-            "comment": "Bump @uifabricshared/foundation-settings to v0.10.0",
+            "comment": "Bump @eluifabricshared/foundation-settings to v0.10.0",
             "author": "ruaraki@microsoft.com",
             "commit": "56ccce452d0dbbd5c24f53ebdd467f2d01dda694",
             "package": "@fluentui-react-native/pressable"
@@ -3292,13 +3292,13 @@
             "package": "@fluentui-react-native/pressable"
           },
           {
-            "comment": "Bump @uifabricshared/foundation-settings to v0.10.0",
+            "comment": "Bump @eluifabricshared/foundation-settings to v0.10.0",
             "author": "67026167+chiuam@users.noreply.github.com",
             "commit": "68dd61bd45ca8ffacc1580e468f3c01810e3093e",
             "package": "@fluentui-react-native/pressable"
           },
           {
-            "comment": "Bump @uifabricshared/foundation-composable to v0.9.0",
+            "comment": "Bump @eluifabricshared/foundation-composable to v0.9.0",
             "author": "67026167+chiuam@users.noreply.github.com",
             "commit": "68dd61bd45ca8ffacc1580e468f3c01810e3093e",
             "package": "@fluentui-react-native/pressable"

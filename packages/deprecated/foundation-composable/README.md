@@ -145,7 +145,7 @@ The `Slots` parameter allows plugging different react types into a complex compo
 ```tsx
 /** @jsxRuntime classic */
 /* @jsx withSlots */
-import { withSlots } from '@uifabricshared/foundation-composable';
+import { withSlots } from '@eluifabricshared/foundation-composable';
 
 render: (Slots: ISlots<IMySlotProps>, renderData, ...children) => {
   // do some work

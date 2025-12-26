@@ -1081,7 +1081,7 @@
             "package": "@fluentui-react-native/experimental-stack"
           },
           {
-            "comment": "Bump @uifabricshared/theming-ramp to v0.15.0",
+            "comment": "Bump @eluifabricshared/theming-ramp to v0.15.0",
             "author": "jasonmo@microsoft.com",
             "commit": "e506337e109ef24e675c2ac794179db86fcb7e86",
             "package": "@fluentui-react-native/experimental-stack"
@@ -1131,7 +1131,7 @@
             "package": "@fluentui-react-native/experimental-stack"
           },
           {
-            "comment": "Bump @uifabricshared/theming-ramp to v0.15.0",
+            "comment": "Bump @eluifabricshared/theming-ramp to v0.15.0",
             "author": "ruaraki@microsoft.com",
             "commit": "56ccce452d0dbbd5c24f53ebdd467f2d01dda694",
             "package": "@fluentui-react-native/experimental-stack"

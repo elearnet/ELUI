@@ -1,4 +1,4 @@
-# Change Log - @uifabricshared/foundation-settings
+# Change Log - @eluifabricshared/foundation-settings
 
 <!-- This log was last generated on Tue, 05 Aug 2025 18:50:39 GMT and should not be manually modified. -->
 

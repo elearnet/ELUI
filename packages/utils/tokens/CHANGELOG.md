@@ -463,7 +463,7 @@ Wed, 25 May 2022 18:43:10 GMT
 
 - Add text implementation v2 (email not defined)
 - Bump @fluentui-react-native/theme-types to v0.17.0
-- Bump @uifabricshared/theming-ramp to v0.16.11
+- Bump @eluifabricshared/theming-ramp to v0.16.11
 
 ### Patches
 
@@ -486,7 +486,7 @@ Sat, 21 May 2022 01:47:57 GMT
 
 - Separate out elevation from iOS Shadow styles (sanajmi@microsoft.com)
 - Bump @fluentui-react-native/theme-types to v0.15.0
-- Bump @uifabricshared/theming-ramp to v0.16.9
+- Bump @eluifabricshared/theming-ramp to v0.16.9
 
 ## 0.12.0
 
@@ -503,7 +503,7 @@ Thu, 28 Apr 2022 19:09:51 GMT
 ### Patches
 
 - Bump @fluentui-react-native/theme-types to v0.14.3
-- Bump @uifabricshared/theming-ramp to v0.16.8
+- Bump @eluifabricshared/theming-ramp to v0.16.8
 
 ## 0.11.10
 
@@ -512,7 +512,7 @@ Wed, 27 Apr 2022 19:30:38 GMT
 ### Patches
 
 - Bump @fluentui-react-native/theme-types to v0.14.2
-- Bump @uifabricshared/theming-ramp to v0.16.7
+- Bump @eluifabricshared/theming-ramp to v0.16.7
 
 ## 0.11.9
 
@@ -523,8 +523,8 @@ Thu, 31 Mar 2022 07:27:48 GMT
 - Ban `export *` in index files for better tree-shakeability (4123478+tido64@users.noreply.github.com)
 - Bump @fluentui-react-native/adapters to v0.8.5
 - Bump @fluentui-react-native/theme-types to v0.14.1
-- Bump @uifabricshared/foundation-tokens to v0.11.3
-- Bump @uifabricshared/theming-ramp to v0.16.6
+- Bump @eluifabricshared/foundation-tokens to v0.11.3
+- Bump @eluifabricshared/theming-ramp to v0.16.6
 
 ## 0.11.8
 
@@ -541,7 +541,7 @@ Thu, 03 Mar 2022 20:20:09 GMT
 ### Patches
 
 - Bump @fluentui-react-native/theme-types to v0.14.0
-- Bump @uifabricshared/theming-ramp to v0.16.5
+- Bump @eluifabricshared/theming-ramp to v0.16.5
 
 ## 0.11.6
 
@@ -559,7 +559,7 @@ Fri, 14 Jan 2022 01:00:04 GMT
 
 - fix disabled button (email not defined)
 - Bump @fluentui-react-native/theme-types to v0.13.3
-- Bump @uifabricshared/theming-ramp to v0.16.4
+- Bump @eluifabricshared/theming-ramp to v0.16.4
 
 ## 0.11.4
 
@@ -568,7 +568,7 @@ Thu, 06 Jan 2022 23:14:38 GMT
 ### Patches
 
 - Bump @fluentui-react-native/theme-types to v0.13.2
-- Bump @uifabricshared/theming-ramp to v0.16.3
+- Bump @eluifabricshared/theming-ramp to v0.16.3
 
 ## 0.11.3
 
@@ -579,8 +579,8 @@ Mon, 20 Dec 2021 22:56:01 GMT
 - Add repository property to all package.json files (ruaraki@microsoft.com)
 - Bump @fluentui-react-native/adapters to v0.8.2
 - Bump @fluentui-react-native/theme-types to v0.13.1
-- Bump @uifabricshared/foundation-tokens to v0.11.2
-- Bump @uifabricshared/theming-ramp to v0.16.2
+- Bump @eluifabricshared/foundation-tokens to v0.11.2
+- Bump @eluifabricshared/theming-ramp to v0.16.2
 
 ## 0.11.2
 
@@ -589,8 +589,8 @@ Sat, 18 Dec 2021 04:15:05 GMT
 ### Patches
 
 - Update to TypeScript 4.5.4. (afoxman@microsoft.com)
-- Bump @uifabricshared/foundation-tokens to v0.11.1
-- Bump @uifabricshared/theming-ramp to v0.16.1
+- Bump @eluifabricshared/foundation-tokens to v0.11.1
+- Bump @eluifabricshared/theming-ramp to v0.16.1
 
 ## 0.11.1
 
@@ -611,8 +611,8 @@ Wed, 17 Nov 2021 19:28:07 GMT
 ### Patches
 
 - Bump @fluentui-react-native/adapters to v0.8.0 (afoxman@microsoft.com)
-- Bump @uifabricshared/foundation-tokens to v0.11.0 (afoxman@microsoft.com)
-- Bump @uifabricshared/theming-ramp to v0.16.0 (afoxman@microsoft.com)
+- Bump @eluifabricshared/foundation-tokens to v0.11.0 (afoxman@microsoft.com)
+- Bump @eluifabricshared/theming-ramp to v0.16.0 (afoxman@microsoft.com)
 - Bump @fluentui-react-native/theme-types to v0.13.0 (afoxman@microsoft.com)
 
 ## 0.10.3
@@ -621,7 +621,7 @@ Mon, 01 Nov 2021 18:53:37 GMT
 
 ### Patches
 
-- Bump @uifabricshared/theming-ramp to v0.15.11 (ruaraki@microsoft.com)
+- Bump @eluifabricshared/theming-ramp to v0.15.11 (ruaraki@microsoft.com)
 
 ## 0.10.2
 
@@ -669,7 +669,7 @@ Thu, 09 Sep 2021 20:03:01 GMT
 
 ### Patches
 
-- Bump @uifabricshared/theming-ramp to v0.15.7 (ruaraki@microsoft.com)
+- Bump @eluifabricshared/theming-ramp to v0.15.7 (ruaraki@microsoft.com)
 
 ## 0.9.22
 
@@ -709,7 +709,7 @@ Wed, 18 Aug 2021 23:00:57 GMT
 
 ### Patches
 
-- Bump @uifabricshared/theming-ramp to v0.15.4 (ruaraki@microsoft.com)
+- Bump @eluifabricshared/theming-ramp to v0.15.4 (ruaraki@microsoft.com)
 
 ## 0.9.17
 
@@ -725,7 +725,7 @@ Thu, 12 Aug 2021 17:23:44 GMT
 
 ### Patches
 
-- Bump @uifabricshared/theming-ramp to v0.15.2 (ruaraki@microsoft.com)
+- Bump @eluifabricshared/theming-ramp to v0.15.2 (ruaraki@microsoft.com)
 
 ## 0.9.15
 
@@ -733,7 +733,7 @@ Tue, 10 Aug 2021 21:12:30 GMT
 
 ### Patches
 
-- Bump @uifabricshared/theming-ramp to v0.15.1 (ruaraki@microsoft.com)
+- Bump @eluifabricshared/theming-ramp to v0.15.1 (ruaraki@microsoft.com)
 
 ## 0.9.14
 

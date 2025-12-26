@@ -1,4 +1,4 @@
-# Change Log - @uifabricshared/theming-ramp
+# Change Log - @eluifabricshared/theming-ramp
 
 <!-- This log was last generated on Tue, 05 Aug 2025 18:50:39 GMT and should not be manually modified. -->
 
@@ -118,7 +118,7 @@ Thu, 09 Nov 2023 02:39:11 GMT
 ### Patches
 
 - Bump @fluentui-react-native/theme-types to v0.33.0
-- Bump @uifabricshared/foundation-settings to v0.14.0
+- Bump @eluifabricshared/foundation-settings to v0.14.0
 
 ## 0.19.4
 
@@ -145,7 +145,7 @@ Wed, 09 Aug 2023 22:02:15 GMT
 
 - Result of yarn (ruaraki@microsoft.com)
 - Bump @fluentui-react-native/immutable-merge to v1.2.1
-- Bump @uifabricshared/foundation-settings to v0.13.2
+- Bump @eluifabricshared/foundation-settings to v0.13.2
 
 ## 0.19.0
 
@@ -154,7 +154,7 @@ Mon, 12 Jun 2023 17:46:44 GMT
 ### Minor changes
 
 - Changes for treeshake to work (ayushsinghs@yahoo.in)
-- Bump @uifabricshared/foundation-settings to v0.13.1
+- Bump @eluifabricshared/foundation-settings to v0.13.1
 
 ## 0.18.0
 
@@ -163,7 +163,7 @@ Mon, 05 Jun 2023 19:26:25 GMT
 ### Minor changes
 
 - Upgrade to React Native 0.71 (sanajmi@microsoft.com)
-- Bump @uifabricshared/foundation-settings to v0.13.0
+- Bump @eluifabricshared/foundation-settings to v0.13.0
 - Bump @fluentui-react-native/immutable-merge to v1.2.0
 - Bump @fluentui-react-native/theme-types to v0.32.0
 
@@ -206,7 +206,7 @@ Fri, 24 Feb 2023 20:39:57 GMT
 ### Patches
 
 - Order imports (78454019+lyzhan7@users.noreply.github.com)
-- Bump @uifabricshared/foundation-settings to v0.12.3
+- Bump @eluifabricshared/foundation-settings to v0.12.3
 - Bump @fluentui-react-native/theme-types to v0.30.3
 
 ## 0.17.19
@@ -216,7 +216,7 @@ Wed, 01 Feb 2023 22:33:17 GMT
 ### Patches
 
 - Enable @typescript-eslint/consistent-type-imports (30809111+acoates-ms@users.noreply.github.com)
-- Bump @uifabricshared/foundation-settings to v0.12.2
+- Bump @eluifabricshared/foundation-settings to v0.12.2
 - Bump @fluentui-react-native/immutable-merge to v1.1.8
 - Bump @fluentui-react-native/theme-types to v0.30.2
 
@@ -346,7 +346,7 @@ Fri, 30 Sep 2022 00:54:37 GMT
 
 ### Patches
 
-- Bump @uifabricshared/foundation-settings to v0.12.1
+- Bump @eluifabricshared/foundation-settings to v0.12.1
 - Bump @fluentui-react-native/theme-types to v0.19.2
 
 ## 0.17.2
@@ -372,7 +372,7 @@ Thu, 14 Jul 2022 18:09:50 GMT
 ### Minor changes
 
 - Update to React Native 0.66 (sanajmi@microsoft.com)
-- Bump @uifabricshared/foundation-settings to v0.12.0
+- Bump @eluifabricshared/foundation-settings to v0.12.0
 - Bump @fluentui-react-native/theme-types to v0.18.0
 
 ## 0.16.11
@@ -416,7 +416,7 @@ Thu, 31 Mar 2022 07:27:48 GMT
 ### Patches
 
 - Ban `export *` in index files for better tree-shakeability (4123478+tido64@users.noreply.github.com)
-- Bump @uifabricshared/foundation-settings to v0.11.3
+- Bump @eluifabricshared/foundation-settings to v0.11.3
 - Bump @fluentui-react-native/immutable-merge to v1.1.7
 - Bump @fluentui-react-native/theme-types to v0.14.1
 
@@ -452,7 +452,7 @@ Mon, 20 Dec 2021 22:56:02 GMT
 ### Patches
 
 - Add repository property to all package.json files (ruaraki@microsoft.com)
-- Bump @uifabricshared/foundation-settings to v0.11.2
+- Bump @eluifabricshared/foundation-settings to v0.11.2
 - Bump @fluentui-react-native/immutable-merge to v1.1.6
 - Bump @fluentui-react-native/theme-types to v0.13.1
 
@@ -462,7 +462,7 @@ Sat, 18 Dec 2021 04:15:05 GMT
 
 ### Patches
 
-- Bump @uifabricshared/foundation-settings to v0.11.1
+- Bump @eluifabricshared/foundation-settings to v0.11.1
 - Bump @fluentui-react-native/immutable-merge to v1.1.5
 
 ## 0.16.0
@@ -475,7 +475,7 @@ Wed, 17 Nov 2021 19:28:07 GMT
 
 ### Patches
 
-- Bump @uifabricshared/foundation-settings to v0.11.0 (afoxman@microsoft.com)
+- Bump @eluifabricshared/foundation-settings to v0.11.0 (afoxman@microsoft.com)
 - Bump @fluentui-react-native/theme-types to v0.13.0 (afoxman@microsoft.com)
 - Bump @fluentui-react-native/test-tools to v0.1.1 (afoxman@microsoft.com)
 
@@ -493,7 +493,7 @@ Mon, 25 Oct 2021 19:24:43 GMT
 
 ### Patches
 
-- Bump @uifabricshared/foundation-settings to v0.10.3 (ruaraki@microsoft.com)
+- Bump @eluifabricshared/foundation-settings to v0.10.3 (ruaraki@microsoft.com)
 
 ## 0.15.9
 
@@ -578,7 +578,7 @@ Wed, 04 Aug 2021 06:26:25 GMT
 ### Patches
 
 - Bump @fluentui-react-native/immutable-merge to v1.1.3 (67026167+chiuam@users.noreply.github.com)
-- Bump @uifabricshared/foundation-settings to v0.10.0 (67026167+chiuam@users.noreply.github.com)
+- Bump @eluifabricshared/foundation-settings to v0.10.0 (67026167+chiuam@users.noreply.github.com)
 - Bump @fluentui-react-native/theme-types to v0.9.3 (67026167+chiuam@users.noreply.github.com)
 - Bump @fluentui-react-native/test-tools to v0.1.1 (67026167+chiuam@users.noreply.github.com)
 

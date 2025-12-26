@@ -279,7 +279,7 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/checkbox",
-            "comment": "Bump @uifabricshared/foundation-compose to v1.14.21",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.14.21",
             "commit": "not available"
           }
         ]
@@ -318,7 +318,7 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/checkbox",
-            "comment": "Bump @uifabricshared/foundation-compose to v1.14.20",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.14.20",
             "commit": "not available"
           }
         ]
@@ -375,7 +375,7 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/checkbox",
-            "comment": "Bump @uifabricshared/foundation-compose to v1.14.19",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.14.19",
             "commit": "not available"
           }
         ]
@@ -432,7 +432,7 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/checkbox",
-            "comment": "Bump @uifabricshared/foundation-compose to v1.14.18",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.14.18",
             "commit": "not available"
           }
         ]
@@ -489,7 +489,7 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/checkbox",
-            "comment": "Bump @uifabricshared/foundation-compose to v1.14.17",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.14.17",
             "commit": "not available"
           }
         ]
@@ -546,7 +546,7 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/checkbox",
-            "comment": "Bump @uifabricshared/foundation-compose to v1.14.16",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.14.16",
             "commit": "not available"
           }
         ]
@@ -585,7 +585,7 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/checkbox",
-            "comment": "Bump @uifabricshared/foundation-compose to v1.14.15",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.14.15",
             "commit": "not available"
           }
         ]
@@ -642,7 +642,7 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/checkbox",
-            "comment": "Bump @uifabricshared/foundation-compose to v1.14.14",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.14.14",
             "commit": "not available"
           }
         ]
@@ -723,19 +723,19 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/checkbox",
-            "comment": "Bump @uifabricshared/foundation-composable to v0.12.3",
+            "comment": "Bump @eluifabricshared/foundation-composable to v0.12.3",
             "commit": "not available"
           },
           {
             "author": "beachball",
             "package": "@fluentui-react-native/checkbox",
-            "comment": "Bump @uifabricshared/foundation-compose to v1.14.13",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.14.13",
             "commit": "not available"
           },
           {
             "author": "beachball",
             "package": "@fluentui-react-native/checkbox",
-            "comment": "Bump @uifabricshared/foundation-settings to v0.14.0",
+            "comment": "Bump @eluifabricshared/foundation-settings to v0.14.0",
             "commit": "not available"
           }
         ]
@@ -798,7 +798,7 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/checkbox",
-            "comment": "Bump @uifabricshared/foundation-compose to v1.14.12",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.14.12",
             "commit": "not available"
           }
         ]
@@ -855,7 +855,7 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/checkbox",
-            "comment": "Bump @uifabricshared/foundation-compose to v1.14.10",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.14.10",
             "commit": "not available"
           }
         ]
@@ -894,7 +894,7 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/checkbox",
-            "comment": "Bump @uifabricshared/foundation-compose to v1.14.9",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.14.9",
             "commit": "not available"
           }
         ]
@@ -966,7 +966,7 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/checkbox",
-            "comment": "Bump @uifabricshared/foundation-compose to v1.14.8",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.14.8",
             "commit": "not available"
           }
         ]
@@ -993,7 +993,7 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/checkbox",
-            "comment": "Bump @uifabricshared/foundation-compose to v1.14.7",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.14.7",
             "commit": "not available"
           }
         ]
@@ -1065,7 +1065,7 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/checkbox",
-            "comment": "Bump @uifabricshared/foundation-compose to v1.14.6",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.14.6",
             "commit": "not available"
           }
         ]
@@ -1128,19 +1128,19 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/checkbox",
-            "comment": "Bump @uifabricshared/foundation-composable to v0.12.2",
+            "comment": "Bump @eluifabricshared/foundation-composable to v0.12.2",
             "commit": "not available"
           },
           {
             "author": "beachball",
             "package": "@fluentui-react-native/checkbox",
-            "comment": "Bump @uifabricshared/foundation-compose to v1.14.5",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.14.5",
             "commit": "not available"
           },
           {
             "author": "beachball",
             "package": "@fluentui-react-native/checkbox",
-            "comment": "Bump @uifabricshared/foundation-settings to v0.13.2",
+            "comment": "Bump @eluifabricshared/foundation-settings to v0.13.2",
             "commit": "not available"
           }
         ]
@@ -1179,7 +1179,7 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/checkbox",
-            "comment": "Bump @uifabricshared/foundation-compose to v1.14.4",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.14.4",
             "commit": "not available"
           }
         ]
@@ -1218,7 +1218,7 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/checkbox",
-            "comment": "Bump @uifabricshared/foundation-compose to v1.14.3",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.14.3",
             "commit": "225d20784228abaa4b80bd12b57d2c6972d9abd4"
           }
         ]
@@ -1275,7 +1275,7 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/checkbox",
-            "comment": "Bump @uifabricshared/foundation-compose to v1.14.2",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.14.2",
             "commit": "d2f6f8d12972593821ec0e2764953efd6dafb1a2"
           }
         ]
@@ -1389,19 +1389,19 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/checkbox",
-            "comment": "Bump @uifabricshared/foundation-compose to v1.14.1",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.14.1",
             "commit": "6530042f4f24cbb296337a8bcf5fb32a09cc6378"
           },
           {
             "author": "beachball",
             "package": "@fluentui-react-native/checkbox",
-            "comment": "Bump @uifabricshared/foundation-composable to v0.12.1",
+            "comment": "Bump @eluifabricshared/foundation-composable to v0.12.1",
             "commit": "6530042f4f24cbb296337a8bcf5fb32a09cc6378"
           },
           {
             "author": "beachball",
             "package": "@fluentui-react-native/checkbox",
-            "comment": "Bump @uifabricshared/foundation-settings to v0.13.1",
+            "comment": "Bump @eluifabricshared/foundation-settings to v0.13.1",
             "commit": "6530042f4f24cbb296337a8bcf5fb32a09cc6378"
           }
         ]
@@ -1497,19 +1497,19 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/checkbox",
-            "comment": "Bump @uifabricshared/foundation-compose to v1.14.0",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.14.0",
             "commit": "8c0f9d27e34913da82c00299c12c399877257325"
           },
           {
             "author": "beachball",
             "package": "@fluentui-react-native/checkbox",
-            "comment": "Bump @uifabricshared/foundation-composable to v0.12.0",
+            "comment": "Bump @eluifabricshared/foundation-composable to v0.12.0",
             "commit": "8c0f9d27e34913da82c00299c12c399877257325"
           },
           {
             "author": "beachball",
             "package": "@fluentui-react-native/checkbox",
-            "comment": "Bump @uifabricshared/foundation-settings to v0.13.0",
+            "comment": "Bump @eluifabricshared/foundation-settings to v0.13.0",
             "commit": "8c0f9d27e34913da82c00299c12c399877257325"
           }
         ]
@@ -1566,7 +1566,7 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/checkbox",
-            "comment": "Bump @uifabricshared/foundation-compose to v1.13.10",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.13.10",
             "commit": "09fa3b65fd9d29f4dc4769e1e479fb5a82812979"
           }
         ]
@@ -1623,7 +1623,7 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/checkbox",
-            "comment": "Bump @uifabricshared/foundation-compose to v1.13.9",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.13.9",
             "commit": "52a53e376865d500b73f26ea9935e13036b04b1a"
           }
         ]
@@ -1764,7 +1764,7 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/checkbox",
-            "comment": "Bump @uifabricshared/foundation-compose to v1.13.8",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.13.8",
             "commit": "e706a7afbd63d528878eadd179d5a91210ed62f6"
           }
         ]
@@ -1815,7 +1815,7 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/checkbox",
-            "comment": "Bump @uifabricshared/foundation-compose to v1.13.7",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.13.7",
             "commit": "601309349ca2bc18780a3fb71c59337f7c26f9bf"
           }
         ]
@@ -1872,7 +1872,7 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/checkbox",
-            "comment": "Bump @uifabricshared/foundation-compose to v1.13.6",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.13.6",
             "commit": "b2d39b11dbaa12600bd96a9d54e0ebd013d9597f"
           }
         ]
@@ -1938,7 +1938,7 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/checkbox",
-            "comment": "Bump @uifabricshared/foundation-compose to v1.13.5",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.13.5",
             "commit": "6c33cfe45061ab74b7eee11b78341c74f88f9473"
           }
         ]
@@ -2016,7 +2016,7 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/checkbox",
-            "comment": "Bump @uifabricshared/foundation-compose to v1.13.4",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.13.4",
             "commit": "4659b74650377d2f746a81a321346a481816a5af"
           }
         ]
@@ -2118,19 +2118,19 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/checkbox",
-            "comment": "Bump @uifabricshared/foundation-compose to v1.13.3",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.13.3",
             "commit": "743bd1507af336a62946361f3fe3c800ae5bd4c2"
           },
           {
             "author": "beachball",
             "package": "@fluentui-react-native/checkbox",
-            "comment": "Bump @uifabricshared/foundation-composable to v0.11.3",
+            "comment": "Bump @eluifabricshared/foundation-composable to v0.11.3",
             "commit": "743bd1507af336a62946361f3fe3c800ae5bd4c2"
           },
           {
             "author": "beachball",
             "package": "@fluentui-react-native/checkbox",
-            "comment": "Bump @uifabricshared/foundation-settings to v0.12.3",
+            "comment": "Bump @eluifabricshared/foundation-settings to v0.12.3",
             "commit": "743bd1507af336a62946361f3fe3c800ae5bd4c2"
           }
         ]
@@ -2175,7 +2175,7 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/checkbox",
-            "comment": "Bump @uifabricshared/foundation-compose to v1.13.2",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.13.2",
             "commit": "a266ece54bfecbd7edd912a26f46dae655bf48ef"
           }
         ]
@@ -2235,7 +2235,7 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/checkbox",
-            "comment": "Bump @uifabricshared/foundation-compose to v1.13.1",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.13.1",
             "commit": "271dc7378669e31e355a4ca8f131a96872d8049a"
           }
         ]
@@ -2274,7 +2274,7 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/checkbox",
-            "comment": "Bump @uifabricshared/foundation-compose to v1.13.0",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.13.0",
             "commit": "83735cdac7bd038933e31191400008b3187e3eb1"
           }
         ]
@@ -2319,7 +2319,7 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/checkbox",
-            "comment": "Bump @uifabricshared/foundation-compose to v1.12.39",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.12.39",
             "commit": "8babef935750d57271f466a1c446e6531ee1b0a5"
           }
         ]
@@ -2388,19 +2388,19 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/checkbox",
-            "comment": "Bump @uifabricshared/foundation-compose to v1.12.38",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.12.38",
             "commit": "2d0138c80d7512b905fcf32583760bec2b911910"
           },
           {
             "author": "beachball",
             "package": "@fluentui-react-native/checkbox",
-            "comment": "Bump @uifabricshared/foundation-composable to v0.11.2",
+            "comment": "Bump @eluifabricshared/foundation-composable to v0.11.2",
             "commit": "2d0138c80d7512b905fcf32583760bec2b911910"
           },
           {
             "author": "beachball",
             "package": "@fluentui-react-native/checkbox",
-            "comment": "Bump @uifabricshared/foundation-settings to v0.12.2",
+            "comment": "Bump @eluifabricshared/foundation-settings to v0.12.2",
             "commit": "2d0138c80d7512b905fcf32583760bec2b911910"
           }
         ]
@@ -2466,7 +2466,7 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/checkbox",
-            "comment": "Bump @uifabricshared/foundation-compose to v1.12.37",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.12.37",
             "commit": "f6f403b2efe86a229448a618b043601ceefd9a5f"
           }
         ]
@@ -2517,7 +2517,7 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/checkbox",
-            "comment": "Bump @uifabricshared/foundation-compose to v1.12.36",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.12.36",
             "commit": "391f3d691e286300dfad37cad539bed54d4436b4"
           }
         ]
@@ -2577,7 +2577,7 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/checkbox",
-            "comment": "Bump @uifabricshared/foundation-compose to v1.12.35",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.12.35",
             "commit": "c1e32c4ac99ccc1dd2b4279b970e9d3b2507b1db"
           }
         ]
@@ -2628,7 +2628,7 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/checkbox",
-            "comment": "Bump @uifabricshared/foundation-compose to v1.12.34",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.12.34",
             "commit": "f7626f6eb1f6c267c40c60c9aef8b8cd899a046b"
           }
         ]
@@ -2679,7 +2679,7 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/checkbox",
-            "comment": "Bump @uifabricshared/foundation-compose to v1.12.33",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.12.33",
             "commit": "bd23a4ac5dd35729323268e384aeb1e970fce4ac"
           }
         ]
@@ -2733,7 +2733,7 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/checkbox",
-            "comment": "Bump @uifabricshared/foundation-compose to v1.12.32",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.12.32",
             "commit": "17bf1b56555ea10ad474c765d447718a1742b982"
           }
         ]
@@ -2778,7 +2778,7 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/checkbox",
-            "comment": "Bump @uifabricshared/foundation-compose to v1.12.31",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.12.31",
             "commit": "984ee826e94da2e7dabf162d02007727adba53ac"
           }
         ]
@@ -2967,7 +2967,7 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/checkbox",
-            "comment": "Bump @uifabricshared/foundation-compose to v1.12.30",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.12.30",
             "commit": "6d8afaea8495b16c2acd8aa4d1de62036110968c"
           }
         ]
@@ -3033,7 +3033,7 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/checkbox",
-            "comment": "Bump @uifabricshared/foundation-compose to v1.12.29",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.12.29",
             "commit": "9877f2f456807b697afd5aefce756a493a607746"
           }
         ]
@@ -3078,7 +3078,7 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/checkbox",
-            "comment": "Bump @uifabricshared/foundation-compose to v1.12.28",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.12.28",
             "commit": "19c7982576e025a7601af0fb727ae6850b8d4aea"
           }
         ]
@@ -3159,7 +3159,7 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/checkbox",
-            "comment": "Bump @uifabricshared/foundation-compose to v1.12.27",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.12.27",
             "commit": "ac1a77d965fb36b5ecdcfed3c7beaff4c93b1670"
           }
         ]
@@ -3210,7 +3210,7 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/checkbox",
-            "comment": "Bump @uifabricshared/foundation-compose to v1.12.26",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.12.26",
             "commit": "837811eb630178f3f6b5ec201f89b30a30afb3f0"
           }
         ]
@@ -3255,7 +3255,7 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/checkbox",
-            "comment": "Bump @uifabricshared/foundation-compose to v1.12.25",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.12.25",
             "commit": "194db935512b14a024c78b97466f6bf5cd94074b"
           }
         ]
@@ -3321,7 +3321,7 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/checkbox",
-            "comment": "Bump @uifabricshared/foundation-compose to v1.12.24",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.12.24",
             "commit": "8e94deaeff8869396c506ca186a614eb0acd9f93"
           }
         ]
@@ -3378,7 +3378,7 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/checkbox",
-            "comment": "Bump @uifabricshared/foundation-compose to v1.12.23",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.12.23",
             "commit": "9faf7ab61974a5d5f7dd0c5aa84a123a68d786f8"
           }
         ]
@@ -3444,7 +3444,7 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/checkbox",
-            "comment": "Bump @uifabricshared/foundation-compose to v1.12.22",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.12.22",
             "commit": "890ff26064088ee92d44bb8730b8629143533451"
           }
         ]
@@ -3489,7 +3489,7 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/checkbox",
-            "comment": "Bump @uifabricshared/foundation-compose to v1.12.21",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.12.21",
             "commit": "ac846edd3f16fd427bca196a070653adaf702450"
           }
         ]
@@ -3567,7 +3567,7 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/checkbox",
-            "comment": "Bump @uifabricshared/foundation-compose to v1.12.20",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.12.20",
             "commit": "b4bc2de7906d898e7a08e4fae106ae66023a49c0"
           }
         ]
@@ -3645,7 +3645,7 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/checkbox",
-            "comment": "Bump @uifabricshared/foundation-compose to v1.12.19",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.12.19",
             "commit": "892e038305667c72dd7c9af1e706ffe648a2d2ae"
           }
         ]
@@ -3690,7 +3690,7 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/checkbox",
-            "comment": "Bump @uifabricshared/foundation-compose to v1.12.18",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.12.18",
             "commit": "2a423f2b00d2039d1c67fc60b4d81b942e45a9dc"
           }
         ]
@@ -3741,7 +3741,7 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/checkbox",
-            "comment": "Bump @uifabricshared/foundation-compose to v1.12.17",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.12.17",
             "commit": "ddd021042b3e70af9dcc976f1d89e9c912defa65"
           }
         ]
@@ -3813,7 +3813,7 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/checkbox",
-            "comment": "Bump @uifabricshared/foundation-compose to v1.12.16",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.12.16",
             "commit": "ceeb4be38b8e0008315f65711c064c5fbd3d8bb8"
           }
         ]
@@ -3858,7 +3858,7 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/checkbox",
-            "comment": "Bump @uifabricshared/foundation-compose to v1.12.15",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.12.15",
             "commit": "1e46feedf33b4bddf2888af9c6134f2cd705fa7b"
           }
         ]
@@ -3897,7 +3897,7 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/checkbox",
-            "comment": "Bump @uifabricshared/foundation-compose to v1.12.14",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.12.14",
             "commit": "5a21fe82f7540f64ec4fe8937cf5f86f11d1c9df"
           }
         ]
@@ -3984,7 +3984,7 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/checkbox",
-            "comment": "Bump @uifabricshared/foundation-compose to v1.12.13",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.12.13",
             "commit": "14bd4084276efd59f022ab5074441eca421c96d0"
           }
         ]
@@ -4035,7 +4035,7 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/checkbox",
-            "comment": "Bump @uifabricshared/foundation-compose to v1.12.12",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.12.12",
             "commit": "7263bc3c7cd4796b28fadad4f14a73d967deda0f"
           }
         ]
@@ -4101,7 +4101,7 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/checkbox",
-            "comment": "Bump @uifabricshared/foundation-compose to v1.12.11",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.12.11",
             "commit": "e2edb2218d4c953ac465dc3460e2923441dfae5b"
           }
         ]
@@ -4152,7 +4152,7 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/checkbox",
-            "comment": "Bump @uifabricshared/foundation-compose to v1.12.10",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.12.10",
             "commit": "3547a335f47efb90f52c10443dc85f755046a324"
           }
         ]
@@ -4203,7 +4203,7 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/checkbox",
-            "comment": "Bump @uifabricshared/foundation-compose to v1.12.9",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.12.9",
             "commit": "b7330fc87faaea399ba9f7f40ca691a3cdad8ccf"
           }
         ]
@@ -4254,7 +4254,7 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/checkbox",
-            "comment": "Bump @uifabricshared/foundation-compose to v1.12.8",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.12.8",
             "commit": "32b6348d1077759b38f33ffb00e7ab9db8d2c77c"
           }
         ]
@@ -4305,7 +4305,7 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/checkbox",
-            "comment": "Bump @uifabricshared/foundation-compose to v1.12.7",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.12.7",
             "commit": "609f7988754b77b86f2ed51d0ce4714fb2152293"
           }
         ]
@@ -4380,19 +4380,19 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/checkbox",
-            "comment": "Bump @uifabricshared/foundation-compose to v1.12.6",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.12.6",
             "commit": "de9ddf75304295843613e144473e4fef3190f14b"
           },
           {
             "author": "beachball",
             "package": "@fluentui-react-native/checkbox",
-            "comment": "Bump @uifabricshared/foundation-composable to v0.11.1",
+            "comment": "Bump @eluifabricshared/foundation-composable to v0.11.1",
             "commit": "de9ddf75304295843613e144473e4fef3190f14b"
           },
           {
             "author": "beachball",
             "package": "@fluentui-react-native/checkbox",
-            "comment": "Bump @uifabricshared/foundation-settings to v0.12.1",
+            "comment": "Bump @eluifabricshared/foundation-settings to v0.12.1",
             "commit": "de9ddf75304295843613e144473e4fef3190f14b"
           }
         ]
@@ -4473,7 +4473,7 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/checkbox",
-            "comment": "Bump @uifabricshared/foundation-compose to v1.12.5",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.12.5",
             "commit": "6706e18d88a521539fdc717100516ec3ee4bb5e2"
           }
         ]
@@ -4518,7 +4518,7 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/checkbox",
-            "comment": "Bump @uifabricshared/foundation-compose to v1.12.4",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.12.4",
             "commit": "379d866e6ec5a3d954b5e945949467345f815513"
           }
         ]
@@ -4575,7 +4575,7 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/checkbox",
-            "comment": "Bump @uifabricshared/foundation-compose to v1.12.3",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.12.3",
             "commit": "bb45f425d71a2c9f4c8088ae2e15d93759b915bb"
           }
         ]
@@ -4656,7 +4656,7 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/checkbox",
-            "comment": "Bump @uifabricshared/foundation-compose to v1.12.2",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.12.2",
             "commit": "370259af6f245b97a9a9129d8defbdd30a0bbd9d"
           }
         ]
@@ -4808,7 +4808,7 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/checkbox",
-            "comment": "Bump @uifabricshared/foundation-compose to v1.12.1",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.12.1",
             "commit": "138a3ae19c80f405dd69525b808c627ef83ee0a0"
           }
         ]
@@ -4973,19 +4973,19 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/checkbox",
-            "comment": "Bump @uifabricshared/foundation-compose to v1.12.0",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.12.0",
             "commit": "155145b496a51b06bba73f8f9c6b89dc7b348c4b"
           },
           {
             "author": "beachball",
             "package": "@fluentui-react-native/checkbox",
-            "comment": "Bump @uifabricshared/foundation-composable to v0.11.0",
+            "comment": "Bump @eluifabricshared/foundation-composable to v0.11.0",
             "commit": "155145b496a51b06bba73f8f9c6b89dc7b348c4b"
           },
           {
             "author": "beachball",
             "package": "@fluentui-react-native/checkbox",
-            "comment": "Bump @uifabricshared/foundation-settings to v0.12.0",
+            "comment": "Bump @eluifabricshared/foundation-settings to v0.12.0",
             "commit": "155145b496a51b06bba73f8f9c6b89dc7b348c4b"
           }
         ]
@@ -5051,7 +5051,7 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/checkbox",
-            "comment": "Bump @uifabricshared/foundation-compose to v1.11.23",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.11.23",
             "commit": "c489bb685c8dbe94b7b6fe88957e7ce4d3c2d000"
           }
         ]
@@ -5273,7 +5273,7 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/checkbox",
-            "comment": "Bump @uifabricshared/foundation-compose to v1.11.22",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.11.22",
             "commit": "f4e881a5caef5a8258094f2a2ba674c62321886d"
           }
         ]
@@ -5375,7 +5375,7 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/checkbox",
-            "comment": "Bump @uifabricshared/foundation-compose to v1.11.20",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.11.20",
             "commit": "36ea0d81629f9326eb8c23912d9949381014dade"
           }
         ]
@@ -5486,7 +5486,7 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/checkbox",
-            "comment": "Bump @uifabricshared/foundation-compose to v1.11.19",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.11.19",
             "commit": "8cff404ca31eaa61017551a1d73fd3fdae7da132"
           }
         ]
@@ -5543,7 +5543,7 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/checkbox",
-            "comment": "Bump @uifabricshared/foundation-compose to v1.11.18",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.11.18",
             "commit": "f3481f50e20c6ab33f7f3ffca63e9f1e424fe2c1"
           }
         ]
@@ -5573,7 +5573,7 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/checkbox",
-            "comment": "Bump @uifabricshared/foundation-compose to v1.11.17",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.11.17",
             "commit": "9d96c6b126ce5293d5315054216af4bd3a447fbe"
           },
           {
@@ -5606,7 +5606,7 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/checkbox",
-            "comment": "Bump @uifabricshared/foundation-compose to v1.11.16",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.11.16",
             "commit": "cf5789633ef5230512cb21ab923cc9f71bfed4c1"
           },
           {
@@ -5711,7 +5711,7 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/checkbox",
-            "comment": "Bump @uifabricshared/foundation-compose to v1.11.15",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.11.15",
             "commit": "bcd4ac6dc74295095a0564905024ef32d6450cff"
           },
           {
@@ -5744,7 +5744,7 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/checkbox",
-            "comment": "Bump @uifabricshared/foundation-compose to v1.11.14",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.11.14",
             "commit": "c183b7eb02925bf1d1284ad1b3c80c0f2e0c442f"
           },
           {
@@ -5783,7 +5783,7 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/checkbox",
-            "comment": "Bump @uifabricshared/foundation-compose to v1.11.13",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.11.13",
             "commit": "c39b4436f2ca160a31ca1d7ca9fa8bf7d59512ed"
           },
           {
@@ -5819,13 +5819,13 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/checkbox",
-            "comment": "Bump @uifabricshared/foundation-composable to v0.10.3",
+            "comment": "Bump @eluifabricshared/foundation-composable to v0.10.3",
             "commit": "c39b4436f2ca160a31ca1d7ca9fa8bf7d59512ed"
           },
           {
             "author": "beachball",
             "package": "@fluentui-react-native/checkbox",
-            "comment": "Bump @uifabricshared/foundation-settings to v0.11.3",
+            "comment": "Bump @eluifabricshared/foundation-settings to v0.11.3",
             "commit": "c39b4436f2ca160a31ca1d7ca9fa8bf7d59512ed"
           }
         ]
@@ -5861,7 +5861,7 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/checkbox",
-            "comment": "Bump @uifabricshared/foundation-compose to v1.11.12",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.11.12",
             "commit": "0a18d2f8bb6505c6c6e2445ff3ba62ac79334872"
           },
           {
@@ -5954,7 +5954,7 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/checkbox",
-            "comment": "Bump @uifabricshared/foundation-compose to v1.11.11",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.11.11",
             "commit": "54222b74c7d5f16d1108fab470a6f549de8e9b45"
           },
           {
@@ -6089,7 +6089,7 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/checkbox",
-            "comment": "Bump @uifabricshared/foundation-compose to v1.11.10",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.11.10",
             "commit": "039a993d13ae01ff2212e8b91295d1ed5676c82d"
           },
           {
@@ -6143,7 +6143,7 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/checkbox",
-            "comment": "Bump @uifabricshared/foundation-compose to v1.11.9",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.11.9",
             "commit": "c42dec6d24b24ded9a85dd11076e49d9b92980aa"
           },
           {
@@ -6274,7 +6274,7 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/checkbox",
-            "comment": "Bump @uifabricshared/foundation-compose to v1.11.8",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.11.8",
             "commit": "5ff1c8ba46f401679119d71fe4035642dc175e15"
           },
           {
@@ -6321,7 +6321,7 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/checkbox",
-            "comment": "Bump @uifabricshared/foundation-compose to v1.11.7",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.11.7",
             "commit": "163defba33412f6f44117750a540b8fdecd3bdca"
           },
           {
@@ -6360,7 +6360,7 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/checkbox",
-            "comment": "Bump @uifabricshared/foundation-compose to v1.11.6",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.11.6",
             "commit": "58c54eff228ec071098f3c18a91f11b4a89a6c15"
           },
           {
@@ -6399,7 +6399,7 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/checkbox",
-            "comment": "Bump @uifabricshared/foundation-compose to v1.11.5",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.11.5",
             "commit": "06307699c93ffe31a57f8f1c1fb60beec83583e0"
           },
           {
@@ -6480,7 +6480,7 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/checkbox",
-            "comment": "Bump @uifabricshared/foundation-compose to v1.11.4",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.11.4",
             "commit": "bc86b4fbf5f07c0bfbc950a1a99a3cf4b35807d1"
           },
           {
@@ -6516,13 +6516,13 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/checkbox",
-            "comment": "Bump @uifabricshared/foundation-composable to v0.10.2",
+            "comment": "Bump @eluifabricshared/foundation-composable to v0.10.2",
             "commit": "bc86b4fbf5f07c0bfbc950a1a99a3cf4b35807d1"
           },
           {
             "author": "beachball",
             "package": "@fluentui-react-native/checkbox",
-            "comment": "Bump @uifabricshared/foundation-settings to v0.11.2",
+            "comment": "Bump @eluifabricshared/foundation-settings to v0.11.2",
             "commit": "bc86b4fbf5f07c0bfbc950a1a99a3cf4b35807d1"
           }
         ]
@@ -6558,7 +6558,7 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/checkbox",
-            "comment": "Bump @uifabricshared/foundation-compose to v1.11.3",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.11.3",
             "commit": "38fe241a385ecd1ce4e51b5bcba57a9dd0426789"
           },
           {
@@ -6588,13 +6588,13 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/checkbox",
-            "comment": "Bump @uifabricshared/foundation-composable to v0.10.1",
+            "comment": "Bump @eluifabricshared/foundation-composable to v0.10.1",
             "commit": "38fe241a385ecd1ce4e51b5bcba57a9dd0426789"
           },
           {
             "author": "beachball",
             "package": "@fluentui-react-native/checkbox",
-            "comment": "Bump @uifabricshared/foundation-settings to v0.11.1",
+            "comment": "Bump @eluifabricshared/foundation-settings to v0.11.1",
             "commit": "38fe241a385ecd1ce4e51b5bcba57a9dd0426789"
           }
         ]
@@ -6651,7 +6651,7 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/checkbox",
-            "comment": "Bump @uifabricshared/foundation-compose to v1.11.2",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.11.2",
             "commit": "511aeb31982a5fb9dd2f7196c0c7217cc4a3dbc6"
           },
           {
@@ -6705,7 +6705,7 @@
           {
             "author": "beachball",
             "package": "@fluentui-react-native/checkbox",
-            "comment": "Bump @uifabricshared/foundation-compose to v1.11.1",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.11.1",
             "commit": "6a9f067ae2510481b6ff3512c10c08e7de84f86e"
           },
           {
@@ -6786,19 +6786,19 @@
             "package": "@fluentui-react-native/checkbox"
           },
           {
-            "comment": "Bump @uifabricshared/foundation-compose to v1.11.0",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.11.0",
             "author": "afoxman@microsoft.com",
             "commit": "f16d742b5c2d5b97e49ac1ef7b740cbf89fc42e6",
             "package": "@fluentui-react-native/checkbox"
           },
           {
-            "comment": "Bump @uifabricshared/foundation-composable to v0.10.0",
+            "comment": "Bump @eluifabricshared/foundation-composable to v0.10.0",
             "author": "afoxman@microsoft.com",
             "commit": "f16d742b5c2d5b97e49ac1ef7b740cbf89fc42e6",
             "package": "@fluentui-react-native/checkbox"
           },
           {
-            "comment": "Bump @uifabricshared/foundation-settings to v0.11.0",
+            "comment": "Bump @eluifabricshared/foundation-settings to v0.11.0",
             "author": "afoxman@microsoft.com",
             "commit": "f16d742b5c2d5b97e49ac1ef7b740cbf89fc42e6",
             "package": "@fluentui-react-native/checkbox"
@@ -6843,7 +6843,7 @@
       "comments": {
         "patch": [
           {
-            "comment": "Bump @uifabricshared/foundation-compose to v1.10.22",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.10.22",
             "author": "67026167+chiuam@users.noreply.github.com",
             "commit": "8baa72ed4ec06f90a51cf757e1924e946f76a537",
             "package": "@fluentui-react-native/checkbox"
@@ -6918,7 +6918,7 @@
       "comments": {
         "patch": [
           {
-            "comment": "Bump @uifabricshared/foundation-compose to v1.10.18",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.10.18",
             "author": "ruaraki@microsoft.com",
             "commit": "f759f09649d7fd9b8ea8ada78677f5cb65519f6e",
             "package": "@fluentui-react-native/checkbox"
@@ -7043,7 +7043,7 @@
       "comments": {
         "patch": [
           {
-            "comment": "Bump @uifabricshared/foundation-compose to v1.10.14",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.10.14",
             "author": "ruaraki@microsoft.com",
             "commit": "5f282af0873151b9f7a8eb75369619af42d092d4",
             "package": "@fluentui-react-native/checkbox"
@@ -7058,7 +7058,7 @@
       "comments": {
         "patch": [
           {
-            "comment": "Bump @uifabricshared/foundation-compose to v1.10.13",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.10.13",
             "author": "ruaraki@microsoft.com",
             "commit": "6a82ccdd6a0cf0226f59e1f81ec34a0eb7e3d912",
             "package": "@fluentui-react-native/checkbox"
@@ -7073,7 +7073,7 @@
       "comments": {
         "patch": [
           {
-            "comment": "Bump @uifabricshared/foundation-compose to v1.10.12",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.10.12",
             "author": "ruaraki@microsoft.com",
             "commit": "30bcd9859911c2bb83f2d6ea29dda12cc029265e",
             "package": "@fluentui-react-native/checkbox"
@@ -7225,7 +7225,7 @@
       "comments": {
         "patch": [
           {
-            "comment": "Bump @uifabricshared/foundation-compose to v1.10.9",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.10.9",
             "author": "ruaraki@microsoft.com",
             "commit": "345d1de930ff42359260da7f1e68a16059f4d763",
             "package": "@fluentui-react-native/checkbox"
@@ -7270,7 +7270,7 @@
       "comments": {
         "patch": [
           {
-            "comment": "Bump @uifabricshared/foundation-compose to v1.10.7",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.10.7",
             "author": "ruaraki@microsoft.com",
             "commit": "e524662e3e40fe45a2dcc6e2acd3aca1197b5b5a",
             "package": "@fluentui-react-native/checkbox"
@@ -7285,7 +7285,7 @@
       "comments": {
         "patch": [
           {
-            "comment": "Bump @uifabricshared/foundation-compose to v1.10.6",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.10.6",
             "author": "ruaraki@microsoft.com",
             "commit": "ce49f33c08add7892191cf840d2fdcccfd0a16bb",
             "package": "@fluentui-react-native/checkbox"
@@ -7315,7 +7315,7 @@
       "comments": {
         "patch": [
           {
-            "comment": "Bump @uifabricshared/foundation-compose to v1.10.4",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.10.4",
             "author": "ruaraki@microsoft.com",
             "commit": "18e08c6879e7d56088ed62ab090fea979a2c31f9",
             "package": "@fluentui-react-native/checkbox"
@@ -7338,7 +7338,7 @@
         ],
         "none": [
           {
-            "comment": "Bump @uifabricshared/foundation-compose to v1.10.3",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.10.3",
             "author": "jasonmo@microsoft.com",
             "commit": "e506337e109ef24e675c2ac794179db86fcb7e86",
             "package": "@fluentui-react-native/checkbox"
@@ -7362,13 +7362,13 @@
             "package": "@fluentui-react-native/checkbox"
           },
           {
-            "comment": "Bump @uifabricshared/foundation-settings to v0.10.1",
+            "comment": "Bump @eluifabricshared/foundation-settings to v0.10.1",
             "author": "jasonmo@microsoft.com",
             "commit": "e506337e109ef24e675c2ac794179db86fcb7e86",
             "package": "@fluentui-react-native/checkbox"
           },
           {
-            "comment": "Bump @uifabricshared/foundation-composable to v0.9.1",
+            "comment": "Bump @eluifabricshared/foundation-composable to v0.9.1",
             "author": "jasonmo@microsoft.com",
             "commit": "e506337e109ef24e675c2ac794179db86fcb7e86",
             "package": "@fluentui-react-native/checkbox"
@@ -7389,7 +7389,7 @@
       "comments": {
         "patch": [
           {
-            "comment": "Bump @uifabricshared/foundation-compose to v1.10.2",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.10.2",
             "author": "ruaraki@microsoft.com",
             "commit": "a8ae5b0cadbfb7ff6224b35a15995dd2def2ae45",
             "package": "@fluentui-react-native/checkbox"
@@ -7430,7 +7430,7 @@
             "package": "@fluentui-react-native/checkbox"
           },
           {
-            "comment": "Bump @uifabricshared/foundation-compose to v1.10.1",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.10.1",
             "author": "ruaraki@microsoft.com",
             "commit": "56ccce452d0dbbd5c24f53ebdd467f2d01dda694",
             "package": "@fluentui-react-native/checkbox"
@@ -7448,13 +7448,13 @@
             "package": "@fluentui-react-native/checkbox"
           },
           {
-            "comment": "Bump @uifabricshared/foundation-composable to v0.9.0",
+            "comment": "Bump @eluifabricshared/foundation-composable to v0.9.0",
             "author": "ruaraki@microsoft.com",
             "commit": "56ccce452d0dbbd5c24f53ebdd467f2d01dda694",
             "package": "@fluentui-react-native/checkbox"
           },
           {
-            "comment": "Bump @uifabricshared/foundation-settings to v0.10.0",
+            "comment": "Bump @eluifabricshared/foundation-settings to v0.10.0",
             "author": "ruaraki@microsoft.com",
             "commit": "56ccce452d0dbbd5c24f53ebdd467f2d01dda694",
             "package": "@fluentui-react-native/checkbox"
@@ -7516,19 +7516,19 @@
             "package": "@fluentui-react-native/checkbox"
           },
           {
-            "comment": "Bump @uifabricshared/foundation-compose to v1.10.0",
+            "comment": "Bump @eluifabricshared/foundation-compose to v1.10.0",
             "author": "67026167+chiuam@users.noreply.github.com",
             "commit": "68dd61bd45ca8ffacc1580e468f3c01810e3093e",
             "package": "@fluentui-react-native/checkbox"
           },
           {
-            "comment": "Bump @uifabricshared/foundation-settings to v0.10.0",
+            "comment": "Bump @eluifabricshared/foundation-settings to v0.10.0",
             "author": "67026167+chiuam@users.noreply.github.com",
             "commit": "68dd61bd45ca8ffacc1580e468f3c01810e3093e",
             "package": "@fluentui-react-native/checkbox"
           },
           {
-            "comment": "Bump @uifabricshared/foundation-composable to v0.9.0",
+            "comment": "Bump @eluifabricshared/foundation-composable to v0.9.0",
             "author": "67026167+chiuam@users.noreply.github.com",
             "commit": "68dd61bd45ca8ffacc1580e468f3c01810e3093e",
             "package": "@fluentui-react-native/checkbox"
